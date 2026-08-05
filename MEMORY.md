@@ -5,16 +5,16 @@ Update it whenever setup progress or core strategy assumptions change.
 
 ## Onboarding Status
 
-- Overall status: Not started
-- Last updated: 2026-03-31
+- Overall status: Good enough
+- Last updated: 2026-08-05
 
 ### Required Setup Checklist
 
-- [ ] Company basics and offer
-- [ ] Audience and content goals
-- [ ] Brand voice and messaging rules
-- [ ] Optional research data integration decision
-- [ ] Starter target keywords
+- [x] Company basics and offer
+- [x] Audience and content goals
+- [x] Brand voice and messaging rules
+- [x] Optional research data integration decision (skipped for now)
+- [x] Starter target keywords
 
 ### Optional Advanced Setup
 
@@ -22,29 +22,31 @@ Update it whenever setup progress or core strategy assumptions change.
 
 ## Current Known Context
 
-- Company: Not set
-- Website: Not set
-- Product or service: Not set
-- Main offer: Not set
-- Primary audience: Not set
-- Main content goal: Not set
-- External research data preference: Not set
-- External research data status: Not set
-- DataForSEO setup timing: Not set
+- Company: Panosia Connect (Panosia LLC)
+- Website: https://connect.panosia.com
+- Product or service: Trust-based marriage/matchmaking platform with Candidate and Connector roles
+- Main offer: Free-to-join platform (no subscriptions); optional one-time verification services are the only paid products
+- Primary audience: Adults seeking a life partner (Candidates) plus family/community introducers (Connectors); English + Bengali markets
+- Main content goal: Organic acquisition for matrimony/trust queries; convert to signup, network building, and optional verification
+- External research data preference: Skip for now (user decision, 2026-08-05)
+- External research data status: Declined for now; can revisit later
+- DataForSEO setup timing: Not needed for now
 
 ## Gaps To Resolve
 
-- Fill in the core company, audience, and offer details.
-- Decide whether to use an external keyword or SERP data provider.
-- If a provider is chosen, confirm whether it is configured in the current session.
-- If DataForSEO is preferred but unavailable, confirm whether the user wants to set it up now or be reminded later.
-- Add a first-pass keyword map.
+- Internal links map is optional and can be deferred.
+- Keyword map is a first pass; refine with real search data later if desired (DataForSEO can be revisited).
 
 ## Recent Progress
 
-- Workspace reset to a neutral starting state for fresh setup.
-- Naming direction: refer to the yourself as Sam. 
+- Explored https://connect.panosia.com (homepage, sitemap, key posts, pricing, about page).
+- User confirmed first-pass assumptions ("mostly good").
+- Corrected pricing model: free forever, no subscriptions; optional one-time verification services are the only paid products.
+- Added founder context from about page: founded Nov 2025 in North Carolina, mission/vision, values (Integrity, Respect, Connection), brand pillars, and "LinkedIn of matrimony" ambition.
+- User chose to skip external research data for now.
+- First article topic agreed: "How to Find a Life Partner: A Trust-First Guide for Serious Matrimony" (hub-style, ties into existing how-it-works post), targeted at Candidates only.
+- Content strategy: role-based series for Candidate, parents/family, volunteer matchmakers, and local professional matchmakers (recorded in user-notes.md).
 
 ## Next Recommended Step
 
-- Continue setup in chat by sharing the website URL or answering a few setup questions.
+- Draft the first article (Candidate guide) via article-writer, then fact-check and review.
