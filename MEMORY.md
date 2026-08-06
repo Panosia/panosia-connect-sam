@@ -46,7 +46,8 @@ Update it whenever setup progress or core strategy assumptions change.
 - User chose to skip external research data for now.
 - First article topic agreed: "How to Find a Life Partner: A Trust-First Guide for Serious Matrimony" (hub-style, ties into existing how-it-works post), targeted at Candidates only.
 - Content strategy: role-based series for Candidate, parents/family, volunteer matchmakers, and local professional matchmakers (recorded in user-notes.md).
+- First article drafted: drafts/how-to-find-a-life-partner-trust-first-guide-2026-08-05.md. Fact-checked and independently reviewed; publish-ready with only optional polish remaining. Required fixes incorporated: FTC romance-scam link corrected, background-check wording aligned to pricing page, verification mechanics updated to the new self-service flow (launch post linked).
 
 ## Next Recommended Step
 
-- Draft the first article (Candidate guide) via article-writer, then fact-check and review.
+- Publish the Candidate guide, add the Bengali (bn) version, or start the next article (parent/family guide).
