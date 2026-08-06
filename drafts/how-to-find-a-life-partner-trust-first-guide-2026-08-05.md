@@ -46,6 +46,14 @@ That's why the wisest Candidates treat the search as a shared effort. Tell the p
 
 On Panosia Connect, these helpers have a name: Connectors. A Connector is anyone in your existing network who vouches for you and facilitates introductions — a parent, sibling, friend, colleague, or community member. Connectors don't replace your judgment; they add the one thing a profile cannot: real-world context and accountability. You can read more about [what a Connector does](https://connect.panosia.com/posts/what-is-a-connector-and-why-it-matters) and why the role matters.
 
+## When Family Is Spread Across Countries
+
+For many Candidates, the people you want involved don't live in the same city — sometimes not the same country. Parents in Dhaka or Sylhet, a sibling in London, cousins in New York: getting everyone into one conversation before a decision is one of the hardest parts of a cross-border search.
+
+The usual workaround — one big WhatsApp thread, a shared photo album, a forwarded PDF — solves the coordination problem and creates a privacy one. Once a profile has traveled through a group chat spanning three countries, no one really controls who forwards it next.
+
+A trust-first approach handles this differently: family members and Connectors get their own access, on your terms, no matter where they live. A parent overseas can see relevant details and vouch for someone without you needing to forward anything or track who has which copy. Distance shouldn't force a choice between keeping your family involved and keeping your information contained.
+
 ## Search Where Trust Already Exists
 
 Where you search matters as much as how. Your first circle is your existing network: family contacts, community groups, religious and cultural organizations, and the people your parents respect. An introduction that arrives through a trusted channel carries weight a stranger's message never will.
@@ -101,7 +109,7 @@ If you're on Panosia Connect, this is all built in: approval-based access, revoc
 
 Verification is easy to misunderstand, so let's be plain about it. Identity verification confirms that a real person stands behind the profile: it matches your face and details against a government-issued ID, and checks that you're a real, present human.
 
-On Panosia Connect, you can complete [Digital ID Verification](https://connect.panosia.com/posts/self-service-identity-verification-feature-launch) yourself, from your phone — upload a government-issued ID, take a quick selfie, and finish a short liveness check. Most verifications are completed quickly, and the result is a clear badge on your profile. The Digital Background Check goes further, reviewing education, work history, and other personal details with a verifier and producing a detailed PDF report you can share with your family. In-person verification adds a human check on top of the digital one.
+Panosia Connect lets you complete [Digital ID Verification](https://connect.panosia.com/posts/self-service-identity-verification-feature-launch) yourself, from your phone — a government-issued ID, a quick selfie, and a short liveness check earn you a clear badge on your profile. The Digital Background Check goes further, reviewing education, work history, and other personal details with a verifier and producing a detailed PDF report you can share with your family. In-person verification adds a human check on top of the digital one.
 
 What verification does not do: it doesn't prove character, kindness, or compatibility. A verified profile can still be the wrong person for you. That's why it's a risk-reduction tool — not a guarantee.
 
@@ -118,3 +126,21 @@ What a trust-first search actually buys you is better odds and a clearer mind. Y
 A trusted matrimony isn't built on the widest net or the fastest reply. It's built on clarity, honesty, and patience — and so is the search. Start with your own answers, bring your family in early, and choose channels that respect your privacy.
 
 When you're ready, the natural next step is to create a profile and build your network — family included.
+
+## Frequently Asked Questions
+
+### How do I find a serious life partner?
+
+Start with clarity about your own values, lifestyle, and dealbreakers. Then involve people who know you well, and search through channels — your network, your community, or a platform — where identity and privacy are taken seriously rather than treated as an afterthought.
+
+### Should family be involved when looking for a spouse?
+
+In most cultures, yes. Family and trusted friends can spot patterns you might miss, and an introduction backed by a real relationship carries more trust than one that arrives from a stranger.
+
+### Does profile verification guarantee a good match?
+
+No. Verification confirms that a real person stands behind a profile and reduces the risk of fraud, but it says nothing about character, kindness, or compatibility. Those still take honest conversation, family input, and your own judgment.
+
+### Is online matrimony safe?
+
+It can be, if you use a platform's privacy controls, confirm identities before sharing personal details, avoid rushing into money or document requests, and involve trusted people before serious steps.
