@@ -18,7 +18,7 @@
 
 ## A Search Worth Doing Right
 
-Finding a life partner may be the most important search you'll ever make. Yet most of us start it wrong — and it usually looks something like this: the biodata PDF your parents forwarded is already out of date. The profile that looks perfect on paper belongs to someone no one in your network can vouch for. Your photo and phone number land in a few WhatsApp groups, and you lose track of who has them — or which version of you they're seeing.
+You only get one search like this. So it's worth noticing how often it starts on the wrong foot: a biodata PDF that's already months out of date, a profile that reads perfectly but that nobody in your circle can actually vouch for, a photo and phone number that quietly spread across a few WhatsApp groups until you're no longer sure who has them — or which version of you they're seeing.
 
 Anyone close to matchmaking has seen how families [lose control of forwarded profiles](https://connect.panosia.com/posts/the-3-most-common-problems-families-face-during-matchmaking): details go stale, photos spread further than intended, and nobody knows who holds the latest copy.
 
