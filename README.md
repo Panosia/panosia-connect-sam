@@ -1,66 +1,78 @@
-# Sam - AI Content Writing Agent
-Sam is a minimal, customizable, and extendable content writing agent for blogs and websites.
+# Sam — Panosia Connect SEO Content Workspace
 
-- Model agnostic
-   - Works with any model, not just Claude.
-- Built for real content work
-   - Sam does keyword research, finds sources, and writes content that is actually good for your blog or website.
-- Easy to adapt
-   - Lightweight so you can customize and extend it as your workflow grows.
+Sam is Panosia's maintained fork of an AI content writing agent, configured specifically for [Panosia Connect](https://connect.panosia.com) (connect.panosia.com). It researches topics, drafts SEO articles, fact-checks them, and reviews them for publish readiness — so content ships faster and consistent with the brand.
 
-*Recommended setup*
+- **Model agnostic** — works with any model, in [OpenCode](https://opencode.ai/) or [Claude Code](https://claude.com/product/claude-code). A GPT 5.4 + OpenCode combination tends to produce the most natural drafts.
+- **Built for real content work** — keyword direction, source checking, drafting, and review are handled end to end.
+- **Easy to maintain** — the workspace is just files: brand context, drafts, and docs you can read and edit directly.
 
-Use OpenAI's GPT 5.4 + OpenCode if you want writing that doesn't sound like every other post written by Claude.
+## Who this README is for
 
-<img width="auto" height="400" alt="image" src="https://imagedelivery.net/ysLOa6bzFaM49Jxok-TAlw/68dec245-c364-4835-5d99-abf376256400/public" />
-
-## Who is this for?
-- SEOs & Content Writers 
-    - Get more leverage by using the best available model to write drafts that you don't need to babysit or throw out.
-- Founders 
-    - Writing content from scratch is tedious. If you're too early to pay a professional, Sam is the next best option for starting to rank for SEO terms relevant to your business.
-
-## What's different?
-- Model Agnostic 
-  - Supports [OpenCode](https://opencode.ai/) so that you can use any model including GPT 5.4. It also works with [Claude Code](https://claude.com/product/claude-code).
-- Simple 
-  - There are no slash commands or skills. There is a "SEO Guide" agent which walks you through the [Core Workflows](#core-workflows). This agent knows to review all writing against your brand's voice. We provide a minimal agent that is really good at the core research and writing flow which you can customize and extend. 
-- Customizable & Extendable 
-  - Sam grows with you. If you want to add slash commands, skills, or MCPs to integrate with data provider or publishing platforms, just ask the Agent how to update the code to achieve this.
+Panosia maintainers — the people who will keep this workspace running. That includes the founder, and anyone on the team who writes or reviews content for the site. If you're new here, start with [Quickstart](#quickstart).
 
 ## Quickstart
+
 ### Prerequisites
-- A coding agent subscription.
-	- I recommend a ChatGPT Plus or Pro subscription since GPT 5.4 is my preferred model for writing: [ChatGPT plans](https://chatgpt.com/pricing)
-- Claude Code or [OpenCode](https://opencode.ai/)
-	- If you want to use GPT 5.4, use [OpenCode](https://opencode.ai/). OpenCode is similar to Claude Code, but open source and better. If you want to use a alternative harness, just ask your coding agent to port the repo to support it.
-	- Sam will still work great with Claude Code.
+
+- A coding agent subscription (e.g., ChatGPT Plus/Pro) if you want GPT 5.4 in OpenCode.
+- [OpenCode](https://opencode.ai/) or Claude Code installed locally.
 
 ### Setup
-1. Run the commands below to clone this project and open it with your coding agent. It will assume the role of "SEO Guide".
-2. Say "hi" and the agent will talk you through onboarding.
 
-```
-# Clone the project
-git clone https://github.com/every-app/sam
+```bash
+# Clone the Panosia fork
+git clone https://github.com/Panosia/panosia-connect-sam
 
 # Switch to the directory
-cd sam
+cd panosia-connect-sam
 
-# If you're using OpenCode, authenticate with OpenAI if you want to use GPT 5.4
+# If you're using OpenCode with GPT 5.4, authenticate first
 opencode auth login
 
-# Open the agent
-opencode 
-
-# Or, run `claude`
+# Open the agent and say "hi"
+opencode
+# or: claude
 ```
 
-## Core Workflows
-The guiding principle is that Sam should just work without you needing to "learn how to use it". If you don't know what to do next, just ask what your options are. Get started just by saying "hi".
-- Simple Onboarding 
-  - No slash commands or skills. Sam will walk you through getting set up via natural language. Just enter your website and the agent will scrape it to understand your company's positioning and brand voice. It will save this as reference for all future research and content.
-- Research 
-  - Tell Sam content ideas you have or ask it to suggest what to write after doing research. Connect arbitrary MCPs such as [DataForSEO](https://dataforseo.com) so that it has access to the highest quality data for making recommendations. It will use web search and scraping to understand what is already written on these topics. 
-- Writing 
-  - Tell Sam what you want it to write. It will research the topic, write a draft, then trigger subagents to review that draft for 1. quality 2. fact checking and sourcing, then apply the fixes. This loop is much slower than other agents, but its goal is to be set it and forget, aiming for something high quality on the first attempt. 
+Say **"hi"** and Sam will orient itself from the workspace state and tell you the next useful step. Sam reads `MEMORY.md` first, so a new session always knows where things stand.
+
+## How the workspace is organized
+
+| Path | Purpose |
+| --- | --- |
+| `MEMORY.md` | Source of truth for setup status, known context, and next steps. Keep updated as strategy changes. |
+| `context/` | Durable brand and strategy: site profile, brand voice, SEO guidelines, user notes, target keywords, internal links. |
+| `docs/` | Guides Sam follows: setup, article writing, article review, DataForSEO MCP setup, Exa search setup. |
+| `templates/` | Metadata blocks: article frontmatter, research brief. |
+| `drafts/` | Article drafts, saved with lowercase date-stamped slugs (e.g., `drafts/how-to-find-a-life-partner-trust-first-guide-2026-08-05.md`). |
+| `research/` | Research briefs and outputs. |
+| `scripts/` | `analyze-draft.mjs` (SEO spot-check) and `normalize-draft.mjs` (formatting). |
+| `AGENTS.md` | The rules Sam works under ("Sam Rules"). |
+
+## Core workflow
+
+1. **Onboarding** — say "hi"; Sam reads the site and fills in `context/` files, or resumes from `MEMORY.md` if setup already exists.
+2. **Research & brief** — Sam proposes a primary keyword, search intent, angle, and outline before writing anything.
+3. **Draft** — Sam writes the full article as a finished piece for readers.
+4. **Fact-check** — a subagent verifies every link and claim; required fixes go straight into the draft.
+5. **Independent review** — a fresh-context SEO review for intent, structure, evidence, and scannability.
+6. **Publish** — drafts are bilingual-ready (English + Bengali), matching the site's EN/BN structure.
+
+## Current setup state (as of 2026-08-05)
+
+- **Status:** good enough — core context, brand voice, and starter keywords are in place. DataForSEO (external keyword/SERP data) was skipped for now and can be added later; the internal-links map is optional and deferred.
+- **Company:** Panosia Connect — a trust-based matrimony platform with Candidate and Connector roles. Free to join, no subscriptions; optional one-time verification services are the only paid products.
+- **Content strategy:** a role-based article series, one audience per piece:
+  1. Candidate guide — drafted (how to find a life partner)
+  2. Parents/family guide — next up
+  3. Volunteer matchmaker guide
+  4. Local professional matchmaker guide
+
+## Extending the workspace
+
+- Ask Sam to add MCP integrations (DataForSEO for high-confidence keyword data, Exa for web search) or publishing tools — it can update the workspace config to support them.
+- Manual setup details live in `docs/setup-guide.md`; writing and review standards live in `docs/article-writing.md` and `docs/article-review.md`.
+
+## License
+
+See `LICENSE` for terms.
