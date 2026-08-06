@@ -70,14 +70,14 @@ Where you search matters as much as how. Your first circle is your existing netw
 When you do use an online matrimony platform — and most serious searches eventually involve one — look for three things:
 
 1. **Verification you can see.** Can a person confirm their identity with a real document and a live session? Is there a badge or report, or just a claim typed into a profile?
-2. **Privacy controls you own.** Can you choose what is public, private, or hidden? Can you approve who gets access, and revoke it later? If a platform exposes your details by default, it wasn't built for a serious search.
+2. **Privacy controls you own.** Can you choose what is public, private, or hidden, and control who sees it? If a platform exposes your details by default, it wasn't built for a serious search.
 3. **Real relationships, not anonymous browsing.** Can you see who stands behind a profile — parents, siblings, friends, community members — instead of a random username? Trust is easier to evaluate when it's visible.
 
 This is the structure behind [how Panosia Connect works](https://connect.panosia.com/posts/how-panosia-connect-works): profiles tied to real relationships, privacy that stays in your control, and verification for those who want it. The platform's principles are worth borrowing for any search: identity before interaction, privacy before exposure, community before algorithms.
 
 ## Read a Profile the Way a Family Would
 
-Education and salary are the easiest facts to print on a biodata — and the least informative on their own. A family evaluating a proposal looks past the headline: at the person, the family behind them, and whether the story holds together. Here's a marriage profile tip worth keeping: read the whole story, not just the summary.
+Education and salary are the easiest facts to print on a biodata — and the least informative on their own. A family evaluating a proposal looks past the headline: at the person, the family behind them, and whether the story holds together. The most useful marriage profile tip is simple: read the whole story, not just the summary.
 
 Ask:
 
@@ -112,7 +112,7 @@ A few habits worth keeping:
 - **Involve your family before serious steps.** Introduce the person to your parents or trusted relatives before engagement-level decisions — not after.
 - **Meet in public, and tell someone where you're going.** First meetings belong in a café or another public place, and a family member or friend should know where you are.
 
-If you're on Panosia Connect, this is all built in: approval-based access, revocable sharing, and privacy settings you control. The walkthrough on [getting started on Panosia Connect](https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered) shows how to set those controls before you begin reaching out. Set them first, search second — it saves a great deal of worry later.
+If you're on Panosia Connect, these controls are already built in. The walkthrough on [getting started on Panosia Connect](https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered) shows how to set them before you begin reaching out. Set them first, search second — it saves a great deal of worry later.
 
 ## What Verification Actually Buys You
 
@@ -132,7 +132,7 @@ No platform can guarantee you a match — including ours — and no verification
 
 What a trust-first search actually buys you is better odds and a clearer mind. You'll know what you want before the noise arrives. You'll have people who know you standing beside you. You'll talk to real, verifiable people at your own pace, and you'll waste far less time on people who were never serious.
 
-A trusted matrimony isn't built on the widest net or the fastest reply. It's built on clarity, honesty, and patience — and so is the search. Start with your own answers, bring your family in early, and choose channels that respect your privacy.
+Trusted matrimony isn't built on the widest net or the fastest reply. It's built on clarity, honesty, and patience — and so is the search that leads to it. Start with your own answers, bring your family in early, and choose channels that respect your privacy.
 
 When you're ready, the natural next step is to create a profile and build your network — family included.
 
