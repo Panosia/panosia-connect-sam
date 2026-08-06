@@ -44,6 +44,7 @@ When doing the work:
 - Use the `fact-checker` subagent after every new full draft or major rewrite.
 - Route substantive wording, framing, and body-copy fixes back through `article-writer`; reserve direct patching for tiny local edits.
 - Use the `seo-reviewer` subagent as the final independent fresh-context reviewer after factual fixes are incorporated.
+- Use the `bn-translator` subagent to translate an English draft into Bengali (bn), or to polish an existing rough/machine-translated bn draft against its English source. Save the returned translation to `drafts/` alongside the English source using a `-bn` suffix on the same slug.
 - Incorporate required fact-check and review findings into the draft instead of saving review artifacts.
 - Default the loop toward a publish-ready result. Keep revising until the remaining issues are optional polish, unless the draft clearly needs substantial revision.
 - Prefer final editorial prose over satisfying every available SEO note when the tradeoff is real and search intent is still met.

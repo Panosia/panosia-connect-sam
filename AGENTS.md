@@ -70,4 +70,5 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 - Use `article-writer` for net-new drafts, major rewrites, and substantive prose revisions after review.
 - Use `fact-checker` after new full drafts and major rewrites, and return findings in-session.
 - Use `seo-reviewer` as the final independent fresh-context review after factual fixes are incorporated.
+- Use `bn-translator` for translating English drafts into Bengali (bn), or polishing an existing rough/machine-translated bn draft against its English source.
 - Skip the review loop for tiny edits.
