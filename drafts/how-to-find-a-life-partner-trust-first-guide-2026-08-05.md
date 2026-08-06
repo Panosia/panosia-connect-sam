@@ -18,9 +18,13 @@
 
 ## A Search Worth Doing Right
 
-Finding a life partner may be the most important search you ever make — and most of us start it wrong. The biodata PDF your parents forwarded is already out of date. The profile that looks perfect on paper belongs to someone no one in your network can vouch for. And once your photos and phone number enter a few WhatsApp groups, you no longer know who has them, or which version of you they're seeing. Anyone close to matchmaking has seen how families [lose control of forwarded profiles](https://connect.panosia.com/posts/the-3-most-common-problems-families-face-during-matchmaking): details go stale, photos spread further than intended, and nobody knows who holds the latest copy.
+Finding a life partner may be the most important search you'll ever make. Yet most of us start it wrong.
 
-This guide is for adults running a serious life partner search — not casual browsing. It walks through a calmer, trust-first way to search: knowing what you actually want, involving the people who know you, reading profiles for what really matters, and staying safe online. You'll finish with a practical plan your family can support — no hype, no pressure.
+The biodata PDF your parents forwarded is already out of date. The profile that looks perfect on paper belongs to someone no one in your network can vouch for. And once your photo and phone number land in a few WhatsApp groups, you lose track of who has them — or which version of you they're seeing.
+
+Anyone close to matchmaking has seen how families [lose control of forwarded profiles](https://connect.panosia.com/posts/the-3-most-common-problems-families-face-during-matchmaking): details go stale, photos spread further than intended, and nobody knows who holds the latest copy.
+
+This guide is for adults running a serious search — not casual browsing. It's a calmer, trust-first way to look: know what you actually want, bring in the people who know you best, read profiles for what really matters, and stay safe as you go. You'll come away with a plan your family can support — no hype, no pressure.
 
 ## Start with Clarity, Not a Checklist
 
