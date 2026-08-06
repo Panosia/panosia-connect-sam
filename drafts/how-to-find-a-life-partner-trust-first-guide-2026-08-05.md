@@ -77,7 +77,7 @@ Ask:
 - **Who can vouch?** Are there named, visible connections — parents, siblings, friends — you could reasonably ask about? A profile with no one behind it has no one to answer for it.
 - **Does the person talk about the marriage, or only themselves?** How they describe the family they want says a lot about what they're really looking for.
 
-Consider Ryan, a Candidate on Panosia Connect. He checks the headline details first, then looks at the person's connections and family context. If a profile is impressive but no one visible stands behind it, he keeps looking — a habit that takes ten seconds and saves months.
+Picture Ryan, a hypothetical Candidate on Panosia Connect, used here to illustrate the habit worth building: he checks the headline details first, then looks at the person's connections and family context. If a profile is impressive but no one visible stands behind it, he keeps looking — a habit that takes ten seconds and saves months.
 
 ## Spot the Red Flags Early
 
