@@ -16,13 +16,22 @@
 - Read profiles for consistency and family context, not just education and salary
 - Verification reduces risk; it cannot guarantee character — and no platform can guarantee a match
 
-## A Search Worth Doing Right
+## Finding a Life Partner Starts With Trust
 
-You only get one search like this. So it's worth noticing how often it starts on the wrong foot: a biodata PDF that's already months out of date, a profile that reads perfectly but that nobody in your circle can actually vouch for, a photo and phone number that quietly spread across a few WhatsApp groups until you're no longer sure who has them — or which version of you they're seeing.
+Finding a life partner isn't difficult because there aren't options — there are more ways to meet people today than ever. The real challenge is knowing who's genuine, who shares your values, and who's actually worth building a future with.
 
-Anyone close to matchmaking has seen how families [lose control of forwarded profiles](https://connect.panosia.com/posts/the-3-most-common-problems-families-face-during-matchmaking): details go stale, photos spread further than intended, and nobody knows who holds the latest copy.
+A marriage decision isn't like any other search. It's not a purchase you can return or a choice you can quietly undo. It shapes your family, your future, and the life you build together — which is why a serious search deserves more than a profile, a photo, and a list of achievements.
 
-This guide is for adults running a serious search — not casual browsing. It's a calmer, trust-first way to look: know what you actually want, bring in the people who know you best, read profiles for what really matters, and stay safe as you go. You'll come away with a plan your family can support — no hype, no pressure.
+Online profiles add their own set of problems, the kind [families run into constantly](https://connect.panosia.com/posts/the-3-most-common-problems-families-face-during-matchmaking):
+
+- Biodata documents go stale as they're forwarded from person to person.
+- Photos and personal details spread without permission, and no one controls who forwards them next.
+- A profile can look impressive with no one who can genuinely vouch for the person behind it.
+- Families are often asked to make an important decision with very little real context.
+
+A trust-first approach brings back what has always mattered in serious matrimony: clarity about what you're looking for, involvement from the people who know you, respect for privacy, and confidence that the person you're speaking with is real.
+
+This guide is for adults who are serious about finding a life partner — not casual browsing or endless searching. The goal isn't to collect the most profiles. It's to recognize the right opportunities, build trust at the right pace, and make a decision with confidence. Before searching for the right person, you first need to understand yourself.
 
 ## Start with Clarity, Not a Checklist
 
