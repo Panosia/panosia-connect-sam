@@ -18,7 +18,7 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 3. Skip that pre-draft check-in only when the user clearly wants an immediate draft or has already provided the needed direction.
 4. Clarify the search intent and reader problem before outlining.
 5. Use `templates/article-frontmatter.md` for the metadata block.
-6. Open with the main problem and article promise quickly.
+6. Open with the main problem and article promise quickly, and give the reader a hook — a reason to keep reading, not just a topic statement.
 7. Within roughly the first 120 to 150 words, make it clear who the piece is for, what problem or decision it addresses, and what the reader will get.
 8. Use clear H2s and H3s that help the reader scan and decide.
 9. Favor concrete examples, comparisons, and caveats over filler.
@@ -27,6 +27,7 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 12. Save full drafts to `drafts/<topic-slug>-<YYYY-MM-DD>.md`.
 13. Expect substantial drafts to go through fact-check and final review before they are considered publish-ready.
 14. Incorporate required review feedback directly into the draft rather than saving a separate review file.
+15. Always include a short FAQ section near the end, not only when specifically requested.
 
 ## Reader-First Draft Rules
 
@@ -69,3 +70,9 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 - Do not invent analytics, usage claims, or market proof.
 - Flag missing proof instead of filling the gap with vague confidence.
 - If a claim cannot be supported confidently during revision, soften it or remove it.
+
+## Readability And Duplication
+
+- Write for a broad, diverse readership: native and non-native English speakers, younger and older readers. Favor plain words, short sentences, and clear structure over anything that assumes fluency or specialist vocabulary.
+- Follow a "less is more" principle. Cut anything that does not earn its place rather than padding for length.
+- Actively check for duplication across sections. If the same point is made in two places, keep it in the section where it fits best and cut or trim it elsewhere.

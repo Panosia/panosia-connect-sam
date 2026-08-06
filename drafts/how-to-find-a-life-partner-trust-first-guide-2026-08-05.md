@@ -61,7 +61,7 @@ For many Candidates, the people you want involved don't live in the same city �
 
 The usual workaround — one big WhatsApp thread, a shared photo album, a forwarded PDF — solves the coordination problem and creates a privacy one. Once a profile has traveled through a group chat spanning three countries, no one really controls who forwards it next.
 
-A trust-first approach handles this differently: family members and Connectors get their own access, on your terms, no matter where they live. A parent overseas can see relevant details and vouch for someone without you needing to forward anything or track who has which copy. Distance shouldn't force a choice between keeping your family involved and keeping your information contained.
+A trust-first approach handles this differently: you choose what family members and Connectors can see, approve their access individually, and revoke it later — no matter where they live. A parent overseas can review relevant details and vouch for someone without you needing to forward anything or keep track of who has which copy. Distance shouldn't force a choice between keeping your family involved and keeping your information contained.
 
 ## Search Where Trust Already Exists
 
@@ -86,7 +86,7 @@ Ask:
 - **Who can vouch?** Are there named, visible connections — parents, siblings, friends — you could reasonably ask about? A profile with no one behind it has no one to answer for it.
 - **Does the person talk about the marriage, or only themselves?** How they describe the family they want says a lot about what they're really looking for.
 
-Picture Ryan, a hypothetical Candidate on Panosia Connect, used here to illustrate the habit worth building: he checks the headline details first, then looks at the person's connections and family context. If a profile is impressive but no one visible stands behind it, he keeps looking — a habit that takes ten seconds and saves months.
+Picture Ryan, a hypothetical Candidate on Panosia Connect, used here to illustrate the habit worth building: he checks the headline details first, then looks at the person's connections and family context. If a profile is impressive but no one visible stands behind it, he keeps looking — a quick check that can save months of wasted conversation.
 
 ## Spot the Red Flags Early
 
@@ -112,7 +112,7 @@ A few habits worth keeping:
 - **Involve your family before serious steps.** Introduce the person to your parents or trusted relatives before engagement-level decisions — not after.
 - **Meet in public, and tell someone where you're going.** First meetings belong in a café or another public place, and a family member or friend should know where you are.
 
-If you're on Panosia Connect, this is all built in: approval-based access, revocable sharing, and privacy settings that update instantly. The walkthrough on [getting started on Panosia Connect](https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered) shows how to set those controls before you begin reaching out. Set them first, search second — it takes minutes and saves a great deal of worry.
+If you're on Panosia Connect, this is all built in: approval-based access, revocable sharing, and privacy settings you control. The walkthrough on [getting started on Panosia Connect](https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered) shows how to set those controls before you begin reaching out. Set them first, search second — it saves a great deal of worry later.
 
 ## What Verification Actually Buys You
 

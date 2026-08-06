@@ -29,3 +29,8 @@ Good examples:
   3. Volunteer matchmaker guide (future) — audience: community members who facilitate introductions.
   4. Local professional matchmaker guide (future) — audience: professional matchmakers.
 - Each article in the series targets one audience segment; do not blend audiences in a single piece.
+- Writing standard (2026-08-06): every intro needs a hook that gives the reader a reason to keep reading, not just a topic statement.
+- Writing standard (2026-08-06): write for a broad, diverse readership — native and non-native English speakers, younger and older readers. Favor plain words, short sentences, and clear structure over anything that assumes fluency or specialist vocabulary.
+- Writing standard (2026-08-06): always include a short FAQ section near the end of every article, not just when asked.
+- Writing standard (2026-08-06): follow a "less is more" principle — cut anything that doesn't earn its place rather than padding for length.
+- Writing standard (2026-08-06): actively check for and remove duplication — the same point should not be made in two different sections.
