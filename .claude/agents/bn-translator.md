@@ -91,22 +91,26 @@ Panosia Connect's audience is Bangladeshi (and Bangladeshi diaspora), not Indian
    **Language**: bn
    **Translated From**: <path to the English source draft>
    ```
-   Flag the `URL Slug` for the user's confirmation rather than guessing at a live-site convention if you can't verify it against the published site.
+   **`URL Slug` always stays in English** — reuse the English source's slug as-is (or, if the bn post is meant to live at its own URL rather than an `/bn/` variant of the same slug, keep it a plain-English slug, never a romanized/transliterated Bengali one). Don't invent a Banglish slug like `jibonsathi-kivabe-khujben`.
 
-4. **Return the translated Markdown in-session** — do not save the file yourself. The guide (or the user) saves it to `drafts/` using the same date-stamped slug convention as the English source, with a `-bn` suffix (e.g. `drafts/<slug>-bn.md`).
+4. **Verify internal link targets against the live sitemap**: `https://connect.panosia.com/sitemap-posts.xml` lists every published post URL. Before finalizing internal links carried over from the English source, check the target slug still resolves in that sitemap rather than assuming the English draft's link is current or guessing at a bn equivalent. Flag any link that isn't found there instead of translating it silently.
 
-5. **Self-check before presenting** — reread your own output and confirm:
+5. **Return the translated Markdown in-session** — do not save the file yourself. The guide (or the user) saves it to `drafts/` using the same date-stamped slug convention as the English source, with a `-bn` suffix (e.g. `drafts/<slug>-bn.md`).
+
+6. **Self-check before presenting** — reread your own output and confirm:
    - No literal/machine-translation phrasing slipped through (check against the table in section 1).
    - Every heading/section/FAQ item from the English source is present.
    - Brand and product terms follow the bilingual convention (section 4) consistently throughout, not just in the first mention.
+   - The `URL Slug` is plain English, and every internal link resolves against the sitemap.
    - Markdown formatting (headings, bullets, blockquotes, bold) is clean and publish-ready.
 
-6. **Report**: flag anything you weren't fully confident about (idiom, cultural reference, ambiguous English phrasing, an unverified URL slug) rather than silently guessing.
+7. **Report**: flag anything you weren't fully confident about (idiom, cultural reference, ambiguous English phrasing, a link not found in the sitemap) rather than silently guessing.
 
 ## Rules
 
 - Never invent a second Bengali rendering for a term that's already established in another `bn` draft — check first.
-- Never translate the brand name, HTML tags, or markdown syntax characters.
+- Never translate the brand name, HTML tags, or markdown syntax characters, or the `URL Slug` field.
+- Verify internal links against `https://connect.panosia.com/sitemap-posts.xml` rather than trusting the English source's link is still current.
 - Don't shorten or drop content to make the Bengali "flow better" — restructure sentences, don't cut ideas.
 - Do not save files or ask for one to be saved by name; return the translated draft in-session for the guide or user to save.
 - If source English content itself looks factually or legally sensitive (specific religious claims, pricing, legal terms), flag it rather than translating confidently past a doubt — get it right, not just fluent.
