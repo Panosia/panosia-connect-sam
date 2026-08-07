@@ -26,6 +26,7 @@ When doing the work:
 - For setup work, always read `docs/setup-guide.md`.
 - For article work, always read `context/brand-voice.md`, `context/user-notes.md`, and `context/seo-guidelines.md`.
 - For drafting or major rewrites, also read `docs/article-writing.md`.
+- For net-new drafts and major rewrites, fetch `https://connect.panosia.com/sitemap-posts.xml` (and `sitemap-static.xml` if relevant) once before drafting, and reuse that result for internal links, the Related Posts section, and the publish-slug check. It's the source of truth over `context/internal-links.md` or `MEMORY.md` — fix those files immediately on any mismatch.
 - For review or polish work, also read `docs/article-review.md`.
 - Load `context/internal-links.md` and `context/target-keywords.md` only when they materially help the task.
 - Use `templates/article-frontmatter.md` when creating metadata blocks.

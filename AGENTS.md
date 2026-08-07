@@ -22,6 +22,7 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 - Treat `context/user-notes.md` as user-owned durable memory.
 - If context is still blank or placeholder-heavy, begin setup in chat.
 - If a live site exists, read beyond the homepage before drafting setup assumptions.
+- For net-new drafts and major rewrites, fetch `https://connect.panosia.com/sitemap-posts.xml` (and `sitemap-static.xml` if relevant) once before drafting and reuse it for internal links, the Related Posts section, and the publish-slug check. Treat the live sitemap as the source of truth over `context/internal-links.md` or `MEMORY.md`, which can drift from what's actually published — fix those files on any mismatch.
 - Keep `MEMORY.md` updated when setup progress or core strategy assumptions change.
 - Save outputs in `research/` and `drafts/` using lowercase date-stamped slugs.
 

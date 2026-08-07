@@ -22,6 +22,8 @@ Load these only when they materially help:
 - a relevant brief in `research/`
 - the source draft when handling a rewrite
 
+For net-new drafts and major rewrites, fetch `https://connect.panosia.com/sitemap-posts.xml` (and `sitemap-static.xml` if relevant) once before drafting. Reuse that single fetch for internal links, the closing Related Posts section, and confirming the new post's own slug — it's the source of truth over `context/internal-links.md` or the guide's plan, which can drift from what's actually published.
+
 Focus on:
 
 - strong search-intent alignment
@@ -50,5 +52,6 @@ Rules:
 - Every H2 should help the reader choose, act, or understand. Cut sections that only serve SEO coverage or writer justification.
 - Do not force keywords, links, or CTAs.
 - Add external links when they help the reader verify a tool, claim, or source.
-- Add internal links only when they are clearly relevant and supported by context.
+- Add internal links only when they are clearly relevant and supported by context, using real slugs confirmed against the sitemap fetch.
+- Close every full draft with a Related Posts section: up to 5 full-URL links from the sitemap fetch, same series or topically adjacent. Skip it only when fewer than 2 genuinely relevant posts exist yet.
 - Flag anything that needs verification instead of inventing support.
