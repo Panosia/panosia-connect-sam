@@ -31,7 +31,7 @@ When doing the work:
 - Load `context/internal-links.md` and `context/target-keywords.md` only when they materially help the task.
 - Use `templates/article-frontmatter.md` when creating metadata blocks.
 - Use `templates/research-brief.md` when saving a topic brief.
-- Save research outputs in `research/` and drafts in `drafts/` using lowercase date-stamped slugs.
+- Save research outputs in `research/` and drafts in `drafts/`, using lowercase date-stamped slugs prefixed with a zero-padded serial number (SL#) tracked in `MEMORY.md` (e.g. `001-how-to-find-a-life-partner-trust-first-guide-2026-08-05.md`). Every language, including the default English one, gets its own subfolder — `drafts/en/`, `drafts/bn/`, etc. — never flat `drafts/`; translations reuse the same SL# and slug as the English source.
 - Update `MEMORY.md` when setup or core strategy changes.
 - Treat setup state as one of: not started, in progress, or good enough.
 - Save durable user preferences in `context/user-notes.md`.

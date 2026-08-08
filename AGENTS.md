@@ -25,6 +25,8 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 - For net-new drafts and major rewrites, fetch `https://connect.panosia.com/sitemap-posts.xml` (and `sitemap-static.xml` if relevant) once before drafting and reuse it for internal links, the Related Posts section, and the publish-slug check. Treat the live sitemap as the source of truth over `context/internal-links.md` or `MEMORY.md`, which can drift from what's actually published — fix those files on any mismatch.
 - Keep `MEMORY.md` updated when setup progress or core strategy assumptions change.
 - Save outputs in `research/` and `drafts/` using lowercase date-stamped slugs.
+- Give every post a zero-padded serial number (SL#) prefix in its filename, e.g. `001-how-to-find-a-life-partner-trust-first-guide-2026-08-05.md`, so posts stay easily identifiable and sortable by creation order. Track the next available SL# and the SL# → title/slug mapping in `MEMORY.md`.
+- File every post under a language subfolder, including the default English one — `drafts/en/`, `drafts/bn/`, etc. — never directly in flat `drafts/`. Translations reuse the same SL# and slug as the English source plus the language suffix, e.g. `drafts/en/001-how-to-find-a-life-partner-trust-first-guide-2026-08-05.md` and `drafts/bn/001-how-to-find-a-life-partner-trust-first-guide-2026-08-05-bn.md`. This makes a translation's source pairing obvious at a glance and keeps every language on equal footing.
 
 ## Load On Demand
 

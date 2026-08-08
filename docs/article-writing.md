@@ -47,7 +47,7 @@ Skip this section only when fewer than 2 genuinely relevant posts exist yet (e.g
 11. Add external links when they help verify tools, claims, or definitions.
 12. Add internal links only when they are relevant, natural, and supported by context, using real slugs confirmed against the sitemap fetch.
 13. Close with the Related Posts section described above.
-14. Save full drafts to `drafts/<topic-slug>-<YYYY-MM-DD>.md`.
+14. Save full drafts to `drafts/en/<SL#>-<topic-slug>-<YYYY-MM-DD>.md` — a zero-padded serial number prefix (e.g. `001-`), tracked in `MEMORY.md`, keeps posts identifiable and sortable regardless of title changes. Every language, including the default English one, lives under its own subfolder rather than flat `drafts/`, so translations reuse the same SL# and slug as the English source: `drafts/bn/<SL#>-<topic-slug>-<YYYY-MM-DD>-bn.md`.
 15. Expect substantial drafts to go through fact-check and final review before they are considered publish-ready.
 16. Incorporate required review feedback directly into the draft rather than saving a separate review file.
 17. Always include a short FAQ section near the end, not only when specifically requested.
@@ -99,3 +99,4 @@ Skip this section only when fewer than 2 genuinely relevant posts exist yet (e.g
 - Write for a broad, diverse readership: native and non-native English speakers, younger and older readers. Favor plain words, short sentences, and clear structure over anything that assumes fluency or specialist vocabulary.
 - Follow a "less is more" principle. Cut anything that does not earn its place rather than padding for length.
 - Actively check for duplication across sections. If the same point is made in two places, keep it in the section where it fits best and cut or trim it elsewhere.
+- Avoid the em dash ("—") as a default connector. Prefer a comma, a period and new sentence, a colon, or a semicolon, whichever reads most naturally for the specific sentence, over reaching for "—" out of habit. A rare em dash for genuine emphasis or an abrupt aside is fine; a draft leaning on it throughout reads as a stylistic tic rather than a deliberate choice.

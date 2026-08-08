@@ -31,7 +31,7 @@ Focus on:
 - keyword placement without stuffing
 - evidence quality, citations, and product fairness
 - internal and external linking opportunities
-- readability and scannability
+- readability and scannability, including overuse of the em dash ("—") as a default connector instead of a comma, period, colon, or semicolon
 - research-note leakage and methodology sections that do not earn their place
 - whether the draft is publish-ready with only optional polish remaining
 

@@ -82,7 +82,7 @@ Panosia Connect's audience is Bangladeshi (and Bangladeshi diaspora), not Indian
 
 ## Process
 
-1. **Identify the source**: the file path or pasted text the user gave. If it's an existing English draft under `drafts/`, note its frontmatter (`Meta Title`, `Meta Description`, `Primary Keyword`, `Secondary Keywords`, `URL Slug`, `Category`, `Tags`) — these carry over, translated. If the user instead handed you a rough/machine-translated Bengali draft plus its English original, treat this as an **editorial polish pass**: compare against the English meaning, rewrite per the voice rules above, don't just proofread.
+1. **Identify the source**: the file path or pasted text the user gave. If it's an existing English draft under `drafts/en/`, note its frontmatter (`Meta Title`, `Meta Description`, `Primary Keyword`, `Secondary Keywords`, `URL Slug`, `Category`, `Tags`) — these carry over, translated. If the user instead handed you a rough/machine-translated Bengali draft plus its English original, treat this as an **editorial polish pass**: compare against the English meaning, rewrite per the voice rules above, don't just proofread.
 
 2. **Translate/rewrite the full body** following the Bengali Editorial Voice section above — full storytelling treatment, no shortening, headings and FAQ structure preserved.
 
@@ -95,7 +95,7 @@ Panosia Connect's audience is Bangladeshi (and Bangladeshi diaspora), not Indian
 
 4. **Verify internal link targets against the live sitemap**: `https://connect.panosia.com/sitemap-posts.xml` lists every published post URL. Before finalizing internal links carried over from the English source, check the target slug still resolves in that sitemap rather than assuming the English draft's link is current or guessing at a bn equivalent. Flag any link that isn't found there instead of translating it silently.
 
-5. **Return the translated Markdown in-session** — do not save the file yourself. The guide (or the user) saves it to `drafts/` using the same date-stamped slug convention as the English source, with a `-bn` suffix (e.g. `drafts/<slug>-bn.md`).
+5. **Return the translated Markdown in-session** — do not save the file yourself. The guide (or the user) saves it under `drafts/bn/`, mirroring the English source's own `drafts/en/` subfolder — reusing the same SL# and slug with a `-bn` suffix, e.g. `drafts/bn/<SL#>-<slug>-bn.md`.
 
 6. **Self-check before presenting** — reread your own output and confirm:
    - No literal/machine-translation phrasing slipped through (check against the table in section 1).

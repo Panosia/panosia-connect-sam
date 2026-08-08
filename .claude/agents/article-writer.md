@@ -55,3 +55,4 @@ Rules:
 - Add internal links only when they are clearly relevant and supported by context, using real slugs confirmed against the sitemap fetch.
 - Close every full draft with a Related Posts section: up to 5 full-URL links from the sitemap fetch, same series or topically adjacent. Skip it only when fewer than 2 genuinely relevant posts exist yet.
 - Flag anything that needs verification instead of inventing support.
+- Avoid the em dash ("—") as a default connector; prefer a comma, a new sentence, a colon, or a semicolon depending on what the sentence actually needs. Reserve "—" for genuine emphasis or an abrupt aside, not as a habitual joiner.
