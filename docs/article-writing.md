@@ -94,6 +94,21 @@ Skip this section only when fewer than 2 genuinely relevant posts exist yet (e.g
 - Flag missing proof instead of filling the gap with vague confidence.
 - If a claim cannot be supported confidently during revision, soften it or remove it.
 
+## Meta Description / Excerpt
+
+The `**Meta Description**` frontmatter field maps directly to the app's single `excerpt` field (confirmed in the `panosia-connect` source: `functions/_shared/meta-description.js`, `functions/_shared/post-og.js`, `src/features/cms/components/feed/FeedCardUnified.tsx`). One field, three jobs:
+
+- **Feed card teaser** — truncated at 200 characters with a "…more" toggle.
+- **Full article page** — rendered in full, directly above Key Takeaways, as the page's opening hook.
+- **Social/OG/meta previews** — auto-truncated to 155 characters at request time (cut at the last full word), so no manual shortening is needed for that surface.
+
+Write it accordingly:
+
+- Write it as a real hook, not a keyword-stuffed SEO snippet. It is read in full, on-page, as the article's opening line(s).
+- Target roughly 200-250 characters, as one complete sentence (or clause) that lands at or just past the 200-character mark, followed by a short second sentence. That way the feed-card truncation cuts after a natural stopping point instead of mid-clause or mid-word, and "…more" reads as an intentional curiosity gap, not an accident.
+- Don't hand-tighten it for the 155-character social-preview limit; the app truncates that automatically at a word boundary.
+- After the draft is otherwise final, re-read this field specifically as "would this make someone tap …more on the feed card," not just as a summary.
+
 ## Readability And Duplication
 
 - Write for a broad, diverse readership: native and non-native English speakers, younger and older readers. Favor plain words, short sentences, and clear structure over anything that assumes fluency or specialist vocabulary.
