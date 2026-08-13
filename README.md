@@ -44,7 +44,7 @@ Say **"hi"** and Sam will orient itself from the workspace state and tell you th
 | `context/` | Durable brand and strategy: site profile, brand voice, SEO guidelines, user notes, target keywords, internal links. |
 | `docs/` | Guides Sam follows: setup, article writing, article review, DataForSEO MCP setup, Exa search setup. |
 | `templates/` | Metadata blocks: article frontmatter, research brief. |
-| `drafts/` | Article drafts, saved with lowercase date-stamped slugs (e.g., `drafts/how-to-find-a-life-partner-trust-first-guide-2026-08-05.md`). |
+| `drafts/` | Article drafts, saved with lowercase date-stamped slugs prefixed by a serial number, under a language subfolder (e.g., `drafts/en/001-how-to-find-a-life-partner-trust-first-guide-2026-08-05.md`, `drafts/bn/001-how-to-find-a-life-partner-trust-first-guide-2026-08-05-bn.md`). Every language, including English, gets its own subfolder. |
 | `research/` | Research briefs and outputs. |
 | `scripts/` | `analyze-draft.mjs` (SEO spot-check) and `normalize-draft.mjs` (formatting). |
 | `AGENTS.md` | The rules Sam works under ("Sam Rules"). |

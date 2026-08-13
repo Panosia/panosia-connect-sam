@@ -11,7 +11,7 @@ Use this file for company, audience, and offer context.
 
 ## Audience
 
-- Primary audience: Adults seeking a life partner for marriage (Candidates), with a strong Bengali-language presence (Bangladesh, West Bengal, and diaspora)
+- Primary audience: Adults seeking a life partner for marriage (Candidates); Bangladesh is the primary Bengali-language market, with Bangladeshi diaspora communities as a close secondary and some West Bengal reach
 - Secondary audience: Connectors — parents, siblings, relatives, trusted friends, professional matchmakers, religious/community organizations
 - Jobs to be done: Find a suitable, genuine life partner through trusted channels; involve family in the search; verify someone's identity before serious discussions; avoid scams and misrepresentation
 - Biggest objections: "Why pay for matchmaking when job search is free?"; fear of fake profiles and fraud; privacy concerns about sharing family details; skepticism that online matrimony can replace family-led introductions

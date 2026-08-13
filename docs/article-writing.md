@@ -11,23 +11,46 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 - Load `context/target-keywords.md` when it helps clarify topic fit or terminology.
 - Load a relevant brief from `research/` when one exists.
 
+## Live Content Discovery (Sitemaps)
+
+Fetch once, pre-writing — reuse that result for the whole post (draft, internal links, publish check). Treat the live sitemap as the source of truth over `context/internal-links.md`, `MEMORY.md`, or any brief in `research/`, all of which can drift from what actually published (e.g. a planned slug or title changing by the time a post goes live).
+
+- Posts: `https://connect.panosia.com/sitemap-posts.xml`
+- Static pages: `https://connect.panosia.com/sitemap-static.xml`
+
+Use it to: pick real slugs for internal links, spot related/overlapping posts to avoid duplicating coverage, and confirm the new post's own slug lands as planned. On any mismatch between what's live and what `context/internal-links.md` or `MEMORY.md` says, fix those files immediately.
+
+## Related Posts (Closing Section)
+
+Every full draft ends with a **Related Posts** section: up to 5 links, full URLs, pulled from the sitemap fetch above (same topic/role series or topically adjacent — see the role-based series noted in `context/user-notes.md`). Format:
+
+```
+## Related Posts
+- [Title](https://connect.panosia.com/posts/slug)
+- [Title](https://connect.panosia.com/posts/slug)
+```
+
+Skip this section only when fewer than 2 genuinely relevant posts exist yet (e.g. early in a new series) — don't pad it with weak matches just to hit a count.
+
 ## Drafting Workflow
 
 1. For net-new drafts, present a compact mini-brief before drafting: proposed primary keyword, inferred search intent, suggested angle, working outline, and any source or evidence gaps.
 2. Ask one bundled check-in question for outline preferences, must-use sources, must-cover points, claims to avoid, or other constraints.
 3. Skip that pre-draft check-in only when the user clearly wants an immediate draft or has already provided the needed direction.
 4. Clarify the search intent and reader problem before outlining.
-5. Use `templates/article-frontmatter.md` for the metadata block.
-6. Open with the main problem and article promise quickly, and give the reader a hook — a reason to keep reading, not just a topic statement.
-7. Within roughly the first 120 to 150 words, make it clear who the piece is for, what problem or decision it addresses, and what the reader will get.
-8. Use clear H2s and H3s that help the reader scan and decide.
-9. Favor concrete examples, comparisons, and caveats over filler.
-10. Add external links when they help verify tools, claims, or definitions.
-11. Add internal links only when they are relevant, natural, and supported by context.
-12. Save full drafts to `drafts/<topic-slug>-<YYYY-MM-DD>.md`.
-13. Expect substantial drafts to go through fact-check and final review before they are considered publish-ready.
-14. Incorporate required review feedback directly into the draft rather than saving a separate review file.
-15. Always include a short FAQ section near the end, not only when specifically requested.
+5. If a live site exists, fetch `sitemap-posts.xml` (and `sitemap-static.xml` if relevant) once before drafting — see Live Content Discovery above — and reuse that result for internal links, the Related Posts section, and the publish-slug check.
+6. Use `templates/article-frontmatter.md` for the metadata block.
+7. Open with the main problem and article promise quickly, and give the reader a hook — a reason to keep reading, not just a topic statement.
+8. Within roughly the first 120 to 150 words, make it clear who the piece is for, what problem or decision it addresses, and what the reader will get.
+9. Use clear H2s and H3s that help the reader scan and decide.
+10. Favor concrete examples, comparisons, and caveats over filler.
+11. Add external links when they help verify tools, claims, or definitions.
+12. Add internal links only when they are relevant, natural, and supported by context, using real slugs confirmed against the sitemap fetch.
+13. Close with the Related Posts section described above.
+14. Save full drafts to `drafts/en/<SL#>-<topic-slug>-<YYYY-MM-DD>.md` — a zero-padded serial number prefix (e.g. `001-`), tracked in `MEMORY.md`, keeps posts identifiable and sortable regardless of title changes. Every language, including the default English one, lives under its own subfolder rather than flat `drafts/`, so translations reuse the same SL# and slug as the English source: `drafts/bn/<SL#>-<topic-slug>-<YYYY-MM-DD>-bn.md`.
+15. Expect substantial drafts to go through fact-check and final review before they are considered publish-ready.
+16. Incorporate required review feedback directly into the draft rather than saving a separate review file.
+17. Always include a short FAQ section near the end, not only when specifically requested.
 
 ## Reader-First Draft Rules
 
@@ -71,8 +94,24 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 - Flag missing proof instead of filling the gap with vague confidence.
 - If a claim cannot be supported confidently during revision, soften it or remove it.
 
+## Meta Description / Excerpt
+
+The `**Meta Description**` frontmatter field maps directly to the app's single `excerpt` field (confirmed in the `panosia-connect` source: `functions/_shared/meta-description.js`, `functions/_shared/post-og.js`, `src/features/cms/components/feed/FeedCardUnified.tsx`). One field, three jobs:
+
+- **Feed card teaser** — truncated at 200 characters with a "…more" toggle.
+- **Full article page** — rendered in full, directly above Key Takeaways, as the page's opening hook.
+- **Social/OG/meta previews** — auto-truncated to 155 characters at request time (cut at the last full word), so no manual shortening is needed for that surface.
+
+Write it accordingly:
+
+- Write it as a real hook, not a keyword-stuffed SEO snippet. It is read in full, on-page, as the article's opening line(s).
+- Target roughly 200-250 characters, as one complete sentence (or clause) that lands at or just past the 200-character mark, followed by a short second sentence. That way the feed-card truncation cuts after a natural stopping point instead of mid-clause or mid-word, and "…more" reads as an intentional curiosity gap, not an accident.
+- Don't hand-tighten it for the 155-character social-preview limit; the app truncates that automatically at a word boundary.
+- After the draft is otherwise final, re-read this field specifically as "would this make someone tap …more on the feed card," not just as a summary.
+
 ## Readability And Duplication
 
 - Write for a broad, diverse readership: native and non-native English speakers, younger and older readers. Favor plain words, short sentences, and clear structure over anything that assumes fluency or specialist vocabulary.
 - Follow a "less is more" principle. Cut anything that does not earn its place rather than padding for length.
 - Actively check for duplication across sections. If the same point is made in two places, keep it in the section where it fits best and cut or trim it elsewhere.
+- Avoid the em dash ("—") as a default connector. Prefer a comma, a period and new sentence, a colon, or a semicolon, whichever reads most naturally for the specific sentence, over reaching for "—" out of habit. A rare em dash for genuine emphasis or an abrupt aside is fine; a draft leaning on it throughout reads as a stylistic tic rather than a deliberate choice.
