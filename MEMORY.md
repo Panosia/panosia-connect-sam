@@ -61,6 +61,8 @@ Tracks the next available serial number and the SL# → post mapping. Update whe
 
 - Article #1 (Candidate guide) marked published (2026-08-14).
 - Article #2 (parent/family guide) drafted, fact-checked, and independently reviewed (2026-08-14). Verdict: publish-ready. Core thesis (user-provided): parents already run an informal trusted network (friends, colleagues, siblings/cousins, religious gatherings, an Imam/religious leader, professional matchmakers); Panosia Connect gathers that same network onto one platform via the Connector role, the way LinkedIn/Facebook did for their categories; vouching works both ways; the shared network compounds so helping your own child positions a parent to help others too.
+- Global-readability pass on article #2 (2026-08-14): fixed two ambiguous comma-list sentences, replaced idioms ("who-knows-who," "work the phone," "cold profile," "go cold") with plain language, replaced finance jargon ("the network compounds") with a plainer phrase, split one overloaded sentence, and grounded the LinkedIn analogy on its first body mention. Surgical wording-only changes; thesis, structure, facts, FAQ, Related Posts, and frontmatter untouched. Draft remains publish-ready.
+- New workflow preference recorded (2026-08-14): before writing a full draft, show a paragraph-by-paragraph outline for user review and approval first; wait for sign-off before drafting full prose. Apply to article #3 onward.
 
 ## Next Recommended Step
 
