@@ -4,6 +4,10 @@ Use this guide for independent article review. Light polish is secondary, and th
 
 Substantial draft work means a new full draft, a full-article rewrite, or structural changes across multiple sections. It does not mean small local edits.
 
+## Multi-Persona Review
+
+For a deeper, multi-reader pass beyond the standard independent review (e.g. before publish, or when the user wants persona-based scrutiny), use `/hv-article-review`. It reads the draft through six required lenses (native English reader, diaspora/immigrant English reader, young reader, divorced mid-age reader, someone unfamiliar with Panosia Connect, and an industry-leading editor) plus optional supporting lenses, and returns one prioritized in-session verdict. It complements, not replaces, the `seo-reviewer` agent below.
+
 ## When To Trigger Review
 
 - Review after a new full draft.
