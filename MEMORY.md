@@ -43,7 +43,7 @@ Update it whenever setup progress or core strategy assumptions change.
 Tracks the next available serial number and the SL# → post mapping. Update whenever a new post is created.
 
 - Next available SL#: 002
-- 001 — "How to Find a Life Partner: A Trust-First Guide for Serious Matrimony" — `drafts/en/001-how-to-find-a-life-partner-trust-first-guide-2026-08-05.md` (en) and `drafts/bn/001-how-to-find-a-life-partner-trust-first-guide-2026-08-05-bn.md` (bn)
+- 001 — "How to Find a Life Partner: A Trust-First Guide for Serious Matrimony" — `drafts/en/001-how-to-find-a-life-partner-trust-first-guide-2026-08-05.md` (en) and `drafts/bn/001-how-to-find-a-life-partner-trust-first-guide-2026-08-05-bn.md` (bn) — **Published** (2026-08-14)
 
 ## Recent Progress
 
@@ -58,6 +58,8 @@ Tracks the next available serial number and the SL# → post mapping. Update whe
 - Second revision round (2026-08-06): rewrote the intro with a stronger hook ("Finding a Life Partner Starts With Trust"), added a "When Family Is Spread Across Countries" section, added a required FAQ section, reframed the Ryan persona as explicitly hypothetical, and re-ran fact-check + independent review. Required fixes incorporated: removed invented time/speed claims, softened an unverified cross-border access claim, reduced duplicated privacy-controls wording across three sections, smoothed two keyword-forced sentences. Verdict: publish after required fixes — fixes applied, draft is publish-ready.
 - New durable writing standards recorded in context/user-notes.md and docs/article-writing.md (2026-08-06): every intro needs a hook; write for a broad/diverse readership (native and non-native, younger and older readers); always include a short FAQ section; follow "less is more"; actively check for and reduce duplication across sections. Apply these to all future articles, including the parent/family guide.
 
+- Article #1 (Candidate guide) marked published (2026-08-14). Starting article #2 (parent/family guide) next.
+
 ## Next Recommended Step
 
-- Publish the Candidate guide, add the Bengali (bn) version, or start the next article (parent/family guide).
+- Working on article #2: the parent/family guide (audience: parents/family helping a son or daughter). Bengali version of article #1 still outstanding whenever desired.
