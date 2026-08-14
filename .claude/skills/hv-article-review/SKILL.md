@@ -1,90 +1,76 @@
 ---
 name: hv-article-review
-description: Multi-persona readability and publish-readiness review of a draft article — reads the same draft through six-plus distinct reader lenses (native English reader, diaspora/immigrant English reader, young reader, divorced mid-age reader, someone unfamiliar with Panosia Connect, and an industry-leading editor) plus supporting structural checks, then applies editorial judgment and returns one consolidated, actionable review. Use when the user invokes /hv-article-review or asks for a persona-based or multi-reader review of a draft.
+description: Multi-persona readability and publish-readiness review of a draft article — reads it through six required reader lenses (native English, diaspora/immigrant English, young, divorced mid-age, unfamiliar-with-Panosia-Connect, industry editor) plus relevant supporting lenses and structural checks, then triages everything with editorial judgment into one consolidated, actionable review. Use when the user invokes /hv-article-review or asks for a persona-based or multi-reader review of a draft.
 ---
 
-You are running a multi-persona article review, then acting as the piece's editor to decide what actually belongs in it. The personas are a way of gathering findings, not a report format. The goal is one consolidated, actionable review, not six separate reviews, not a raw findings dump, and not a saved audit file. Light polish is secondary; a publish-ready draft is the goal.
+Gather findings through personas; report as an editor, not a panel. Output is one consolidated, actionable review — never six separate reviews, a raw findings dump, or a saved audit file.
 
 ## Usage
 
-`/hv-article-review <path-to-draft> [--keyword "primary keyword"]`
+`/hv-article-review <path> [--keyword "primary keyword"]`
 
-If no path is given, ask which draft to review, or use the most recently drafted/edited file in `drafts/` if the conversation makes that obvious. If no keyword is given, pull `Primary Keyword` from the draft's frontmatter.
+No path given → ask, or use the most recently edited file in `drafts/` if context makes it obvious. No `--keyword` → read `Primary Keyword` from the draft's frontmatter.
 
 ## Setup
 
-Read before reviewing:
+Read: the draft in full; `context/brand-voice.md`, `context/user-notes.md`, `context/seo-guidelines.md`, `context/site-profile.md` (for product-accuracy and the unfamiliar-reader lens); `docs/article-writing.md` and `docs/article-review.md` (house rules). Load `context/target-keywords.md` / `context/internal-links.md` only if they materially affect the review.
 
-- The target draft in full.
-- `context/brand-voice.md`, `context/user-notes.md`, `context/seo-guidelines.md`
-- `context/site-profile.md` (needed to judge the "unfamiliar with Panosia Connect" persona accurately, and to fact-check any product claims that slip in)
-- `docs/article-writing.md` and `docs/article-review.md` (house writing and review rules)
-- `context/target-keywords.md` and `context/internal-links.md` only if they materially affect the review
+Run `node ./scripts/analyze-draft.mjs <path> --keyword "..."` when a keyword is available — deterministic support, not the source of truth.
 
-Run `node ./scripts/analyze-draft.mjs <path> --keyword "..."` if a keyword is available, and use it as deterministic support, not the only source of truth.
+Assume deep fact-checking already ran (`article-writer` → `fact-checker` → `seo-reviewer` workflow) unless told otherwise; still flag anything unsupported, invented, or risky.
 
-Assume deep fact-checking has already run separately (per the standard `article-writer` → `fact-checker` → `seo-reviewer` workflow) unless told otherwise. Still flag anything that looks unsupported, invented, or risky.
+## Personas
 
-## The Six Required Personas
+Read the draft once fully, then once per lens below. Per persona, note only what's distinctive to that lens — friction, confusion, drop-off, trust reaction. Never log the same observation under two personas; it belongs to whichever lens hits it hardest.
 
-Read the draft once fully, then re-read it through each lens below. For each persona, capture only what's distinctive to that lens — friction points, confusion, drop-off risk, trust reaction, or a place they'd stop reading. Don't repeat the same observation under multiple personas; note it once, under whichever persona it hits hardest.
+**Required (all six, every run):**
 
-1. **Native English reader.** Judge voice, rhythm, and whether anything reads as stiff, over-explained, or translated-sounding. This reader has the highest bar for prose quality and will notice filler, throat-clearing, or awkward phrasing first.
-2. **Diaspora / immigrant English reader.** Judge plain language, idioms, sentence length, and cultural assumptions (foods, holidays, wedding customs, family structures) that might not land the same way across regions or generations. This is the project's actual core audience — weight this persona's findings heavily.
-3. **Young reader.** Judge whether the piece feels relevant and current to someone earlier in life or newer to the topic (e.g. a younger Candidate, or a young adult reading on behalf of a parent). Flag anything that reads as written only for an older audience, or that assumes lived experience the reader may not have yet.
-4. **Divorced, mid-age reader.** Judge whether the piece unintentionally excludes or mishandles someone who isn't a first-time, young, never-married searcher. Flag first-marriage-only assumptions, tone that could feel judgmental or naive to someone with more life experience, and any place the piece would benefit from (without forcing) language that doesn't assume this is the reader's first search for a partner.
-5. **Reader unfamiliar with Panosia Connect.** Judge whether the piece is self-contained: does it explain Candidate, Connector, verification, and any other product term in plain language on first use, or does it assume prior familiarity? Flag any sentence that only makes sense to someone who already knows the platform.
-6. **Industry-leading editor (Forbes / New York Times caliber).** Judge structure, headline and subhead quality, opening strength, sentence-level craft, cliché density, and whether claims are earned or asserted. This is the harshest craft lens: flag throat-clearing intros, weak verbs, generic advice-listicle phrasing, and anywhere the piece would get cut for not saying enough with its words.
+| Persona | Judges |
+|---|---|
+| Native English reader | Voice, rhythm, filler, stiff or translated-sounding phrasing. Highest bar for prose quality. |
+| Diaspora / immigrant English reader | Plain language, idioms, sentence length, cultural assumptions. The project's actual core audience — weight this one heavily. |
+| Young reader | Relevance to someone earlier in life or newer to the topic; flags content written only for an older audience. |
+| Divorced, mid-age reader | First-marriage-only assumptions; tone that reads as judgmental or naive to someone with more life experience. |
+| Unfamiliar with Panosia Connect | Self-containment — Candidate, Connector, verification, and any product term defined in plain language on first use. |
+| Industry-leading editor (Forbes / NYT caliber) | Structure, headline/subhead craft, opening strength, cliché density, earned vs. asserted claims. The harshest lens. |
 
-## Additional Lenses (recommended, not user-mandated — apply when relevant)
+**Supporting (apply only when the draft's topic makes them relevant; skip silently otherwise):**
 
-These extend the persona set. Include them when the draft's topic makes them relevant; skip silently rather than forcing a finding where none exists.
+- **Scam-wary reader** — trust/safety claims earned and specific, not reassuring-sounding filler.
+- **Interfaith / cross-cultural reader** — religious/cultural references read as illustrative, not the only valid path.
+- **Low-tech-literacy / mobile skimmer** — scannability on a small screen; headings alone tell a coherent story.
+- **Legal/compliance-conscious reader** — cross-check `brand-voice.md`'s claims-to-avoid list (success rates, "safest" absolutes, guarantees) for overclaiming that isn't factually wrong but is still risky.
+- **Competitor / industry insider** — differentiation claims fair, specific, non-defensive.
 
-- **Scam-wary / previously burned reader.** Someone who has personally encountered or knows someone who encountered a matrimony scam. Judge whether trust and safety claims feel earned and specific rather than reassuring-sounding filler, and whether the piece could read as naive to this reader.
-- **Interfaith / cross-cultural reader.** Judge whether religious and cultural references (e.g. an Imam, specific gathering types, specific customs) read as illustrative examples rather than the only valid path, so readers from other faiths or traditions don't feel unaddressed.
-- **Low-tech-literacy / mobile skimmer.** Judge scannability on a small screen: paragraph length, whether the first screen's worth of content orients the reader, and whether headings alone tell a coherent story if that's all someone reads.
-- **Legal/compliance-conscious reader.** Cross-check against `context/brand-voice.md`'s claims-to-avoid list (success rates, "safest" absolutes, guarantees). This lens exists to catch overclaiming the fact-checker pass might not flag as factually wrong but that's still risky to publish.
-- **Competitor / industry insider.** Someone who works at another matchmaking or dating platform. Judge whether differentiation claims are fair, specific, and non-defensive rather than vague positioning.
+Add another lens only if it would surface something none of the above catches (e.g. bn-translation-readiness for a piece likely to be translated soon), and say why. Don't pad the review with lenses that produce nothing.
 
-Feel free to note if you think another lens materially matters for this specific draft (e.g. a bn-translation-readiness lens for pieces likely to be translated soon) and say why, but don't pad the review with lenses that produce nothing.
+## Structural Checks
 
-## Structural Checks (apply regardless of persona)
+Opening strength (reader/problem/promise within ~120-150 words); heading hierarchy; keyword placement without stuffing; title/meta quality; duplication within the piece and against other `drafts/en/` posts in the same series; em dash overuse; brand voice/vocabulary alignment; research-note or methodology leakage; FAQ presence; internal links relevant and sitemap-verified before publish.
 
-- Opening strength: does it orient the reader (audience, problem, promise) within roughly the first 120-150 words, per `docs/article-review.md`?
-- Heading hierarchy and scannability.
-- Keyword placement without stuffing; title/meta quality.
-- Duplication within the piece and against other drafts in the same series (check `drafts/en/` for overlapping ground already covered).
-- Em dash overuse as a default connector (project style avoids leaning on it).
-- Brand voice and vocabulary alignment (`context/brand-voice.md`'s preferred/avoided terms).
-- Research-note leakage: methodology, inclusion criteria, or exclusion lists that don't earn their place for the reader.
-- FAQ presence and quality (required per house style).
-- Internal links: relevance and whether slugs need live-sitemap verification before publish (flag if unverified).
+## Triage
 
-## Triage Before You Present Anything
+Before writing anything for the user, sort every finding into exactly one bucket:
 
-Gather all persona and structural findings first, but treat that raw list as working notes, not the deliverable. Before writing anything for the user, go through it yourself and sort each finding into one of three buckets:
+1. **Fix.** Anything a reader would actually trip on, or required by house rules or claims risk. Includes cheap, clearly-correct "optional polish" — fold it in as a fix, don't present it as a lesser tier.
+2. **Deliberately skipped.** Valid but not worth taking: duplicates ground another article owns, trades a concrete detail for a box-checking gesture, or adds scope the piece doesn't need. Keep one line explaining why, so the user can overrule it.
+3. **Drop.** Nitpicks and stylistic disagreements with no real reader cost. Don't mention these at all — a review padded with harmless non-issues buries the ones that matter.
 
-1. **Real fixes.** Anything a reader would actually trip on, or anything required by house rules (`brand-voice.md`, `article-writing.md`, factual/claims risk). This includes findings that started out as "optional polish" but are cheap, clearly correct, and improve the piece, fold those in as fixes rather than presenting them as a separate lesser tier.
-2. **Deliberately skipped.** Suggestions that are technically valid but would hurt the piece more than help it, duplicate ground another article already owns, trade a concrete detail for a box-checking gesture, or add scope the article doesn't need. Keep these, but only to explain briefly why they're being passed on, not as an open menu of things the user has to individually approve or reject.
-3. **Not worth mentioning.** Nitpicks, restatements, or minor stylistic disagreements with no real reader cost either way. Drop these entirely. A consolidated review that lists ten harmless non-issues is worse than one that lists three real ones.
+Resolve persona conflicts yourself (e.g. editor lens wants tighter prose, diaspora lens wants more scaffolding) and state which way you went and why. Convergent findings (3+ lenses, same issue) are the top-priority fixes.
 
-Use your judgment the way an author reviewing their own edited draft would: accommodate what genuinely improves the piece, and drop or override suggestions that don't serve the reader, even if a persona lens raised them. When two personas conflict (e.g. the editor lens wants tighter prose, the diaspora lens wants more plain-language scaffolding), resolve it yourself and say which way you went and why, rather than presenting the conflict unresolved.
+## Output
 
-## How to Present Findings
+1. Verdict + one-line summary of what the draft needs, first.
+2. Fixes as a short prioritized checklist — reader problem, not copy-pasteable reviewer phrasing. Cite the persona only when that context helps a fix make sense.
+3. Skipped items, one line each.
+4. Nothing else. In-session only, no saved review file.
 
-Present one consolidated, actionable list, not a per-persona report.
+Verdict labels:
 
-- Lead with the verdict and a one-line summary of what the draft needs.
-- List the real fixes (bucket 1) as a short, prioritized checklist. Attribute a fix to the persona/lens that surfaced it only when that context helps the fix make sense, not as a running label on every line.
-- Note convergent findings (3+ lenses landing on the same issue) as the highest priority within that list, not as a separate section.
-- Give deliberately-skipped items (bucket 2) one line each: what was raised, why it's being passed on. Keep this short. It exists so the user can override a judgment call, not so every persona gets a turn.
-- Leave bucket 3 out entirely. Don't summarize what you decided not to mention.
-- Describe the underlying reader problem rather than reviewer-facing phrasing that could be copy-pasted straight into the draft.
-- Return findings in-session. Do not save a separate review markdown file.
-- End with one short verdict label: `publish-ready`, `publish after required fixes`, or `needs substantial revision`.
+- `publish-ready` — no fixes.
+- `publish after required fixes` — fixes exist but are light/mechanical (wording, metadata, a defined term, a trimmed redundancy).
+- `needs substantial revision` — fixes require structural change, a thesis gap, or unresolved factual/claims risk.
 
 ## Applying Fixes
 
-- Default to a light, surgical pass unless the user clearly wants a deeper rewrite.
-- Route the consolidated fix list back into the draft directly (via `article-writer` for substantive prose changes, or a direct edit for small, mechanical fixes) rather than parking them in a separate review artifact.
-- Save durable feedback about tone, persona blind spots, or recurring issues to `context/user-notes.md` so future drafts start ahead of them.
+Light, surgical pass by default. Route fixes straight into the draft (`article-writer` for substantive prose, direct edit for mechanical ones) — never into a separate review artifact. Save durable, recurring feedback (tone, persona blind spots) to `context/user-notes.md`.
