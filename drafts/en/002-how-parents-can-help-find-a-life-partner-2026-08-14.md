@@ -1,6 +1,6 @@
 **Meta Title**: How to Help Your Son or Daughter Find a Life Partner (Without Taking Over)
-**Meta Description**: You've been making calls, mentioning your child at gatherings, and asking relatives to keep an eye out, the same way parents always have. This guide shows how to bring that same trusted network onto one platform.
-**Primary Keyword**: how to help my son or daughter find a life partner
+**Meta Description**: You've been making calls, mentioning your child at gatherings, and quietly asking relatives and old family friends to keep an eye out, the same way parents have always helped their children marry well. This guide shows how to bring that trusted network onto one platform.
+**Primary Keyword**: how to help your son or daughter find a life partner
 **Secondary Keywords**: matrimony for families, safe online matrimony for families, matchmaking network for parents, help my child find a match
 **URL Slug**: how-parents-can-help-find-a-life-partner
 **Category**: Matchmaking Guidance
@@ -30,7 +30,7 @@ Long before any matrimony website existed, families found spouses for their chil
 
 You've mentioned your child to friends. A colleague brought it up over lunch and said her nephew might be a good fit. Someone at a religious gathering asked around on your behalf. Your sister in another city keeps her ear open at the mosque, church, or temple she attends. An Imam or another local religious leader, who knows dozens of families personally, has quietly connected two households before. Maybe you've even sat across from a professional matchmaker who works this exact circle for a living.
 
-None of this is unusual. It's how serious matrimony has worked for generations, because a proposal that arrives through someone you trust carries weight that a stranger's message never will. You're not looking for the biggest pool of candidates. You're looking for the right introduction from someone whose judgment you respect.
+A proposal that arrives through someone you trust carries weight that a stranger's message never will. You're not looking for the biggest pool of candidates. You're looking for the right introduction from someone whose judgment you respect.
 
 ## The Catch: Your Network Is Scattered
 
@@ -76,7 +76,7 @@ The families that navigate this well treat the search as shared, not owned by ei
 
 The most useful first step is a conversation, not a profile. Ask your son or daughter whether they'd want your help built into their search directly, rather than delivered through separate phone calls and messages. Most adult children who've grown up watching their parents make these calls and introductions on their behalf already understand the instinct; what they're often missing is a way to see what you're doing and stay in control of it.
 
-From there, it's simple. Your child creates their own Candidate profile. You join as a Connector on their network, the same role you'd already be playing informally, and you can start reaching out to families and contacts you trust. If your family already has a network spread across relatives, community members, or a local matchmaker, invite them in too. The wider that trusted circle gets, the more useful it becomes, for your child and for the next family who comes to you for help.
+From there, it's simple. Your child creates their own Candidate profile (their profile as someone actively searching for a life partner). You join as a Connector on their network, the same role you'd already be playing informally, and you can start reaching out to families and contacts you trust. If your family already has a network spread across relatives, community members, or a local matchmaker, invite them in too. The wider that trusted circle gets, the more useful it becomes, for your child and for the next family who comes to you for help.
 
 If your child is starting a search of their own alongside your involvement, our [trust-first guide to finding a life partner](https://connect.panosia.com/posts/how-to-find-a-life-partner) walks through what a serious, values-first search looks like from the Candidate's side.
 
