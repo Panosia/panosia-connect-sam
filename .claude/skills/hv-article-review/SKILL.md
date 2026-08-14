@@ -1,9 +1,9 @@
 ---
 name: hv-article-review
-description: Multi-persona readability and publish-readiness review of a draft article — reads the same draft through six-plus distinct reader lenses (native English reader, diaspora/immigrant English reader, young reader, divorced mid-age reader, someone unfamiliar with Panosia Connect, and an industry-leading editor) plus supporting structural checks, then returns a single prioritized, in-session verdict. Use when the user invokes /hv-article-review or asks for a persona-based or multi-reader review of a draft.
+description: Multi-persona readability and publish-readiness review of a draft article — reads the same draft through six-plus distinct reader lenses (native English reader, diaspora/immigrant English reader, young reader, divorced mid-age reader, someone unfamiliar with Panosia Connect, and an industry-leading editor) plus supporting structural checks, then applies editorial judgment and returns one consolidated, actionable review. Use when the user invokes /hv-article-review or asks for a persona-based or multi-reader review of a draft.
 ---
 
-You are running a multi-persona article review. The goal is one prioritized, in-session set of findings, not six separate reviews and not a saved audit file. Light polish is secondary; a publish-ready draft is the goal.
+You are running a multi-persona article review, then acting as the piece's editor to decide what actually belongs in it. The personas are a way of gathering findings, not a report format. The goal is one consolidated, actionable review, not six separate reviews, not a raw findings dump, and not a saved audit file. Light polish is secondary; a publish-ready draft is the goal.
 
 ## Usage
 
@@ -60,20 +60,31 @@ Feel free to note if you think another lens materially matters for this specific
 - FAQ presence and quality (required per house style).
 - Internal links: relevance and whether slugs need live-sitemap verification before publish (flag if unverified).
 
+## Triage Before You Present Anything
+
+Gather all persona and structural findings first, but treat that raw list as working notes, not the deliverable. Before writing anything for the user, go through it yourself and sort each finding into one of three buckets:
+
+1. **Real fixes.** Anything a reader would actually trip on, or anything required by house rules (`brand-voice.md`, `article-writing.md`, factual/claims risk). This includes findings that started out as "optional polish" but are cheap, clearly correct, and improve the piece, fold those in as fixes rather than presenting them as a separate lesser tier.
+2. **Deliberately skipped.** Suggestions that are technically valid but would hurt the piece more than help it, duplicate ground another article already owns, trade a concrete detail for a box-checking gesture, or add scope the article doesn't need. Keep these, but only to explain briefly why they're being passed on, not as an open menu of things the user has to individually approve or reject.
+3. **Not worth mentioning.** Nitpicks, restatements, or minor stylistic disagreements with no real reader cost either way. Drop these entirely. A consolidated review that lists ten harmless non-issues is worse than one that lists three real ones.
+
+Use your judgment the way an author reviewing their own edited draft would: accommodate what genuinely improves the piece, and drop or override suggestions that don't serve the reader, even if a persona lens raised them. When two personas conflict (e.g. the editor lens wants tighter prose, the diaspora lens wants more plain-language scaffolding), resolve it yourself and say which way you went and why, rather than presenting the conflict unresolved.
+
 ## How to Present Findings
 
-- Organize by persona/lens, but keep each entry to the specific friction point, not a restatement of the whole section.
-- Separate **required fixes** from **optional polish**.
+Present one consolidated, actionable list, not a per-persona report.
+
+- Lead with the verdict and a one-line summary of what the draft needs.
+- List the real fixes (bucket 1) as a short, prioritized checklist. Attribute a fix to the persona/lens that surfaced it only when that context helps the fix make sense, not as a running label on every line.
+- Note convergent findings (3+ lenses landing on the same issue) as the highest priority within that list, not as a separate section.
+- Give deliberately-skipped items (bucket 2) one line each: what was raised, why it's being passed on. Keep this short. It exists so the user can override a judgment call, not so every persona gets a turn.
+- Leave bucket 3 out entirely. Don't summarize what you decided not to mention.
 - Describe the underlying reader problem rather than reviewer-facing phrasing that could be copy-pasted straight into the draft.
-- Call out when a flagged issue isn't worth changing.
-- Prefer a short prioritized checklist over a long generic audit per persona.
-- Note where personas agree — convergent findings across 3+ lenses are the highest-priority fixes.
-- Note where personas conflict (e.g. the editor lens wants tighter prose, the diaspora lens wants more plain-language scaffolding) and recommend which way to resolve it, with reasoning.
 - Return findings in-session. Do not save a separate review markdown file.
 - End with one short verdict label: `publish-ready`, `publish after required fixes`, or `needs substantial revision`.
 
 ## Applying Fixes
 
 - Default to a light, surgical pass unless the user clearly wants a deeper rewrite.
-- Route required fixes back into the draft directly (via `article-writer` for substantive prose changes, or a direct edit for small, mechanical fixes) rather than parking them in a separate review artifact.
+- Route the consolidated fix list back into the draft directly (via `article-writer` for substantive prose changes, or a direct edit for small, mechanical fixes) rather than parking them in a separate review artifact.
 - Save durable feedback about tone, persona blind spots, or recurring issues to `context/user-notes.md` so future drafts start ahead of them.
