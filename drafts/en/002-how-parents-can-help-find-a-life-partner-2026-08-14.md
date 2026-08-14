@@ -22,13 +22,15 @@ You're at a wedding, and between courses you mention, almost without thinking, t
 
 If that sounds familiar, you're not doing anything wrong. You're doing exactly what parents have always done: using your own network to help your child marry well. The problem isn't your instinct. It's that the tools you're using to act on it (phone calls, group chats, half-remembered conversations) were never built to keep track of any of it.
 
-This guide is for parents and family members helping an adult son or daughter find a life partner. It's not about replacing the way you already search. It's about what happens when that same search gets organized in one place instead of scattered across a dozen conversations you're trying to hold in your head.
+This guide is for parents and family members helping an adult son or daughter find a life partner, whether it's a first marriage or not. It's not about replacing the way you already search. It's about what happens when that same search gets organized in one place instead of scattered across a dozen conversations you're trying to hold in your head.
 
 ## How Families Have Always Done This
 
 Long before any matrimony website existed, families found spouses for their children through a network that already had trust built into it.
 
-You've mentioned your child to friends. A colleague brought it up over lunch and said her nephew might be a good fit. Someone at a religious gathering asked around on your behalf. Your sister in another city keeps her ear open at the mosque, church, or temple she attends. An Imam or another local religious leader, who knows dozens of families personally, has quietly connected two households before. Maybe you've even sat across from a professional matchmaker who works this exact circle for a living.
+You've mentioned your child to friends. A colleague brought it up over lunch and said her nephew might be a good fit. Someone at a religious gathering asked around on your behalf.
+
+Your sister in another city keeps her ear open at the mosque, church, or temple she attends. An Imam or another local religious leader, who knows dozens of families personally, has quietly connected two households before. Maybe you've even sat across from a professional matchmaker who works this exact circle for a living.
 
 A proposal that arrives through someone you trust carries weight that a stranger's message never will. You're not looking for the biggest pool of candidates. You're looking for the right introduction from someone whose judgment you respect.
 
@@ -42,9 +44,11 @@ You end up doing the coordination work yourself: remembering who said what, foll
 
 ## One Trusted Network, One Place
 
-This is the gap Panosia Connect is built to close, and it's a familiar kind of gap. Professionals used to keep their network in business cards and a mental list of contacts and connections, until LinkedIn, a website for professional networking, gathered it onto one platform. Friends and family used to keep in touch through scattered phone calls and letters, until Facebook gathered that onto one platform too. Neither invented the underlying relationships. They just gave people a single place to use them.
+Panosia Connect is built to close that gap, and it's a familiar kind of problem to solve. Professionals used to keep their network in business cards and a mental list of contacts and connections, until LinkedIn, a website for professional networking, gathered it onto one platform. Friends and family used to keep in touch through scattered phone calls and letters, until Facebook gathered that onto one platform too. Neither invented the underlying relationships. They just gave people a single place to use them.
 
-Panosia Connect does the same thing for the network you already have as a parent. Your child's search doesn't have to live across your phone contacts, your sister's memory, and a matchmaker's private notebook. Instead, everyone you trust, and everyone they trust, can exist on one platform. You can search within that network for a son or daughter of a family you'd want to know. You can start a real introduction instead of a vague mention at a party. And you can keep track of who you've already reached out to, instead of trying to hold it all in your head.
+Panosia Connect does the same thing for the network you already have as a parent. Your child's search doesn't have to live across your phone contacts, your sister's memory, and a matchmaker's private notebook. Instead, everyone you trust, and everyone they trust, can exist on one platform.
+
+You can search within that network for a son or daughter of a family you'd want to know. You can start a real introduction instead of a vague mention at a party. And you can keep track of who you've already reached out to, instead of trying to hold it all in your head.
 
 Your role in this doesn't change. You're still the parent doing the introducing, the same as you'd be at a gathering or on a phone call. What changes is that the effort finally adds up somewhere, instead of disappearing after a single conversation.
 
@@ -54,7 +58,7 @@ The reason your network has always worked is that people vouch for each other. Y
 
 On Panosia Connect, this has a name: the Connector role. As a parent, you can act as a Connector, vouching for people you know and facilitating introductions, the same way you already do informally. When you know a family personally, your endorsement means something on their profile, visible context instead of an anonymous claim. And it works in reverse too: other parents, relatives, and community members can vouch for your child, adding the kind of real-world backing a bare profile never carries on its own.
 
-This is also where helping one family can lead to helping another. Because everyone on the platform belongs to the same trusted structure, a parent who helps their own child ends up positioned to help others too. The colleague who once mentioned her nephew over lunch can do the same thing here, and so can you, for someone else's son or daughter down the line. That's not a new obligation. It's the same instinct you already have, just no longer limited to who happens to be in the room.
+This is also where helping one family can lead to helping another. Because everyone on the platform belongs to the same trusted structure, a parent who helps their own child ends up able to help others too. The colleague who once mentioned her nephew over lunch can do the same thing here, and so can you, for someone else's son or daughter down the line. That's not a new obligation. It's the same instinct you already have, just no longer limited to who happens to be in the room.
 
 If your family wants a more formal check before serious decisions, Panosia Connect also offers optional identity verification. It's paid, one-time, and never required to use the platform: your own vouching and judgment still do most of the work. Verification simply confirms that a real person stands behind a profile, and it's there for families who want that extra layer.
 
@@ -84,7 +88,7 @@ If your child is starting a search of their own alongside your involvement, our 
 
 ### How can I help my son or daughter find a life partner without pushing too hard?
 
-Offer introductions and share what your network turns up, but let your child decide who to pursue and at what pace. Ask before acting on their behalf, and treat a "no" from them as useful information rather than something to overcome.
+Treat the search as shared, not yours to run. Bring options forward, but let your child make the final call on who to pursue and when.
 
 ### Is Panosia Connect only for the person getting married, or can parents use it too?
 
