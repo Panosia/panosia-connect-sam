@@ -42,8 +42,9 @@ Update it whenever setup progress or core strategy assumptions change.
 
 Tracks the next available serial number and the SL# → post mapping. Update whenever a new post is created.
 
-- Next available SL#: 002
+- Next available SL#: 003
 - 001 — "How to Find a Life Partner: A Trust-First Guide for Serious Matrimony" — `drafts/en/001-how-to-find-a-life-partner-trust-first-guide-2026-08-05.md` (en) and `drafts/bn/001-how-to-find-a-life-partner-trust-first-guide-2026-08-05-bn.md` (bn) — **Published** (2026-08-14)
+- 002 — "How to Help Your Son or Daughter Find a Life Partner (Without Taking Over)" — `drafts/en/002-how-parents-can-help-find-a-life-partner-2026-08-14.md` (en) — **Publish-ready** (fact-checked and independently reviewed, 2026-08-14). Bengali version not yet started. Before publish: re-confirm the 5 Related Posts/internal-link slugs against the live sitemap (network egress was blocked in this session, so they were reused from article #1's own links rather than freshly verified).
 
 ## Recent Progress
 
@@ -58,8 +59,9 @@ Tracks the next available serial number and the SL# → post mapping. Update whe
 - Second revision round (2026-08-06): rewrote the intro with a stronger hook ("Finding a Life Partner Starts With Trust"), added a "When Family Is Spread Across Countries" section, added a required FAQ section, reframed the Ryan persona as explicitly hypothetical, and re-ran fact-check + independent review. Required fixes incorporated: removed invented time/speed claims, softened an unverified cross-border access claim, reduced duplicated privacy-controls wording across three sections, smoothed two keyword-forced sentences. Verdict: publish after required fixes — fixes applied, draft is publish-ready.
 - New durable writing standards recorded in context/user-notes.md and docs/article-writing.md (2026-08-06): every intro needs a hook; write for a broad/diverse readership (native and non-native, younger and older readers); always include a short FAQ section; follow "less is more"; actively check for and reduce duplication across sections. Apply these to all future articles, including the parent/family guide.
 
-- Article #1 (Candidate guide) marked published (2026-08-14). Starting article #2 (parent/family guide) next.
+- Article #1 (Candidate guide) marked published (2026-08-14).
+- Article #2 (parent/family guide) drafted, fact-checked, and independently reviewed (2026-08-14). Verdict: publish-ready. Core thesis (user-provided): parents already run an informal trusted network (friends, colleagues, siblings/cousins, religious gatherings, an Imam/religious leader, professional matchmakers); Panosia Connect gathers that same network onto one platform via the Connector role, the way LinkedIn/Facebook did for their categories; vouching works both ways; the shared network compounds so helping your own child positions a parent to help others too.
 
 ## Next Recommended Step
 
-- Working on article #2: the parent/family guide (audience: parents/family helping a son or daughter). Bengali version of article #1 still outstanding whenever desired.
+- Article #2 is publish-ready pending a live-sitemap re-check of its 5 internal links (see Content Index note). After that: publish article #2, start the Bengali version of article #1 or #2, or move to article #3 (volunteer matchmaker guide) in the role-based series.
