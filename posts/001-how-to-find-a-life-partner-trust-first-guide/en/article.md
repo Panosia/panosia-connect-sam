@@ -5,6 +5,8 @@
 **URL Slug**: how-to-find-a-life-partner
 **Category**: Matchmaking Guidance
 **Tags**: life partner, matrimony, trust, verification, privacy, red flags, marriage tips
+**Draft Date**: 2026-08-05
+**Publish Date**: 2026-08-14
 
 # How to Find a Life Partner: A Trust-First Guide for Serious Matrimony
 

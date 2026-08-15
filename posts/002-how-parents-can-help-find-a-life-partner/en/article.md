@@ -5,6 +5,8 @@
 **URL Slug**: how-parents-can-help-find-a-life-partner
 **Category**: Matchmaking Guidance
 **Tags**: parents, family, Connector, matrimony, trust, network, matchmaking
+**Draft Date**: 2026-08-14
+**Publish Date**: not yet published
 
 # How to Help Your Son or Daughter Find a Life Partner (Without Taking Over)
 

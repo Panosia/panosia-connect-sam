@@ -9,11 +9,11 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 - Always load `context/brand-voice.md`, `context/user-notes.md`, and `context/seo-guidelines.md`.
 - Load `context/internal-links.md` only when a real internal-link opportunity exists.
 - Load `context/target-keywords.md` when it helps clarify topic fit or terminology.
-- Load a relevant brief from `research/` when one exists.
+- Load `research.md` from the post's bundle (`posts/<SL#>-<slug>/research.md`) when one exists.
 
 ## Live Content Discovery (Sitemaps)
 
-Fetch once, pre-writing — reuse that result for the whole post (draft, internal links, publish check). Treat the live sitemap as the source of truth over `context/internal-links.md`, `MEMORY.md`, or any brief in `research/`, all of which can drift from what actually published (e.g. a planned slug or title changing by the time a post goes live).
+Fetch once, pre-writing — reuse that result for the whole post (draft, internal links, publish check). Treat the live sitemap as the source of truth over `context/internal-links.md`, `MEMORY.md`, or any bundle's `research.md`, all of which can drift from what actually published (e.g. a planned slug or title changing by the time a post goes live).
 
 - Posts: `https://connect.panosia.com/sitemap-posts.xml`
 - Static pages: `https://connect.panosia.com/sitemap-static.xml`
@@ -47,10 +47,11 @@ Skip this section only when fewer than 2 genuinely relevant posts exist yet (e.g
 11. Add external links when they help verify tools, claims, or definitions.
 12. Add internal links only when they are relevant, natural, and supported by context, using real slugs confirmed against the sitemap fetch.
 13. Close with the Related Posts section described above.
-14. Save full drafts to `drafts/en/<SL#>-<topic-slug>-<YYYY-MM-DD>.md` — a zero-padded serial number prefix (e.g. `001-`), tracked in `MEMORY.md`, keeps posts identifiable and sortable regardless of title changes. Every language, including the default English one, lives under its own subfolder rather than flat `drafts/`, so translations reuse the same SL# and slug as the English source: `drafts/bn/<SL#>-<topic-slug>-<YYYY-MM-DD>-bn.md`.
-15. Expect substantial drafts to go through fact-check and final review before they are considered publish-ready.
-16. Incorporate required review feedback directly into the draft rather than saving a separate review file.
-17. Always include a short FAQ section near the end, not only when specifically requested.
+14. Save full drafts to `posts/<SL#>-<topic-slug>/en/article.md` — a zero-padded serial number prefix (e.g. `001-`) on the bundle folder, tracked in `MEMORY.md`, keeps posts identifiable and sortable regardless of title changes. The folder name doesn't carry a date; that lives in frontmatter instead (see below). Every language, including the default English one, lives under its own subfolder inside that same bundle rather than a separate tree, so a translation reuses the English source's bundle: `posts/<SL#>-<topic-slug>/bn/article.md`. If an image is ready, follow `docs/image-workflow.md` for the bundle's `images/` folder and the frontmatter `Hero Image`/`Hero Image Alt` fields.
+15. Set `Draft Date` to the date this language's draft was first substantially complete, and `Publish Date` to "not yet published" until it actually goes live, then update it. These are per-language: a translation gets its own dates, don't copy the English source's.
+16. Expect substantial drafts to go through fact-check and final review before they are considered publish-ready.
+17. Incorporate required review feedback directly into the draft rather than saving a separate review file.
+18. Always include a short FAQ section near the end, not only when specifically requested.
 
 ## Reader-First Draft Rules
 

@@ -19,7 +19,7 @@ Load these only when they materially help:
 
 - `context/internal-links.md`
 - `context/target-keywords.md`
-- a relevant brief in `research/`
+- the post bundle's `research.md` (`posts/<SL#>-<slug>/research.md`), if one exists
 - the source draft when handling a rewrite
 
 For net-new drafts and major rewrites, fetch `https://connect.panosia.com/sitemap-posts.xml` (and `sitemap-static.xml` if relevant) once before drafting. Reuse that single fetch for internal links, the closing Related Posts section, and confirming the new post's own slug — it's the source of truth over `context/internal-links.md` or the guide's plan, which can drift from what's actually published.

@@ -18,7 +18,7 @@ Always read:
 
 Load these only when they materially help:
 
-- a relevant brief in `research/`
+- the post bundle's `research.md` (`posts/<SL#>-<slug>/research.md`), if one exists
 - `context/target-keywords.md`
 
 Focus on:

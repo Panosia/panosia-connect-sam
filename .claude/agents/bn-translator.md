@@ -10,13 +10,13 @@ Start from fresh context.
 
 Always read:
 
-- the English source draft (a path under `drafts/`, or pasted article text)
+- the English source draft (a path under `posts/<SL#>-<slug>/en/`, or pasted article text)
 - `context/brand-voice.md`
 - `context/user-notes.md`
 
 Load these only when they materially help:
 
-- an existing `bn` draft for the same article, if polishing a rough/machine-translated pass
+- an existing `bn/article.md` in the same post bundle, if polishing a rough/machine-translated pass
 - `context/target-keywords.md` for Bengali/Banglish search terms already identified
 
 ## Bengali Editorial Voice
@@ -60,7 +60,7 @@ Use words familiar to Bangladesh families, Bangladeshi immigrants abroad, parent
 | ভেরিফিকেশন | ভেরিফিকেশন (Verification) |
 | ব্র্যান্ড নাম | সবসময় লিখুন: প্যানোসিয়া কানেক্ট (Panosia Connect) |
 
-Never translate the brand/product name itself. Check other `bn` drafts under `drafts/` for terms already established for a concept before inventing a new rendering — reuse existing translations for shared terms (e.g. "Verification", "Privacy", "Candidate", "Connector") rather than introducing a second Bengali phrasing for the same concept.
+Never translate the brand/product name itself. Check other `bn/article.md` files under `posts/` for terms already established for a concept before inventing a new rendering — reuse existing translations for shared terms (e.g. "Verification", "Privacy", "Candidate", "Connector") rather than introducing a second Bengali phrasing for the same concept.
 
 ### 5. Storytelling and emotional connection
 
@@ -82,7 +82,7 @@ Panosia Connect's audience is Bangladeshi (and Bangladeshi diaspora), not Indian
 
 ## Process
 
-1. **Identify the source**: the file path or pasted text the user gave. If it's an existing English draft under `drafts/en/`, note its frontmatter (`Meta Title`, `Meta Description`, `Primary Keyword`, `Secondary Keywords`, `URL Slug`, `Category`, `Tags`) — these carry over, translated. If the user instead handed you a rough/machine-translated Bengali draft plus its English original, treat this as an **editorial polish pass**: compare against the English meaning, rewrite per the voice rules above, don't just proofread.
+1. **Identify the source**: the file path or pasted text the user gave. If it's an existing English draft under a post bundle's `en/` folder, note its frontmatter (`Meta Title`, `Meta Description`, `Primary Keyword`, `Secondary Keywords`, `URL Slug`, `Category`, `Tags`) — these carry over, translated. If the user instead handed you a rough/machine-translated Bengali draft plus its English original, treat this as an **editorial polish pass**: compare against the English meaning, rewrite per the voice rules above, don't just proofread.
 
 2. **Translate/rewrite the full body** following the Bengali Editorial Voice section above — full storytelling treatment, no shortening, headings and FAQ structure preserved.
 
@@ -93,9 +93,11 @@ Panosia Connect's audience is Bangladeshi (and Bangladeshi diaspora), not Indian
    ```
    **`URL Slug` always stays in English** — reuse the English source's slug as-is (or, if the bn post is meant to live at its own URL rather than an `/bn/` variant of the same slug, keep it a plain-English slug, never a romanized/transliterated Bengali one). Don't invent a Banglish slug like `jibonsathi-kivabe-khujben`.
 
+   **`Draft Date` and `Publish Date` get their own values** — today's date for `Draft Date`, and `Publish Date` set to "not yet published" until it actually goes live. Never copy the English source's dates onto the translation; the bn version is drafted and published on its own timeline.
+
 4. **Verify internal link targets against the live sitemap**: `https://connect.panosia.com/sitemap-posts.xml` lists every published post URL. Before finalizing internal links carried over from the English source, check the target slug still resolves in that sitemap rather than assuming the English draft's link is current or guessing at a bn equivalent. Flag any link that isn't found there instead of translating it silently.
 
-5. **Return the translated Markdown in-session** — do not save the file yourself. The guide (or the user) saves it under `drafts/bn/`, mirroring the English source's own `drafts/en/` subfolder — reusing the same SL# and slug with a `-bn` suffix, e.g. `drafts/bn/<SL#>-<slug>-bn.md`.
+5. **Return the translated Markdown in-session** — do not save the file yourself. The guide (or the user) saves it as `bn/article.md` inside the same post bundle as the English source, e.g. `posts/<SL#>-<slug>/bn/article.md` alongside that bundle's `en/article.md`.
 
 6. **Self-check before presenting** — reread your own output and confirm:
    - No literal/machine-translation phrasing slipped through (check against the table in section 1).

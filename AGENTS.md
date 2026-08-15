@@ -24,9 +24,12 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 - If a live site exists, read beyond the homepage before drafting setup assumptions.
 - For net-new drafts and major rewrites, fetch `https://connect.panosia.com/sitemap-posts.xml` (and `sitemap-static.xml` if relevant) once before drafting and reuse it for internal links, the Related Posts section, and the publish-slug check. Treat the live sitemap as the source of truth over `context/internal-links.md` or `MEMORY.md`, which can drift from what's actually published — fix those files on any mismatch.
 - Keep `MEMORY.md` updated when setup progress or core strategy assumptions change.
-- Save outputs in `research/` and `drafts/` using lowercase date-stamped slugs.
-- Give every post a zero-padded serial number (SL#) prefix in its filename, e.g. `001-how-to-find-a-life-partner-trust-first-guide-2026-08-05.md`, so posts stay easily identifiable and sortable by creation order. Track the next available SL# and the SL# → title/slug mapping in `MEMORY.md`.
-- File every post under a language subfolder, including the default English one — `drafts/en/`, `drafts/bn/`, etc. — never directly in flat `drafts/`. Translations reuse the same SL# and slug as the English source plus the language suffix, e.g. `drafts/en/001-how-to-find-a-life-partner-trust-first-guide-2026-08-05.md` and `drafts/bn/001-how-to-find-a-life-partner-trust-first-guide-2026-08-05-bn.md`. This makes a translation's source pairing obvious at a glance and keeps every language on equal footing.
+- Every post lives in one page-bundle folder: `posts/<SL#>-<topic-slug>/`, e.g. `posts/001-how-to-find-a-life-partner-trust-first-guide/`. The SL# and slug live once, on the folder, not repeated on every file inside it. Give every post a zero-padded serial number (SL#), so posts stay easily identifiable and sortable by creation order regardless of title changes. Track the next available SL# and the SL# → title/slug mapping in `MEMORY.md`. The folder name carries no date; dates live in each language's own frontmatter instead (`Draft Date`, `Publish Date` — see `templates/article-frontmatter.md`), since a translation is drafted and published on its own timeline, not the English source's.
+- Inside a post bundle:
+  - `research.md` — the brief, if one was written (optional, shared across languages).
+  - `<lang>/article.md` — the draft, one subfolder per language, including the default English one (`en/`, `bn/`, etc.), never a flat file directly in the bundle. Every language stays on equal footing; a translation reuses its English sibling's bundle, just under its own language folder.
+  - `<lang>/social-posts.md` — social copy for that language, created once any exists, one `##` section per platform (see `hv-social-content`).
+  - `images/` — shared across languages, created on first use. See `docs/image-workflow.md` for naming, alt text, and licensing.
 
 ## Load On Demand
 
@@ -36,6 +39,7 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 - `docs/article-review.md`
 - `docs/dataforseo-mcp-setup.md`
 - `docs/exa-seup.md`
+- `docs/image-workflow.md`
 - `context/user-notes.md`
 - `context/site-profile.md`
 - `context/brand-voice.md`

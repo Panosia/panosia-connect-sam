@@ -31,7 +31,7 @@ When doing the work:
 - Load `context/internal-links.md` and `context/target-keywords.md` only when they materially help the task.
 - Use `templates/article-frontmatter.md` when creating metadata blocks.
 - Use `templates/research-brief.md` when saving a topic brief.
-- Save research outputs in `research/` and drafts in `drafts/`, using lowercase date-stamped slugs prefixed with a zero-padded serial number (SL#) tracked in `MEMORY.md` (e.g. `001-how-to-find-a-life-partner-trust-first-guide-2026-08-05.md`). Every language, including the default English one, gets its own subfolder — `drafts/en/`, `drafts/bn/`, etc. — never flat `drafts/`; translations reuse the same SL# and slug as the English source.
+- Every post lives in one page-bundle folder, `posts/<SL#>-<topic-slug>/`, prefixed with a zero-padded serial number (SL#) tracked in `MEMORY.md` (e.g. `posts/001-how-to-find-a-life-partner-trust-first-guide/`). Inside: `research.md` (optional brief), `<lang>/article.md` per language including the default English one (`en/`, `bn/`, etc. — never a flat file directly in the bundle), `<lang>/social-posts.md` once social copy exists, and a shared `images/` folder (see `docs/image-workflow.md`). Translations reuse the same bundle as the English source, just under their own language subfolder.
 - Update `MEMORY.md` when setup or core strategy changes.
 - Treat setup state as one of: not started, in progress, or good enough.
 - Save durable user preferences in `context/user-notes.md`.
@@ -45,7 +45,7 @@ When doing the work:
 - Use the `fact-checker` subagent after every new full draft or major rewrite.
 - Route substantive wording, framing, and body-copy fixes back through `article-writer`; reserve direct patching for tiny local edits.
 - Use the `seo-reviewer` subagent as the final independent fresh-context reviewer after factual fixes are incorporated.
-- Use the `bn-translator` subagent to translate an English draft into Bengali (bn), or to polish an existing rough/machine-translated bn draft against its English source. Save the returned translation to `drafts/` alongside the English source using a `-bn` suffix on the same slug.
+- Use the `bn-translator` subagent to translate an English draft into Bengali (bn), or to polish an existing rough/machine-translated bn draft against its English source. Save the returned translation as `bn/article.md` inside the same post bundle as the English source.
 - Incorporate required fact-check and review findings into the draft instead of saving review artifacts.
 - Default the loop toward a publish-ready result. Keep revising until the remaining issues are optional polish, unless the draft clearly needs substantial revision.
 - Prefer final editorial prose over satisfying every available SEO note when the tradeoff is real and search intent is still met.
