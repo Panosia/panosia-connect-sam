@@ -4,7 +4,7 @@ Source article: `posts/001-how-to-find-a-life-partner-trust-first-guide/en/artic
 
 ## Facebook
 
-**Status**: not yet posted
+**Status**: posted 2026-08-15
 
 **Strategist rationale**: the red-flags checklist. It's the most immediately actionable, personally relevant beat in the piece, exactly the kind of "let me screenshot this" content that stops a scroll for this audience, and it doesn't require any setup to land (unlike the four-list exercise, which needs context to make sense in a caption).
 
@@ -38,7 +38,7 @@ Source article: `posts/001-how-to-find-a-life-partner-trust-first-guide/en/artic
 
 ## LinkedIn
 
-**Status**: not yet posted
+**Status**: posted 2026-08-15
 
 **Strategist rationale**: the founder/mission thesis. LinkedIn's audience here skews toward community leaders, professional matchmakers, and Connectors in a professional capacity, more likely to engage with "why we built this" and a positioning argument than with a tactical checklist. This is also the angle that carries LinkedIn's more authoritative register naturally.
 
@@ -69,7 +69,7 @@ Source article: `posts/001-how-to-find-a-life-partner-trust-first-guide/en/artic
 
 ## X
 
-**Status**: not yet posted
+**Status**: posted 2026-08-15
 
 **Strategist rationale**: the verification myth-bust. X rewards one sharp, contrarian-sounding idea stated plainly, and "verification doesn't prove character, it proves a real person" is the single most quotable, single-idea claim in the article. No thread needed, it lands in one tweet.
 
