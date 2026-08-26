@@ -30,7 +30,7 @@ When doing the work:
 - Load `context/internal-links.md` and `context/target-keywords.md` only when they materially help the task.
 - Use `templates/article-frontmatter.md` when creating metadata blocks.
 - Use `templates/research-brief.md` when saving a topic brief.
-- Every post lives in one page-bundle folder, `posts/<SL#>-<topic-slug>/`, prefixed with a zero-padded serial number (SL#) tracked in `MEMORY.md`. Inside: `research.md` (optional brief), `<lang>/article.md` per language including the default English one (`en/`, `bn/`, etc.), `<lang>/social-posts.md` once social copy exists, and a shared `images/` folder (see `docs/image-workflow.md`). Translations reuse the same bundle as the English source, just under their own language subfolder.
+- Every post lives in one page-bundle folder, `posts/<SL#>-<topic-slug>/`, prefixed with a zero-padded serial number (SL#) tracked in `MEMORY.md`. Inside: `research.md` (optional brief), `<lang>/<SL#>-article.md` per language including the default English one (`en/`, `bn/`, etc., the draft file itself carries just the SL#, no topic slug), `<lang>/<SL#>-social-posts.md` once social copy exists, and a shared `images/` folder (see `docs/image-workflow.md`). Translations reuse the same bundle as the English source, just under their own language subfolder.
 - Update `MEMORY.md` when setup or core strategy changes.
 - Treat setup state as one of: not started, in progress, or good enough.
 - Save durable user preferences in `context/user-notes.md`.

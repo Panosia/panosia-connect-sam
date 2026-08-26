@@ -18,7 +18,7 @@ Always read:
 
 Load these only when they materially help:
 
-- the post bundle's `research.md` (`posts/<SL#>-<slug>/research.md`), if one exists
+- the post bundle's `research.md` (`posts/<SL#>-<topic-slug>/research.md`), if one exists
 - `context/target-keywords.md`
 
 Focus on:

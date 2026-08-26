@@ -22,7 +22,7 @@ Load these only when they materially help:
 
 - `context/internal-links.md`
 - `context/target-keywords.md`
-- the post bundle's `research.md` (`posts/<SL#>-<slug>/research.md`), if one exists
+- the post bundle's `research.md` (`posts/<SL#>-<topic-slug>/research.md`), if one exists
 - the source draft when handling a rewrite
 
 Focus on:

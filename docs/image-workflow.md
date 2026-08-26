@@ -1,6 +1,6 @@
 # Image Workflow
 
-Use this guide whenever a post bundle (`posts/<SL#>-<slug>/`) needs images.
+Use this guide whenever a post bundle (`posts/<SL#>-<topic-slug>/`) needs images.
 
 ## Where Images Live
 
@@ -16,7 +16,7 @@ Use this guide whenever a post bundle (`posts/<SL#>-<slug>/`) needs images.
 
 ## Alt Text
 
-- **In-body images**: alt text lives inline in the Markdown embed, at the point of use, per language: `![alt text in that language](../images/image-1.webp)`. Each language's `article.md` writes its own alt text; unlike the image file, it isn't shared across languages.
+- **In-body images**: alt text lives inline in the Markdown embed, at the point of use, per language: `![alt text in that language](../images/image-1.webp)`. Each language's `<SL#>-article.md` writes its own alt text; unlike the image file, it isn't shared across languages.
 - **Hero image**: rendered by the site template rather than embedded in the article body, so its reference and alt text live in the article's frontmatter instead:
   ```
   **Hero Image**: images/hero.webp

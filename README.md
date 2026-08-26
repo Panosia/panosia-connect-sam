@@ -44,7 +44,7 @@ Say **"hi"** and Sam will orient itself from the workspace state and tell you th
 | `context/` | Durable brand and strategy: site profile, brand voice, SEO guidelines, user notes, target keywords, internal links. |
 | `docs/` | Guides Sam follows: setup, article writing, article review, image workflow, DataForSEO MCP setup, Exa search setup. |
 | `templates/` | Metadata blocks: article frontmatter, research brief. |
-| `posts/` | One page-bundle folder per post, `posts/<SL#>-<topic-slug>/` (e.g. `posts/001-how-to-find-a-life-partner-trust-first-guide/`). Holds an optional `research.md`, a per-language subfolder with `article.md` and `social-posts.md` (`en/`, `bn/`, etc., every language on equal footing), and a shared `images/` folder. |
+| `posts/` | One page-bundle folder per post, `posts/<SL#>-<topic-slug>/` (e.g. `posts/001-how-to-find-a-life-partner-trust-first-guide/`). Holds an optional `research.md`, a per-language subfolder with `<SL#>-article.md` and `<SL#>-social-posts.md` (`en/`, `bn/`, etc., every language on equal footing), and a shared `images/` folder. |
 | `scripts/` | `analyze-draft.mjs` (SEO spot-check) and `normalize-draft.mjs` (formatting). |
 | `AGENTS.md` | The rules Sam works under ("Sam Rules"). |
 

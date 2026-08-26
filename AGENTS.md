@@ -27,8 +27,8 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 - Every post lives in one page-bundle folder: `posts/<SL#>-<topic-slug>/`, e.g. `posts/001-how-to-find-a-life-partner-trust-first-guide/`. The SL# and slug live once, on the folder, not repeated on every file inside it. Give every post a zero-padded serial number (SL#), so posts stay easily identifiable and sortable by creation order regardless of title changes. Track the next available SL# and the SL# → title/slug mapping in `MEMORY.md`. The folder name carries no date; dates live in each language's own frontmatter instead (`Draft Date`, `Publish Date` — see `templates/article-frontmatter.md`), since a translation is drafted and published on its own timeline, not the English source's.
 - Inside a post bundle:
   - `research.md` — the brief, if one was written (optional, shared across languages).
-  - `<lang>/article.md` — the draft, one subfolder per language, including the default English one (`en/`, `bn/`, etc.), never a flat file directly in the bundle. Every language stays on equal footing; a translation reuses its English sibling's bundle, just under its own language folder.
-  - `<lang>/social-posts.md` — social copy for that language, created once any exists, one `##` section per platform (see `hv-social-content`).
+  - `<lang>/<SL#>-article.md` — the draft, one subfolder per language, including the default English one (`en/`, `bn/`, etc.), never a flat file directly in the bundle. The draft file itself is named just `<SL#>-article.md` (no topic slug in the filename, only on the parent folder), so it stays identifiable if the article is opened outside its folder context. Every language stays on equal footing; a translation reuses its English sibling's bundle, just under its own language folder.
+  - `<lang>/<SL#>-social-posts.md` — social copy for that language, created once any exists, one `##` section per platform (see `hv-social-content`).
   - `images/` — shared across languages, created on first use. See `docs/image-workflow.md` for naming, alt text, and licensing.
 
 ## Load On Demand

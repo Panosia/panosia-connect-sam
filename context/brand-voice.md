@@ -19,8 +19,8 @@ Use this file to capture how the company should sound.
 
 ## Vocabulary
 
-- Preferred terms: Candidate, Connector, trusted introduction, network, verification, privacy controls, intentional, biodata
-- Terms to avoid: Dating, swiping, "matches" described as auto-generated (unless explaining what we don't do), soulmate-type promises, describing verification as required or mandatory
+- Preferred terms: Candidate, Connector, trusted introduction, network, verification, privacy controls, intentional, biodata, reference / "be a reference for" (2026-08-26: prefer over "vouch"/"vouching", it's the app's own current term, `Verification References`, `Be a Reference`, per its live homepage copy, and more globally familiar to non-native English readers than the more idiomatic "vouch"; "vouch for" is fine as an occasional natural-language gloss, not the primary term)
+- Terms to avoid: Dating, swiping, "matches" described as auto-generated (unless explaining what we don't do), soulmate-type promises, describing verification as required or mandatory, "vouch"/"vouching" as the primary term (see reference, above)
 - Product naming conventions: "Panosia Connect"; roles capitalized (Candidate, Connector); verification levels referenced as Level-1/2/3; feature names such as "Digital ID Verification" treated as proper nouns
 
 ## Proof Style

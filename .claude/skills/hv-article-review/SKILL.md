@@ -9,7 +9,7 @@ Gather findings through personas; report as an editor, not a panel. Output is on
 
 `/hv-article-review <path> [--keyword "primary keyword"]`
 
-No path given → ask, or use the most recently edited `en/article.md` (or other language) under `posts/` if context makes it obvious. No `--keyword` → read `Primary Keyword` from the draft's frontmatter.
+No path given → ask, or use the most recently edited `<lang>/<SL#>-article.md` (or other language) under `posts/` if context makes it obvious. No `--keyword` → read `Primary Keyword` from the draft's frontmatter.
 
 ## Setup
 
@@ -46,7 +46,7 @@ Add another lens only if it would surface something none of the above catches (e
 
 ## Structural Checks
 
-Opening strength (reader/problem/promise within ~120-150 words); heading hierarchy; keyword placement without stuffing; title/meta quality; duplication within the piece and against other `posts/*/en/article.md` posts in the same series; em dash overuse; brand voice/vocabulary alignment; research-note or methodology leakage; FAQ presence; internal links relevant and sitemap-verified before publish.
+Opening strength (reader/problem/promise within ~120-150 words); heading hierarchy; keyword placement without stuffing; title/meta quality; duplication within the piece and against other `posts/*/en/*-article.md` posts in the same series; em dash overuse; brand voice/vocabulary alignment; research-note or methodology leakage; FAQ presence; internal links relevant and sitemap-verified before publish.
 
 ## Triage
 

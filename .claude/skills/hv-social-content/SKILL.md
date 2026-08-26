@@ -9,7 +9,7 @@ Think like a strategist first, a copywriter second. The job is not "summarize th
 
 `/hv-social-content <path> [--platform facebook|instagram|linkedin|x] [--variants N]`
 
-- No path → ask, or offer the most recent publish-ready/published article's `en/article.md` under `posts/` (or the language implied by context).
+- No path → ask, or offer the most recent publish-ready/published article's `<lang>/<SL#>-article.md` under `posts/` (or the language implied by context).
 - No `--platform` → always ask which platform(s) (Facebook, Instagram, LinkedIn, X, or multiple), presenting Facebook as the pre-selected/default option, before writing any copy. Skip the ask only if the user's request already named a platform.
 - No `--variants` → 1. `--variants 2` produces two hook variants (A/B) of the same post, clearly labeled, for the user to choose or test.
 
@@ -63,4 +63,4 @@ For each requested platform/variant, write a section with:
 3. The ready-to-post copy, exactly as it should be pasted.
 4. Tactical notes: link placement (first comment vs. native), hashtags, an image/visual suggestion, and anything the human posting it needs to know (e.g. "confirm this URL is live before posting").
 
-Save into the source article's own post bundle, at `posts/<SL#>-<slug>/<lang>/social-posts.md`, one `##` section per platform (`## Facebook`, `## LinkedIn`, `## X`, `## Instagram`). If the file already exists, add or replace the sections for the requested platform(s) and leave the others untouched, don't overwrite the whole file. Don't create a separate strategy-notes file or a platform-specific file, the rationale and tactical notes live inline above and below the copy in the same section.
+Save into the source article's own post bundle, at `posts/<SL#>-<topic-slug>/<lang>/<SL#>-social-posts.md`, one `##` section per platform (`## Facebook`, `## LinkedIn`, `## X`, `## Instagram`). If the file already exists, add or replace the sections for the requested platform(s) and leave the others untouched, don't overwrite the whole file. Don't create a separate strategy-notes file or a platform-specific file, the rationale and tactical notes live inline above and below the copy in the same section.

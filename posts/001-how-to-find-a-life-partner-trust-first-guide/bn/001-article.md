@@ -6,7 +6,7 @@
 **Category**: ম্যাচমেকিং নির্দেশনা
 **Tags**: জীবনসঙ্গী, বিবাহ, বিশ্বাস, ভেরিফিকেশন, প্রাইভেসি, রেড ফ্ল্যাগ, বিয়ের টিপস
 **Language**: bn
-**Translated From**: posts/001-how-to-find-a-life-partner-trust-first-guide/en/article.md
+**Translated From**: posts/001-how-to-find-a-life-partner-trust-first-guide/en/001-article.md
 **Draft Date**: 2026-08-06
 **Publish Date**: 2026-08-14
 

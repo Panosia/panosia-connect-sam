@@ -10,13 +10,13 @@ Start from fresh context.
 
 Always read:
 
-- the English source draft (a path under `posts/<SL#>-<slug>/en/`, or pasted article text)
+- the English source draft (a path under `posts/<SL#>-<topic-slug>/en/`, or pasted article text)
 - `context/brand-voice.md`
 - `context/user-notes.md`
 
 Load these only when they materially help:
 
-- an existing `bn/article.md` in the same post bundle, if polishing a rough/machine-translated pass
+- an existing `bn/<SL#>-article.md` in the same post bundle, if polishing a rough/machine-translated pass
 - `context/target-keywords.md` for Bengali/Banglish search terms already identified
 
 ## Bengali Editorial Voice
@@ -60,7 +60,7 @@ Use words familiar to Bangladesh families, Bangladeshi immigrants abroad, parent
 | ভেরিফিকেশন | ভেরিফিকেশন (Verification) |
 | ব্র্যান্ড নাম | সবসময় লিখুন: প্যানোসিয়া কানেক্ট (Panosia Connect) |
 
-Never translate the brand/product name itself. Check other `bn/article.md` files under `posts/` for terms already established for a concept before inventing a new rendering — reuse existing translations for shared terms (e.g. "Verification", "Privacy", "Candidate", "Connector") rather than introducing a second Bengali phrasing for the same concept.
+Never translate the brand/product name itself. Check other `bn/<SL#>-article.md` files under `posts/` for terms already established for a concept before inventing a new rendering — reuse existing translations for shared terms (e.g. "Verification", "Privacy", "Candidate", "Connector") rather than introducing a second Bengali phrasing for the same concept.
 
 ### 5. Storytelling and emotional connection
 
@@ -97,7 +97,7 @@ Panosia Connect's audience is Bangladeshi (and Bangladeshi diaspora), not Indian
 
 4. **Verify internal link targets against the live sitemap**: `https://connect.panosia.com/sitemap-posts.xml` lists every published post URL. Before finalizing internal links carried over from the English source, check the target slug still resolves in that sitemap rather than assuming the English draft's link is current or guessing at a bn equivalent. Flag any link that isn't found there instead of translating it silently.
 
-5. **Return the translated Markdown in-session** — do not save the file yourself. The guide (or the user) saves it as `bn/article.md` inside the same post bundle as the English source, e.g. `posts/<SL#>-<slug>/bn/article.md` alongside that bundle's `en/article.md`.
+5. **Return the translated Markdown in-session** — do not save the file yourself. The guide (or the user) saves it as `bn/<SL#>-article.md` inside the same post bundle as the English source, e.g. `posts/<SL#>-<topic-slug>/bn/<SL#>-article.md` alongside that bundle's `en/<SL#>-article.md`.
 
 6. **Self-check before presenting** — reread your own output and confirm:
    - No literal/machine-translation phrasing slipped through (check against the table in section 1).

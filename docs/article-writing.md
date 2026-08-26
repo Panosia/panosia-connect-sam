@@ -9,7 +9,7 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 - Always load `context/brand-voice.md`, `context/user-notes.md`, and `context/seo-guidelines.md`.
 - Load `context/internal-links.md` only when a real internal-link opportunity exists.
 - Load `context/target-keywords.md` when it helps clarify topic fit or terminology.
-- Load `research.md` from the post's bundle (`posts/<SL#>-<slug>/research.md`) when one exists.
+- Load `research.md` from the post's bundle (`posts/<SL#>-<topic-slug>/research.md`) when one exists.
 
 ## Live Content Discovery (Sitemaps)
 
@@ -47,7 +47,7 @@ Skip this section only when fewer than 2 genuinely relevant posts exist yet (e.g
 11. Add external links when they help verify tools, claims, or definitions.
 12. Add internal links only when they are relevant, natural, and supported by context, using real slugs confirmed against the sitemap fetch.
 13. Close with the Related Posts section described above.
-14. Save full drafts to `posts/<SL#>-<topic-slug>/en/article.md` — a zero-padded serial number prefix (e.g. `001-`) on the bundle folder, tracked in `MEMORY.md`, keeps posts identifiable and sortable regardless of title changes. The folder name doesn't carry a date; that lives in frontmatter instead (see below). Every language, including the default English one, lives under its own subfolder inside that same bundle rather than a separate tree, so a translation reuses the English source's bundle: `posts/<SL#>-<topic-slug>/bn/article.md`. If an image is ready, follow `docs/image-workflow.md` for the bundle's `images/` folder and the frontmatter `Hero Image`/`Hero Image Alt` fields.
+14. Save full drafts to `posts/<SL#>-<topic-slug>/en/<SL#>-article.md` — a zero-padded serial number prefix (e.g. `001-`) on the bundle folder, tracked in `MEMORY.md`, keeps posts identifiable and sortable regardless of title changes. The folder name doesn't carry a date; that lives in frontmatter instead (see below). Every language, including the default English one, lives under its own subfolder inside that same bundle rather than a separate tree, so a translation reuses the English source's bundle: `posts/<SL#>-<topic-slug>/bn/<SL#>-article.md`. If an image is ready, follow `docs/image-workflow.md` for the bundle's `images/` folder and the frontmatter `Hero Image`/`Hero Image Alt` fields.
 15. Set `Draft Date` to the date this language's draft was first substantially complete, and `Publish Date` to "not yet published" until it actually goes live, then update it. These are per-language: a translation gets its own dates, don't copy the English source's.
 16. Expect substantial drafts to go through fact-check and final review before they are considered publish-ready.
 17. Incorporate required review feedback directly into the draft rather than saving a separate review file.
@@ -116,3 +116,4 @@ Write it accordingly:
 - Follow a "less is more" principle. Cut anything that does not earn its place rather than padding for length.
 - Actively check for duplication across sections. If the same point is made in two places, keep it in the section where it fits best and cut or trim it elsewhere.
 - Avoid the em dash ("—") as a default connector. Prefer a comma, a period and new sentence, a colon, or a semicolon, whichever reads most naturally for the specific sentence, over reaching for "—" out of habit. A rare em dash for genuine emphasis or an abrupt aside is fine; a draft leaning on it throughout reads as a stylistic tic rather than a deliberate choice.
+- Never claim a specific personal history or experience on the reader's behalf using "you" (e.g. "you've already done X," "your sister does Y," "the way you already search"), it won't be true for every reader. When a concrete example helps, attribute it to a named, explicitly-hypothetical example character ("Picture [Name], a hypothetical [role], used here to illustrate...", matching the Sarah/Ryan convention in article #1) or generalize it to the audience as a group ("parents," "families") instead. Forward-looking platform capability ("you can join as a Connector"), conditional statements ("if your family wants..."), and direct instructions/advice are fine as "you", they don't claim the reader's past.

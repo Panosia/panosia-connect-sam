@@ -1,6 +1,6 @@
 # Social Posts — Article #001 (How to Find a Life Partner: A Trust-First Guide)
 
-Source article: `posts/001-how-to-find-a-life-partner-trust-first-guide/en/article.md` (Published, 2026-08-14)
+Source article: `posts/001-how-to-find-a-life-partner-trust-first-guide/en/001-article.md` (Published, 2026-08-14)
 
 ## Facebook
 
