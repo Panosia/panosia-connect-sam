@@ -1,42 +1,18 @@
 # User Notes
 
-Use this file for durable user-provided notes the assistant should remember across sessions.
-
-Good examples:
-
-- product positioning notes
-- audience nuances
-- brand constraints
-- words or claims to avoid
-- preferences about tone or content strategy
-- important reminders that should not live in the setup checklist
+Durable user-provided notes to remember across sessions: product positioning, audience nuances, brand constraints, claims to avoid, tone/strategy preferences, reminders that don't belong in the setup checklist.
 
 ## Rules
 
 - User-owned file: do not overwrite or heavily rewrite it unless the user asks.
-- Add short, durable notes rather than long transcripts.
-- Prefer bullets grouped by topic.
+- Add short, durable notes rather than long transcripts. Prefer bullets grouped by topic.
+- Loaded into every session via `CLAUDE.md`, keep it short. Full writing-standard detail belongs in `docs/article-writing.md` (loaded on demand); point to it here instead of restating it.
 
 ## Notes
 
-- Add important user guidance here.
-- Naming: refer to the product and agent as Sam. 
-- Workflow: do not save fact-check or review notes as separate markdown files; incorporate required feedback directly into drafts.
-- Draft preference: new articles should read like final publishable pieces for readers, not like SEO process notes or justifications for methodology and exclusions.
-- Content strategy: role-based article series mapped to the Candidate/Connector model. Order and audiences:
-  1. Candidate guide (current article): "How to Find a Life Partner: A Trust-First Guide for Serious Matrimony" — written for Candidates only.
-  2. Parent/family guide (future) — audience: parents and family members helping a son/daughter.
-  3. Volunteer matchmaker guide (future) — audience: community members who facilitate introductions.
-  4. Local professional matchmaker guide (future) — audience: professional matchmakers.
-- Each article in the series targets one audience segment; do not blend audiences in a single piece.
-- Writing standard (2026-08-06): every intro needs a hook that gives the reader a reason to keep reading, not just a topic statement.
-- Writing standard (2026-08-06): write for a broad, diverse readership — native and non-native English speakers, younger and older readers. Favor plain words, short sentences, and clear structure over anything that assumes fluency or specialist vocabulary.
-- Writing standard (2026-08-06): always include a short FAQ section near the end of every article, not just when asked.
-- Writing standard (2026-08-06): follow a "less is more" principle — cut anything that doesn't earn its place rather than padding for length.
-- Writing standard (2026-08-06): actively check for and remove duplication — the same point should not be made in two different sections.
-- File organization (2026-08-07, superseded 2026-08-15): every post filename got a zero-padded serial number (SL#) prefix under a flat `drafts/en/`, `drafts/bn/` split. Replaced by the `posts/<SL#>-<slug>/` page-bundle structure (no date in the name, dates moved to per-language `Draft Date`/`Publish Date` frontmatter; see `docs/article-writing.md` and `MEMORY.md`'s Gaps To Resolve note for the current convention).
-- Writing standard (2026-08-07): avoid the em dash ("—") as a default connector in English drafts. Prefer a comma, a new sentence, a colon, or a semicolon depending on the sentence. A rare em dash for real emphasis is fine; leaning on it throughout a draft is not.
-- Writing standard (2026-08-13): the `**Meta Description**` frontmatter field is the app's `excerpt` field, shown in full on the article page (above Key Takeaways), truncated at 200 chars with "…more" on feed cards, and auto-truncated to 155 chars for social/OG previews. Write it as a real hook (~200-250 chars, landing near the 200-char mark at a natural sentence break), not a tight SEO snippet. See `docs/article-writing.md` for the full guidance.
-- bn terminology (2026-08-13): use "বিশ্বাস যোগ্য" (not "বিশ্বাসনির্ভর") for "trust-first"/trustworthy framing, including "the person is trustworthy" (e.g. "তিনি বিশ্বাস যোগ্য মানুষ"). Keep "সত্যিকারের" for identity/realness claims (e.g. "a real person stands behind the profile," "real, verifiable people"), those are a different concept and stay as-is.
-- Workflow preference (2026-08-14): before writing a full draft, show a paragraph-by-paragraph outline (not just section H2s) for user review and approval first. Wait for sign-off before drafting full prose.
-- Article #2 core thesis (2026-08-14, from user): parents have always helped their children marry well through their own informal network, friends, colleague lunch-time conversations, social gatherings, religious gatherings, siblings/cousins' networks, local religious leaders (e.g. an Imam), and local professional matchmakers. Panosia Connect gathers that same trusted network onto one platform (framed like LinkedIn/Facebook did for professional/social networking), so a parent can search within their network, start introductions, and vouch for people they know (and be vouched for in return). Because everyone is part of the same trusted network, a parent who helps their own child ends up able to help others too. This is the central thesis for the parent/family guide; keep the parent as protagonist throughout.
+- Naming: refer to the product and agent as Sam.
+- Workflow: don't save fact-check/review notes as separate files, incorporate required feedback directly into drafts. Show a paragraph-by-paragraph outline for approval before drafting full prose (2026-08-14).
+- Content strategy: role-based series, one audience per article, no blending: 1) Candidate guide, 2) parent/family guide, 3) volunteer matchmaker guide, 4) local professional matchmaker guide.
+- Writing standards (full detail in `docs/article-writing.md`): intro hook; broad-readership plain language; required FAQ; less-is-more; no em dash as default; meta-description-as-hook format (~200-250 chars); never presume the reader's personal history via "you", use a named hypothetical persona or generalize instead (2026-08-26).
+- bn terminology (2026-08-13): "বিশ্বাস যোগ্য" for trust-first/trustworthy framing (not "বিশ্বাসনির্ভর"); "সত্যিকারের" stays for identity/realness claims, a different concept.
+- Article #2 core thesis (from user): parents already run an informal trusted network (friends, colleagues, siblings/cousins, religious leaders like an Imam, professional matchmakers); Panosia Connect gathers that network onto one platform (LinkedIn/Facebook-style), so a parent can search, introduce, and vouch, and be vouched for in return. Helping your own child positions you to help others too. Keep the parent as protagonist throughout.
