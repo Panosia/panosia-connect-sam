@@ -46,13 +46,15 @@ You end up doing the coordination work yourself: remembering who said what, foll
 
 ## One Trusted Network, One Place
 
-Panosia Connect is built to close that gap, and it's a familiar kind of problem to solve. Professionals used to keep their network in business cards and a mental list of contacts and connections, until LinkedIn, a website for professional networking, gathered it onto one platform. Friends and family used to keep in touch through scattered phone calls and letters, until Facebook gathered that onto one platform too. Neither invented the underlying relationships. They just gave people a single place to use them.
+Panosia Connect is built to close that gap, and it's a familiar kind of problem to solve. Professionals used to keep their network in business cards and a mental list of contacts, until LinkedIn, a website for professional networking, gathered it onto one platform. Friends and family used to keep in touch through scattered phone calls and letters, until Facebook gathered that onto one platform too.
+
+Neither invented the underlying relationships. They just gave people a single place to use them.
 
 Panosia Connect does the same thing for the network you already have as a parent. Your child's search doesn't have to live across your phone contacts, your sister's memory, and a matchmaker's private notebook. Instead, everyone you trust, and everyone they trust, can exist on one platform.
 
 You can search within that network for a son or daughter of a family you'd want to know. You can start a real introduction instead of a vague mention at a party. And you can keep track of who you've already reached out to, instead of trying to hold it all in your head.
 
-Your role in this doesn't change. You're still the parent doing the introducing, the same as you'd be at a gathering or on a phone call. What changes is that the effort finally adds up somewhere, instead of disappearing after a single conversation.
+Your role in this doesn't change: you're still the parent making the introduction. What changes is that the effort finally adds up somewhere, instead of disappearing after a single conversation.
 
 ## Building Trust the Way You Already Do: Vouching
 
@@ -60,7 +62,7 @@ The reason your network has always worked is that people vouch for each other. Y
 
 On Panosia Connect, this has a name: the Connector role. As a parent, you can act as a Connector, vouching for people you know and facilitating introductions, the same way you already do informally. When you know a family personally, your endorsement means something on their profile, visible context instead of an anonymous claim. And it works in reverse too: other parents, relatives, and community members can vouch for your child, adding the kind of real-world backing a bare profile never carries on its own.
 
-This is also where helping one family can lead to helping another. Because everyone on the platform belongs to the same trusted structure, a parent who helps their own child ends up able to help others too. The colleague who once mentioned her nephew over lunch can do the same thing here, and so can you, for someone else's son or daughter down the line. That's not a new obligation. It's the same instinct you already have, just no longer limited to who happens to be in the room.
+This is also where helping one family can lead to helping another. Because everyone on the platform belongs to the same trusted structure, a parent who helps their own child ends up able to help others too. The colleague who once mentioned her nephew over lunch can do the same thing here, and so can you, for someone else's son or daughter down the line. That's not a new obligation. It's the same instinct, just no longer limited to who happens to be in the room.
 
 If your family wants a more formal check before serious decisions, Panosia Connect also offers optional identity verification. It's paid, one-time, and never required to use the platform: your own vouching and judgment still do most of the work. Verification simply confirms that a real person stands behind a profile, and it's there for families who want that extra layer.
 
@@ -82,7 +84,7 @@ The families that navigate this well treat the search as shared, not owned by ei
 
 The most useful first step is a conversation, not a profile. Ask your son or daughter whether they'd want your help built into their search directly, rather than delivered through separate phone calls and messages. Most adult children who've grown up watching their parents make these calls and introductions on their behalf already understand the instinct; what they're often missing is a way to see what you're doing and stay in control of it.
 
-From there, it's simple. Your child creates their own Candidate profile (their profile as someone actively searching for a life partner). You join as a Connector on their network, the same role you'd already be playing informally, and you can start reaching out to families and contacts you trust. If your family already has a network spread across relatives, community members, or a local matchmaker, invite them in too. The wider that trusted circle gets, the more useful it becomes, for your child and for the next family who comes to you for help.
+From there, it's simple. Your child creates their own Candidate profile (their profile as someone actively searching for a life partner). You join as a Connector on their network, and you can start reaching out to families and contacts you trust. If your family already has a network spread across relatives, community members, or a local matchmaker, invite them in too. The wider that trusted circle gets, the more useful it becomes, for your child and for the next family who comes to you for help.
 
 If your child is starting a search of their own alongside your involvement, our [trust-first guide to finding a life partner](https://connect.panosia.com/posts/how-to-find-a-life-partner) walks through what a serious, values-first search looks like from the Candidate's side.
 
