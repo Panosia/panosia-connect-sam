@@ -38,6 +38,12 @@ Start with the basics:
 
 If you already have a biodata document sitting on your computer, a printed biodata you could photograph, or a LinkedIn profile, you don't have to start from a blank page. Profile Import reads it and fills in your profile fields for you, free of charge. You still review and confirm everything before it goes live, so the profile stays yours; the tool just removes the blank-page problem.
 
+![The Panosia Connect biodata import screen, showing a PDF being uploaded and parsed into profile fields](https://connect.panosia.com/assets/profile-import-pdf-BKVPANGy.webp)
+
+To import from LinkedIn specifically, the flow is: LinkedIn → "Save to PDF" (in your profile's own menu) → upload that PDF to Profile Import. There's no separate LinkedIn connection to set up; it goes through the same PDF import as any other biodata document. Prefer not to save a PDF? Copying the text from your LinkedIn profile and pasting it in works just as well.
+
+![Importing a LinkedIn profile into Panosia Connect, with fields pulled from LinkedIn ready for review](https://connect.panosia.com/assets/profile-import-linked-in-CC_biyF9.webp)
+
 Matrimony is built on trust, and trust starts with authenticity. A complete, thoughtful profile signals that you're serious. The goal isn't to impress with polish, it's to represent yourself clearly enough that the right people feel confident reaching out.
 
 ## Step 2: Set Your Privacy Comfort Level
@@ -47,6 +53,10 @@ It's natural to feel cautious about sharing personal details online. Panosia Con
 Many fields on your profile, not just your photo and name, carry their own privacy control. A photo can be full, blurred, or hidden; a name can be full or initials-only; and other fields carry similar options. Most visitors see your Public View by default, a limited version of your profile. Anyone who wants more has to request your Private View, which you approve or reject person by person. Nothing unlocks automatically.
 
 ![A Panosia Connect profile shown in Public View, with the photo blurred and the name partially hidden until private access is granted](https://connect.panosia.com/assets/public-blurred-CpEKEH7d.webp)
+
+Some people prefer it the other way around: photo public so family and friends recognize them right away, name kept private so the profile doesn't turn up in a plain name search.
+
+![A Panosia Connect profile shown with the photo public and the name kept private](https://connect.panosia.com/assets/private-public-DqwoGABr.webp)
 
 A common approach: [keep your photo blurred](https://connect.panosia.com/posts/blur-your-profile-photo-for-public-viewers) and your name partly hidden in Public View, then approve Private View selectively for people who seem genuinely serious. That way you're not invisible, but you're not fully exposed to every visitor either.
 
@@ -61,6 +71,10 @@ Marriage decisions are rooted in trust, and trust usually comes from context: wh
 Panosia Connect lets you show that context on your profile instead of asking people to take your word for it. Add your Family Tree (parents, siblings, and other relatives) and your Social Connections (friends and colleagues who know you). List a few Verification References too: real people who know you personally and are willing to be messaged directly by someone checking you out.
 
 ![A candidate's Family Tree and Social Connections displayed on their Panosia Connect profile](https://connect.panosia.com/assets/family-tree-social-connections-DdeulZHF.webp)
+
+Add a few Verification References so an interested visitor can start a conversation and build trust before reaching out to you directly. If a profile you're visiting doesn't list any yet, it's fair to ask that person to add some.
+
+![Panosia Connect Verification References, showing people a visitor can message to learn more about a candidate](https://connect.panosia.com/assets/verification-references-no-text-Dk4puyrt.webp)
 
 Once a visitor is granted full access to your profile, they see your environment, not just your claims about yourself. That creates accountability on both sides: someone can see who you're connected to, families can cross-check details through people they may already know, and conversations start from more solid ground.
 
