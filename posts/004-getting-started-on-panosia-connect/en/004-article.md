@@ -12,17 +12,17 @@
 
 **Key Takeaways**
 
-- Complete your profile like a resume for the job you actually want. Profile Import can auto-fill it from an existing biodata (PDF, DOC, or image) or your LinkedIn profile, free.
-- Privacy is field by field, not all-or-nothing: choose what's full, blurred, or hidden, and approve Private View access one visitor at a time.
-- Trust comes from context. Your Family Tree, Social Connections, and Verification References let visitors see the people who already know you, not just your own claims.
-- Share your live profile link, not a static PDF, to get discovered. Discover filters and Connectors help the right people find you.
-- Verification builds credibility across three levels, but it's entirely optional and pay-per-use, never required to use Panosia Connect.
+* Complete your profile like a resume for the job you actually want. If you already have a biodata document or a LinkedIn profile, a free built-in tool can read it and fill in your profile fields for you.
+* Privacy works field by field, not all-or-nothing: choose what's fully visible, blurred, or hidden, and approve full access to your profile one visitor at a time.
+* Trust comes from context, not just your own claims. Showing your family, your personal connections, and people who can vouch for you lets visitors see who already knows you.
+* A quick identity check (photo ID plus a selfie) is required before you can search for others, browse the directory, or message anyone. Two deeper, optional verification levels build extra credibility on top of that. All verification is pay-per-use, never a subscription.
+* Share your live profile link instead of a static PDF so people can find you. Search filters and introductions from people you trust make it easier for the right match to reach you.
 
 Signing up for Panosia Connect takes two minutes. Turning that account into a profile someone would actually want to reach out to takes real thought, and that's the part most people skip.
 
 Think of it the way you'd think about a resume for the job you actually want. You wouldn't submit a half-finished resume for the job of a lifetime and expect the hiring manager to fill in the blanks. Finding a life partner deserves at least that much care.
 
-This guide walks through seven practical steps for Candidates: completing your profile, setting your privacy, building your trust network, getting discovered, messaging safely, getting verified, and involving your family. Whether you just created your account or have had a profile sitting half-finished for weeks, start here.
+This guide walks through seven practical steps for Candidates, Panosia Connect's term for anyone building a profile to search for a life partner: completing your profile, setting your privacy, building your trust network, getting verified, getting discovered, messaging safely, and involving your family. Whether you just created your account or have had a profile sitting half-finished for weeks, start here.
 
 ## Step 1: Complete Your Profile Thoughtfully
 
@@ -30,11 +30,11 @@ Your profile is your first impression. Before you write a word, ask yourself: if
 
 Start with the basics:
 
-- A clear, recent, respectful profile photo
-- An honest "About Me" that sounds like you, not a summary written for a resume
-- Key details: education, profession, lifestyle, and values
-- Family background and context
-- A few quality gallery photos
+* A clear, recent, respectful profile photo
+* An honest "About Me" that sounds like you, not a summary written for a resume
+* Key details: education, profession, lifestyle, and values
+* Family background and context
+* A few quality gallery photos
 
 If you already have a biodata document sitting on your computer, a printed biodata you could photograph, or a LinkedIn profile, you don't have to start from a blank page. Profile Import reads it and fills in your profile fields for you, free of charge. You still review and confirm everything before it goes live, so the profile stays yours; the tool just removes the blank-page problem.
 
@@ -52,11 +52,19 @@ It's natural to feel cautious about sharing personal details online. Panosia Con
 
 Many fields on your profile, not just your photo and name, carry their own privacy control. A photo can be full, blurred, or hidden; a name can be full or initials-only; and other fields carry similar options. Most visitors see your Public View by default, a limited version of your profile. Anyone who wants more has to request your Private View, which you approve or reject person by person. Nothing unlocks automatically.
 
-![A Panosia Connect profile shown in Public View, with the photo blurred and the name partially hidden until private access is granted](https://connect.panosia.com/assets/public-blurred-CpEKEH7d.webp)
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;margin:24px 0;">
+  <div style="flex:1 1 300px;max-width:320px;text-align:center;">
+    <img alt="A Panosia Connect profile shown in Public View, with the photo blurred and the name partially hidden until private access is granted" style="width:100%;height:auto;border-radius:20px;" src="https://connect.panosia.com/assets/public-blurred-CpEKEH7d.webp" />
+  </div>
+</div>
 
 Some people prefer it the other way around: photo public so family and friends recognize them right away, name kept private so the profile doesn't turn up in a plain name search.
 
-![A Panosia Connect profile shown with the photo public and the name kept private](https://connect.panosia.com/assets/private-public-DqwoGABr.webp)
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;margin:24px 0;">
+  <div style="flex:1 1 300px;max-width:320px;text-align:center;">
+    <img alt="A Panosia Connect profile shown with the photo public and the name kept private" style="width:100%;height:auto;border-radius:20px;" src="https://connect.panosia.com/assets/private-public-DqwoGABr.webp" />
+  </div>
+</div>
 
 A common approach: [keep your photo blurred](https://connect.panosia.com/posts/blur-your-profile-photo-for-public-viewers) and your name partly hidden in Public View, then approve Private View selectively for people who seem genuinely serious. That way you're not invisible, but you're not fully exposed to every visitor either.
 
@@ -80,49 +88,57 @@ Once a visitor is granted full access to your profile, they see your environment
 
 This works both ways. As you browse other profiles, you can look at their trust network too, and it's often more revealing than an "About Me" section.
 
-## Step 4: Share and Get Discovered
+## Step 4: Get Verified and Build Credibility
+
+Verification is one of the strongest trust signals on the platform. You don't need it to create a profile or build out your Family Tree, Social Connections, and References. You do need it, though, before you can act on any of that: searching for others, browsing profiles through Discover (the platform's search and browse page), requesting someone's Private View, and chatting all require Level 1 ID Verification first. It exists so you can prove things about yourself that would otherwise just be claims.
+
+There are three levels, and each one is pay-per-use rather than a subscription:
+
+* **Level 1,** [ID Verification](https://connect.panosia.com/posts/self-service-identity-verification-feature-launch): a photo ID, a selfie, and a face scan from your phone. This confirms your name, date of birth, gender, and location, and unlocks search, Discover, full-profile requests, and chat. You get a private, shareable report.
+* **Level 2, Background Check**: a live video call where a verifier reviews your personal information, education, and work history. Either side of a conversation can request this once real conversation has started. Both people are notified by email and in-app, and you get a private, shareable report.
+* **Level 3, In-Person Verification**: a local verifier meets you in person and confirms your profile is accurate, following the same request-and-notify flow as Level 2.
+
+![The Level 1 ID Verification flow on Panosia Connect, showing the photo ID and selfie face-scan steps](https://connect.panosia.com/assets/id-verification-hero-MSVTU1fJ.webp)
+
+Once you've completed Level 1, Level 2 and Level 3 build additional credibility but neither one is required. Before a serious conversation goes further, it's worth checking the other person's verification status too, and gently encouraging them to complete it if they haven't.
+
+## Step 5: Share and Get Discovered
 
 A complete profile that nobody sees doesn't help you. Visibility is the next step.
 
-Skip the static PDF biodata as your main way of sharing yourself. Share your actual profile link instead: it's a live page, not a snapshot, and it respects whatever privacy level the person opening it has been granted. Someone with Public View access sees your Public View when they click; someone you've approved for Private View sees more. One link, always current, no separate document to keep updating.
+Skip the static PDF biodata as your main way of sharing yourself. Share your actual profile link instead: it's a live page, not a snapshot, and it respects whatever privacy level the person opening it has been granted. Someone who only has Public View access sees that limited version when they click; someone you've approved for Private View sees your full profile. One link, always current, no separate document to keep updating.
 
-![A shared Panosia Connect profile link opened in Private View, showing the full profile after access is granted](https://connect.panosia.com/assets/private-view-full-profile-Bg-E7_1o.webp)
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;margin:24px 0;">
+  <div style="flex:1 1 300px;max-width:320px;text-align:center;">
+    <img alt="A shared Panosia Connect profile link opened in Private View, showing the full profile after access is granted" style="width:100%;height:auto;border-radius:20px;" src="https://connect.panosia.com/assets/private-view-full-profile-Bg-E7_1o.webp" />
+  </div>
+</div>
 
 There are still moments a static file is genuinely useful, like sending something to a relative who wants to print it. Profile Export covers that: download your profile as a formatted biodata PDF anytime, choose a theme, and choose how much to include, from public details only up to your full profile. It's free.
 
+![A Panosia Connect profile exported as a formatted, shareable PDF](https://connect.panosia.com/assets/pdf-export-CTphcbJw.webp)
+
 Beyond your own link, a few ways to increase your reach:
 
-- Share your profile with family and relatives over WhatsApp or email
-- Post in relevant Facebook or community groups
-- Ask people you trust to join and connect with you
-- Use Discover to search other profiles by filters like gender, age range, location, marital status, and verification status
-- Reach out to [Connectors](https://connect.panosia.com/posts/what-is-a-connector-and-why-it-matters), family, friends, or community members who help facilitate introductions, and ask them to keep you in mind
+* Share your profile with family and relatives over WhatsApp or email
+* Post in relevant Facebook or community groups
+* Ask people you trust to join and connect with you
+* Use Discover to search other profiles by filters like gender, age range, location, marital status, and verification status, once you've completed the Level 1 ID Verification from Step 4
+* Reach out to [Connectors](https://connect.panosia.com/posts/what-is-a-connector-and-why-it-matters), family, friends, or community members who help facilitate introductions, and ask them to keep you in mind
 
 Panosia Connect works through networks, not isolation. The more the right people see your profile, the better your odds of a meaningful connection.
 
-## Step 5: Message Before You Meet
+![types of connectors in society](https://qrqtajlanmzaiwczwayi.supabase.co/storage/v1/object/public/hrm-cms/gallery-images/4e6ae80f-4247-439f-94e9-ede471be3006/img-1777949910050.webp)
 
-Once someone catches your interest, send a request to connect or view more of their profile. From there, [Secure Chat](https://connect.panosia.com/posts/app-chat-messaging-feature) is where the real conversation happens.
+## Step 6: Message Before You Meet
+
+With Level 1 ID Verification from Step 4 done, you can now message anyone or request their Private View. Once someone catches your interest, send a request to connect or view more of their profile. From there, [Secure Chat](https://connect.panosia.com/posts/app-chat-messaging-feature), the platform's built-in messaging, is where the real conversation happens.
 
 You don't need to hand over a phone number or personal email to start talking. Message the Candidate directly through the app. If you want a lower-stakes way in first, message their Verification References, the people who already know them, before reaching out to the Candidate themselves. Once you've been granted private access, you can message their family or friends too, the same people you'd see in their trust network.
 
 ![The Panosia Connect in-app Secure Chat, showing a conversation without sharing a phone number or email](https://connect.panosia.com/assets/app-chat-BVbrNqMK.webp)
 
 Keep the early conversation respectful and unhurried. Move to a call only once both sides are comfortable, and involve family or someone you trust early rather than late; it's safer, and it fits how this community is meant to work.
-
-## Step 6: Get Verified and Build Credibility
-
-Verification is one of the strongest trust signals on the platform, and it's entirely optional. You're never required to verify in order to create a profile, browse, or message. It exists so you can prove things about yourself that would otherwise just be claims, when you decide that matters to you.
-
-There are three levels, and each one is pay-per-use rather than a subscription:
-
-- **Level 1, [ID Verification](https://connect.panosia.com/posts/self-service-identity-verification-feature-launch)**: a photo ID, a selfie, and a face scan from your phone. This confirms your name, date of birth, gender, and location, and unlocks search, Discover, full-profile requests, and chat. You get a private, shareable report.
-- **Level 2, Background Check**: a live video call where a verifier reviews your personal information, education, and work history. Either side of a conversation can request this once real conversation has started. Both people are notified by email and in-app, and you get a private, shareable report.
-- **Level 3, In-Person Verification**: a local verifier meets you in person and confirms your profile is accurate, following the same request-and-notify flow as Level 2. If you'd want to do this for others in your area, there's a "Become a Verifier" path for that too.
-
-![The Level 1 ID Verification flow on Panosia Connect, showing the photo ID and selfie face-scan steps](https://connect.panosia.com/assets/id-verification-hero-MSVTU1fJ.webp)
-
-Higher levels build more credibility, but none of them are required to use the platform or to talk to anyone. Before a serious conversation goes further, it's worth checking the other person's verification status too, and gently encouraging them to complete it if they haven't.
 
 ## Step 7: Involve Family and Move Forward Thoughtfully
 
@@ -134,11 +150,11 @@ Panosia Connect is built to support that kind of thoughtful, responsible decisio
 
 ### Is Panosia Connect free?
 
-Yes. Creating a profile, searching, messaging, privacy controls, and family features are all free forever, with no subscriptions. The only paid products are the optional, one-time verification services described above.
+Yes. Creating a profile, privacy controls, and family features are all free forever, with no subscriptions. Searching, browsing, and messaging require the one-time Level 1 ID Verification covered in Step 4, which is also the only paid step on the platform.
 
 ### Do I have to get verified?
 
-No. Verification is optional at every level. It helps you build credibility and evaluate others, but you can create a profile, browse, and message without it.
+Not to create or share your profile. But Level 1 ID Verification, covered in Step 4, is required before you can search, browse, or message anyone. Levels 2 and 3 stay fully optional, for extra credibility when you want it.
 
 ### What if I don't want my photo public?
 
