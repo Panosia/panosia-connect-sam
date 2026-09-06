@@ -14,7 +14,7 @@
 
 - Parents have long done informal matchmaking work: mentioning their child at gatherings, asking relatives, checking with people they trust. That instinct doesn't need replacing.
 - The problem isn't the network, it's that it's scattered across phone calls, group chats, and one-off conversations with no way to keep track of it.
-- Panosia Connect gathers that same trusted network onto one platform through the Connector role, the way LinkedIn gathered professional networks onto one place.
+- Panosia Connect gathers that same trusted network onto one platform through the Connector role (the part a parent, relative, or community member plays as a reference and introducer), the way LinkedIn gathered professional networks onto one place.
 - References work both ways: you can be a reference for people you know, and have people who know you do the same for you, building more trust than an anonymous profile ever could.
 - Helping well means staying involved without deciding for your child; the tools should support your child's voice, not replace it.
 
@@ -46,11 +46,11 @@ Parents in this position end up doing the coordination work themselves: remember
 
 ## One Trusted Network, One Place
 
-Panosia Connect is built to close that gap, and it's a familiar kind of problem to solve. Professionals used to keep their network in business cards and a mental list of contacts, until LinkedIn, a website for professional networking, gathered it onto one platform. Friends and family used to keep in touch through scattered phone calls and letters, until Facebook gathered that onto one platform too.
+Panosia Connect is built to close that gap, and it's a familiar kind of problem to solve. Professionals used to keep their network in business cards and a mental list of contacts, until LinkedIn, a website for professional networking, gathered it onto one platform. Facebook did the same thing for friendships and family ties that used to run through scattered phone calls and letters.
 
 Neither invented the underlying relationships. They just gave people a single place to use them.
 
-Panosia Connect does the same thing for whatever network you already have as a parent. A child's search doesn't have to live across scattered phone contacts, a relative's memory, and a matchmaker's private notebook. Instead, everyone you trust, and everyone they trust, can exist on one platform.
+Panosia Connect does the same thing for whatever network you already have as a parent. A child's search doesn't have to live across scattered phone contacts, a relative's memory, and a matchmaker's private notebook. Instead, everyone you trust, and everyone they trust, can be found in the same place.
 
 You can search within that network for a son or daughter of a family you'd want to know. You can start a real introduction instead of a vague mention at a party. And you can keep track of who you've already reached out to, instead of trying to hold it all in your head.
 
@@ -60,11 +60,13 @@ Your role in this doesn't change: you're still the parent making the introductio
 
 The reason a network like Farida's has always worked is that people put their name behind each other. Her colleague wouldn't have mentioned her nephew if she didn't think well of the family, and the Imam wouldn't connect two households casually. That personal backing is the actual mechanism of trust, more than the introduction itself.
 
-On Panosia Connect, this has a name: the Connector role, and being a reference is one of the things a Connector does. As a parent, you can act as a Connector: add yourself as a reference for people you know and facilitate introductions, the way parents already do this informally. When you know a family personally, your reference means something on their profile, visible context instead of an anonymous claim. And it works in reverse too: other parents, relatives, and community members can be references for your child, adding the kind of real-world backing a bare profile never carries on its own.
+On Panosia Connect, this has a name: the Connector role, and being a reference is one of the things a Connector does. As a parent, you can act as a Connector: add yourself as a reference for people you know and facilitate introductions, the way parents already do this informally.
+
+When you know a family personally, your reference means something on their profile, visible context instead of an anonymous claim. And it works in reverse too: other parents, relatives, and community members can be references for your child, adding the kind of real-world backing a bare profile never carries on its own.
 
 This is also where helping one family can lead to helping another. Because everyone on the platform belongs to the same trusted structure, a parent who helps their own child ends up able to help others too. The colleague who once mentioned her nephew over lunch can do the same thing here, and so can you, for someone else's son or daughter down the line. That's not a new obligation. It's the same instinct, just no longer limited to who happens to be in the room.
 
-If your family wants a more formal check before serious decisions, Panosia Connect also offers optional identity verification. It's paid, one-time, and never required to use the platform: your own references and judgment still do most of the work. Verification simply confirms that a real person stands behind a profile, and it's there for families who want that extra layer.
+If your family wants a more formal check before serious decisions, Panosia Connect also offers optional identity verification. Creating a profile, being a Connector, and adding references never requires it: your own judgment still does most of the work early on. But before your child can search, use Discover (the platform's search and browse page), or start real conversations, Level 1 ID Verification is a required step, not just an add-on. It confirms that a real person stands behind a profile, and higher tiers exist for families who want an extra layer beyond that.
 
 ## How to Help Without Taking Over
 
@@ -84,7 +86,9 @@ The families that navigate this well treat the search as shared, not owned by ei
 
 The most useful first step is a conversation, not a profile. Ask your son or daughter whether they'd want your help built into their search directly, rather than delivered through separate phone calls and messages. Most adult children who've grown up watching their parents make these calls and introductions on their behalf already understand the instinct; what they're often missing is a way to see what you're doing and stay in control of it.
 
-From there, it's simple. Your child creates their own Candidate profile (their profile as someone actively searching for a life partner). You join as a Connector on their network, and you can start reaching out to families and contacts you trust. If your family already has a network spread across relatives, community members, or a local matchmaker, invite them in too. The wider that trusted circle gets, the more useful it becomes, for your child and for the next family who comes to you for help.
+From there, it's simple. Your child creates their own Candidate profile (their profile as someone actively searching for a life partner). You join as a Connector on their network, and you can start reaching out to families and contacts you trust.
+
+If your family already has a network spread across relatives, community members, or a local matchmaker, invite them in too. The wider that trusted circle gets, the more useful it becomes, for your child and for the next family who comes to you for help.
 
 If your child is starting a search of their own alongside your involvement, our [trust-first guide to finding a life partner](https://connect.panosia.com/posts/how-to-find-a-life-partner) walks through what a serious, values-first search looks like from the Candidate's side.
 
@@ -104,7 +108,7 @@ It means putting your name behind a person or family you genuinely know, the sam
 
 ### Do I need to pay to use Panosia Connect as a parent or Connector?
 
-No. The platform is free to join and stays free, with no subscriptions. Optional identity verification services exist for families who want an extra layer of confirmation, but they're a one-time paid choice, never a requirement to participate.
+No. The platform is free to join and stays free, with no subscriptions. As a Connector, being a reference, joining your child's network, and sharing profiles never requires verification. Your child's own Level 1 ID Verification is a separate, required step before they can search, use Discover, request to see someone's full profile (Private View), or chat — it's paid, one-time, and confirms a real person stands behind a profile.
 
 ### What if my child and I disagree about someone on the platform?
 
