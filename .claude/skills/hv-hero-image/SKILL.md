@@ -1,9 +1,9 @@
 ---
 name: hv-hero-image
-description: Reads a blog post and writes 5 distinct Google Gemini image-generation prompt variations for an editorial, professional OG/hero image, appended to the bottom of the article's markdown file. Use when the user invokes /hv-hero-image or asks for hero image prompts, OG image prompts, or Gemini prompts for a blog post's cover image.
+description: Reads a blog post and writes 7 distinct Google Gemini image-generation prompt variations for a professional OG/hero image (5 editorial-photography angles, 1 abstract/graphic concept, and 1 title-baked variant of that abstract concept), appended to the bottom of the article's markdown file. Use when the user invokes /hv-hero-image or asks for hero image prompts, OG image prompts, or Gemini prompts for a blog post's cover image.
 ---
 
-This skill writes prompts, it does not generate images. The output is 5 ready-to-paste text prompts for Google Gemini's image generator (or another Gemini-compatible tool). If the user wants the image actually rendered, that's `blog-image` (Gemini via MCP) — point them there instead of trying to generate pixels here.
+This skill writes prompts, it does not generate images. The output is 7 ready-to-paste text prompts for Google Gemini's image generator (or another Gemini-compatible tool). If the user wants the image actually rendered, that's `blog-image` (Gemini via MCP) — point them there instead of trying to generate pixels here.
 
 ## Usage
 
@@ -23,26 +23,27 @@ Read the whole article (frontmatter + body), plus `context/brand-voice.md` and `
 
 ## Visual Direction (non-negotiable guardrails)
 
-Per `context/brand-voice.md`, this brand is warm, respectful, trustworthy, family-friendly, and explicitly **not** a dating-app aesthetic. Every prompt must:
+Per `context/brand-voice.md`, this brand is warm, respectful, trustworthy, family-friendly, and explicitly **not** a dating-app aesthetic. Apply to every variation:
 
-- Read as editorial/documentary photography, not stock-photo cliché or illustration, unless the user asks for illustration instead
-- Show warmth and dignity: real-feeling human moments (a conversation, a family gathering, a quiet decision), not posed "stock couple" tropes
-- Avoid dating-app visual clichés: no swiping gestures, no phone screens showing a "match," no hearts/flames iconography
-- Avoid literal security clichés for verification-themed posts: no padlocks, checkmarks, shield icons, or barcode-style ID graphics
-- Respect the audience: modest, culturally appropriate representation fitting a Bangladeshi/South Asian and broader diaspora matrimony audience, never stereotyped or exoticized
-- No embedded text, logos, or watermarks in the image itself — the site overlays the title separately. Flag this assumption to the user and skip it only if they explicitly want baked-in text.
-- Landscape orientation suited to an OG/share image (1200×630, roughly 1.91:1) — say so explicitly in every prompt so Gemini frames it correctly.
+- Editorial/documentary or magazine-editorial photography, not stock-photo cliché or illustration (unless the user asks for illustration)
+- Warm, dignified, real-feeling human moments, not posed "stock couple" tropes
+- No dating-app clichés (swiping, "match" screens, hearts/flames) or verification-post clichés (padlocks, checkmarks, shields, barcodes)
+- International audience, not Bangladesh/South-Asian-only, even though bn is one supported language: vary ethnic/cultural background across variations rather than defaulting the whole set to one region; whatever background is depicted, keep it modest and dignified, never stereotyped
+- No embedded text/logos/watermarks (the site overlays the title) unless the user asks
+- Landscape 1200×630 (~1.91:1) — state this explicitly in every prompt
+- Vary lighting, color, and style deliberately per variation rather than repeating one recipe: mix morning/overcast/golden-hour/blue-hour/lamplight/high-key, muted/warm/cool/bolder palettes, and documentary vs. glossy magazine-editorial styling — don't default the whole set to golden-hour warm-muted
 
-## Writing the 5 Variations
+## Writing Variations 1–5 (Editorial Photography)
 
-Each variation must be a genuinely different angle on the article's subject, not five phrasings of the same shot. Vary at least two of: subject/protagonist, setting, composition (close-up vs. wide, candid vs. still-life/detail shot), time of day/lighting, or emotional register. Build each prompt from these components, in the prompt text itself (not as separate labeled fields):
+Each must be a genuinely different angle, not five phrasings of one shot — vary at least three of: subject, setting, composition, lighting/color, style. Cover these components in the prompt's own text (not as labeled fields): **subject** (grounded in the article's real content — a specific persona moment if one exists, e.g. Farida at a wedding, otherwise a representative figure), **action** (a real moment, not a pose), **setting** (matching the article's world), **composition** (framing/angle/depth of field), **lighting and color** (see guardrails), **style** (see guardrails, plus a film-stock or photographer-reference adjective if it helps).
 
-1. **Subject** — who or what, grounded in the article's actual content (a specific persona moment if the article has one, e.g. Farida at a wedding; otherwise a representative, unnamed figure)
-2. **Action** — what they're doing, a real moment not a pose
-3. **Context/setting** — where, matching the article's world (a family gathering, a quiet home office, a community space)
-4. **Composition** — framing, angle, depth of field
-5. **Lighting** — natural light descriptors (soft morning light, warm golden hour, diffused window light) — avoid harsh studio lighting
-6. **Style** — "editorial photography," "documentary style," a film stock or photographer-reference adjective if it helps (warm, muted, natural tones), plus the aspect ratio line
+## Writing Variation 6 (Abstract/Graphic)
+
+A non-literal option: the article's central idea rendered as shape, texture, and color rather than people or scenes — e.g. threads converging into a network for a "trusted network" post, overlapping translucent layers for a "privacy control" post. Avoid the generic "blue gradient with dots and lines" AI-abstract cliché specifically; otherwise any palette is fine as long as it reads as considered and human, not a stock tech-dashboard graphic. Same no-text/no-logo/aspect-ratio rules as variations 1–5. Name the concrete visual metaphor in the one-line rationale so the user can judge if it maps to the article.
+
+## Writing Variation 7 (Abstract + Title)
+
+The same abstract concept as Variation 6, but with the article's exact `Meta Title` (from frontmatter) rendered into the image, since a graphic/abstract background is far more forgiving of Gemini's imperfect text rendering than a photographic scene. Add to the prompt: the exact title text (quoted verbatim), a request for clean modern sans-serif typography, high contrast against the background so it stays legible at OG-thumbnail size, and title placement (e.g. lower third or centered) that doesn't collide with the composition's focal point. Note in the rationale that Gemini's text rendering is unreliable and the result may need manual retouching or a design tool as a fallback.
 
 ## Output Format
 
@@ -59,7 +60,13 @@ Append to the bottom of the article file passed in (or chosen), under a new `##`
 \```
 
 ### Variation 2 — ...
-...through Variation 5
+...through Variation 5 (editorial photography)
+
+### Variation 6 — Abstract: <concept label>
+...
+
+### Variation 7 — Abstract + Title: <concept label>
+...
 ```
 
 Use `Edit`/insert at the end of the file, don't rewrite the rest of the article. If the section already exists (a re-run), replace it rather than duplicating it.

@@ -2,6 +2,11 @@
 
 Use this file to capture how the company should sound.
 
+## Visual Representation
+
+- Panosia Connect is an international service (bn is one supported language, not the only audience). Don't default hero/OG image concepts or people depicted to one ethnicity (e.g., South Asian) as if that's the whole audience — vary ethnic/cultural representation across a set of image options rather than treating South Asian as the default look.
+- Whatever background is depicted, keep it modest, warm, and dignified per the tone below; never stereotyped or exoticized.
+
 ## Tone
 
 - Overall tone: Warm, respectful, trustworthy, and practical — like a thoughtful family advisor, not a dating-app brand
