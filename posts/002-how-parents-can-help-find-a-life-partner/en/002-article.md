@@ -12,11 +12,11 @@
 
 **Key Takeaways**
 
-- Parents have long done informal matchmaking work: mentioning their child at gatherings, asking relatives, checking with people they trust. That instinct doesn't need replacing.
-- The problem isn't the network, it's that it's scattered across phone calls, group chats, and one-off conversations with no way to keep track of it.
-- Panosia Connect gathers that same trusted network onto one platform through the Connector role (the part a parent, relative, or community member plays as a reference and introducer), the way LinkedIn gathered professional networks onto one place.
-- References work both ways: you can be a reference for people you know, and have people who know you do the same for you, building more trust than an anonymous profile ever could.
-- Helping well means staying involved without deciding for your child; the tools should support your child's voice, not replace it.
+* Parents have long done informal matchmaking work: mentioning their child at gatherings, asking relatives, checking with people they trust. That instinct doesn't need replacing.
+* The problem isn't the network, it's that it's scattered across phone calls, group chats, and one-off conversations with no way to keep track of it.
+* Panosia Connect gathers that same trusted network onto one platform through the Connector role (the part a parent, relative, or community member plays as a reference and introducer), the way LinkedIn gathered professional networks onto one place.
+* References work both ways: you can be a reference for people you know, and have people who know you do the same for you, building more trust than an anonymous profile ever could.
+* Helping well means staying involved without deciding for your child; the tools should support your child's voice, not replace it.
 
 ## A Familiar Parenting Instinct
 
@@ -24,7 +24,7 @@ Your son or daughter may already have something most matchmaking platforms can't
 
 This guide is for parents and family members helping an adult son or daughter find a life partner, whether it's a first marriage or not. It's not about replacing how your family already searches. It's about what happens when that search gets organized in one place instead of scattered across a dozen conversations.
 
-Picture Farida, a hypothetical mother searching for her son's life partner. She's at a wedding, and between courses she mentions, almost without thinking, that her son is looking. A cousin says she knows someone. Farida writes the name down, promises to follow up, and by the following week can't remember if she already called.
+Picture Farida, a mother searching for her son’s life partner. At a gathering, she casually mentions that her son is looking. A friend says she knows someone and shares a name and phone number. Farida saves it, promising to follow up. A week later, she has several names in her phone and can’t remember who she contacted, who she meant to call, or who came recommended.
 
 Nothing about that is wrong. It's exactly what parents have always done: use their own network to help a child marry well. The instinct isn't the problem. Phone calls, group chats, and half-remembered conversations were never built to keep track of it.
 
@@ -56,11 +56,13 @@ Your role doesn't change: you're still the parent making the introduction. What 
 
 The reason a network like Farida's has always worked is that people put their name behind each other. Her colleague wouldn't have mentioned her nephew if she didn't think well of the family, and a community leader making an introduction is putting their own credibility behind it too. That personal backing is the actual mechanism of trust, more than the introduction itself.
 
-On Panosia Connect, this has a name: the Connector role, and being a reference is one of the things a Connector does. As a parent, you can add yourself as a reference for people you know and facilitate introductions, the way you already do this informally. When you know a family personally, your reference means something on their profile, visible context instead of an anonymous claim. It works in reverse too: other parents, relatives, and community members can be references for your child.
+On Panosia Connect, this has a name: the Connector role, and being a reference is one of the things a Connector does.&#x20;
+
+![Image](https://qrqtajlanmzaiwczwayi.supabase.co/storage/v1/object/public/hrm-cms/gallery-images/20f3b94d-0c13-40e5-97c5-52fd9baa4808/img-1789007948242.jpg)
+
+As a parent, you can add yourself as a reference for people you know and facilitate introductions, the way you already do this informally. When you know a family personally, your reference means something on their profile, visible context instead of an anonymous claim. It works in reverse too: other parents, relatives, and community members can be references for your child.
 
 This is also where helping one family can lead to helping another. Because everyone on the platform belongs to the same trusted structure, a parent who helps their own child ends up able to help others too. It's the same instinct, just no longer limited to who happens to be in the room.
-
-Creating a profile, being a Connector, and adding references never requires verification; your own judgment does most of the work early on. But before your child can search, use Discover (the platform's search and browse page), or start real conversations, Level 1 ID Verification is required: it confirms a real person stands behind a profile. Higher tiers stay optional for families who want an extra layer.
 
 ## How to Help Without Taking Over
 
@@ -68,11 +70,11 @@ There's a real difference between helping your child search and searching for th
 
 A few habits keep the balance right:
 
-- **Bring options, not decisions.** Share a profile or an introduction, then let your child decide whether to pursue it. Your judgment adds context; it shouldn't replace theirs.
-- **Ask before you act on their behalf.** Reaching out to a family, adding yourself as a reference, or forwarding your child's information all go better when your child knows it's happening.
-- **Let your child set the pace.** Some children want to move quickly, others want more conversations before anything serious. Both are normal.
-- **Stay involved through the middle, not just the ends.** Helping doesn't stop at the introduction. Being available for questions and honest opinions as things progress is often the more valuable part.
-- **Respect a no.** If your child isn't interested in someone you liked, that's useful information, not a problem to solve.
+* **Bring options, not decisions.** Share a profile or an introduction, then let your child decide whether to pursue it. Your judgment adds context; it shouldn't replace theirs.
+* **Ask before you act on their behalf.** Reaching out to a family, adding yourself as a reference, or forwarding your child's information all go better when your child knows it's happening.
+* **Let your child set the pace.** Some children want to move quickly, others want more conversations before anything serious. Both are normal.
+* **Stay involved through the middle, not just the ends.** Helping doesn't stop at the introduction. Being available for questions and honest opinions as things progress is often the more valuable part.
+* **Respect a no.** If your child isn't interested in someone you liked, that's useful information, not a problem to solve.
 
 The families that navigate this well treat the search as shared, not owned by either side. Your network and experience are real assets. Your child's judgment about their own life is the final word.
 
@@ -81,6 +83,8 @@ The families that navigate this well treat the search as shared, not owned by ei
 The most useful first step is a conversation, not a profile. Ask your son or daughter whether they'd want your help built into their search directly, rather than delivered through separate phone calls and messages. Most adult children who've grown up watching their parents make these calls and introductions on their behalf already understand the instinct; what they're often missing is a way to see what you're doing and stay in control of it.
 
 From there, it's simple. Your child creates their own Candidate profile (their profile as someone actively searching for a life partner). You join as a Connector on their network, and you can start reaching out to families and contacts you trust.
+
+![Image](https://qrqtajlanmzaiwczwayi.supabase.co/storage/v1/object/public/hrm-cms/gallery-images/20f3b94d-0c13-40e5-97c5-52fd9baa4808/img-1789008220485.jpg)
 
 If your family already has a network spread across relatives, community members, or a local matchmaker, invite them in too. The wider that trusted circle gets, the more useful it becomes, for your child and for the next family who comes to you for help.
 
