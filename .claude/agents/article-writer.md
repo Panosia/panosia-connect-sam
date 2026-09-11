@@ -32,6 +32,7 @@ Focus on:
 - an opening that reaches the useful answer quickly and makes the article's relevance obvious
 - practical specificity and useful examples
 - natural structure and scannability
+- ESL-friendly sentences (short, active voice, no untranslatable idioms, terms defined on first use — rules: `docs/article-writing.md`) and no duplicated points/examples across sections
 - a publishable reader-first draft instead of visible process notes
 - fair, contextual product mentions in first-party content
 - clear caveats where the product or workflow has limits

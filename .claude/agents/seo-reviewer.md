@@ -32,6 +32,8 @@ Focus on:
 - evidence quality, citations, and product fairness
 - internal and external linking opportunities
 - readability and scannability, including overuse of the em dash ("—") as a default connector instead of a comma, period, colon, or semicolon
+- ESL readability: clause-stacked sentences, untranslatable idioms/phrasal verbs/references, passive voice, undefined terms on first use
+- duplication: repeated points/examples across sections without new work
 - research-note leakage and methodology sections that do not earn their place
 - whether the draft is publish-ready with only optional polish remaining
 

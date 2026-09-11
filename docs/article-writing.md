@@ -112,8 +112,19 @@ Write it accordingly:
 
 ## Readability And Duplication
 
-- Write for a broad, diverse readership: native and non-native English speakers, younger and older readers. Favor plain words, short sentences, and clear structure over anything that assumes fluency or specialist vocabulary.
+- Write for ESL readers as the default reader, not an edge case. Favor plain words, short sentences, and clear structure over anything assuming fluency or specialist vocabulary.
+- ESL-friendly sentences:
+  - One main clause per sentence; split into two sentences rather than stack clauses with commas, semicolons, or conjunctions.
+  - Subject-verb-object order; avoid long lead-ins, inversions, or delayed subjects.
+  - Active voice over passive (passive hides who's doing what and is harder to parse).
+  - No idioms, non-literal phrasal verbs, or culture-specific references (sports, slang, wordplay) that don't translate.
+  - Define product terms and uncommon words in plain language on first use per article, even ones `context/brand-voice.md` already treats as defined.
+  - Plain words over fancier synonyms ("help" not "facilitate," "use" not "utilize").
+  - Keep pronouns close to their antecedent; repeat the noun if more than a sentence separates them.
 - Follow a "less is more" principle. Cut anything that does not earn its place rather than padding for length.
-- Actively check for duplication across sections. If the same point is made in two places, keep it in the section where it fits best and cut or trim it elsewhere.
+- Duplication check, required on every substantial draft, not a spot check:
+  - Before finalizing, list the core points, examples, and product-mechanic explanations the draft makes; flag every section restating one.
+  - A repeat is fine only when it does new work (a new angle, a deliberate callback, or a required section like the FAQ briefly restating for skimmers). Otherwise keep it once, wherever it fits best, and cut it elsewhere.
+  - Applies at the sentence level too — two paragraphs restating the same claim in different words still counts.
 - Avoid the em dash ("—") as a default connector. Prefer a comma, a period and new sentence, a colon, or a semicolon, whichever reads most naturally for the specific sentence, over reaching for "—" out of habit. A rare em dash for genuine emphasis or an abrupt aside is fine; a draft leaning on it throughout reads as a stylistic tic rather than a deliberate choice.
 - Never claim a specific personal history or experience on the reader's behalf using "you" (e.g. "you've already done X," "your sister does Y," "the way you already search"), it won't be true for every reader. When a concrete example helps, attribute it to a named, explicitly-hypothetical example character ("Picture [Name], a hypothetical [role], used here to illustrate...", matching the Sarah/Ryan convention in article #1) or generalize it to the audience as a group ("parents," "families") instead. Forward-looking platform capability ("you can join as a Connector"), conditional statements ("if your family wants..."), and direct instructions/advice are fine as "you", they don't claim the reader's past.

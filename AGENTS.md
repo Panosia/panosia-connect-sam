@@ -61,6 +61,7 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 - Treat methodology notes, inclusion filters, and exclusion lists as internal unless they materially help the reader.
 - Drafts should read like finished articles for readers, not like transparent SEO or research process notes.
 - Keep the writing practical, specific, and natural.
+- Write for ESL readers as the default reader and avoid cross-section duplication (rules: `docs/article-writing.md`).
 
 ## Checks
 

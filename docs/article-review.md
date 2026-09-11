@@ -33,6 +33,8 @@ For a deeper, multi-reader pass beyond the standard independent review (e.g. bef
 - brand voice alignment
 - fairness of first-party product mentions
 - research-note leakage, unnecessary methodology, or exclusion asides
+- ESL readability: clause-stacked sentences, untranslatable idioms/phrasal verbs/cultural references, passive voice, undefined terms on first use (rules: `docs/article-writing.md`)
+- duplication: a point, example, or mechanic restated across sections without doing new work
 - whether suggested fixes are worth the tradeoff
 
 ## Publish-Ready Checks
@@ -43,6 +45,7 @@ For a deeper, multi-reader pass beyond the standard independent review (e.g. bef
 - Flag sections that appear to come straight from internal brief notes rather than reader needs.
 - Keep first-party disclosure present when needed, but brief and proportional to the article.
 - Ask whether the piece would still feel publishable if the keyword targets and brief were hidden from view.
+- Flag sentences an ESL reader would need to re-read, and points repeated across sections without new value.
 
 ## How To Present Feedback
 

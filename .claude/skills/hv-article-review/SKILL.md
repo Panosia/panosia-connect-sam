@@ -28,7 +28,7 @@ Read the draft once fully, then once per lens below. Per persona, note only what
 | Persona | Judges |
 |---|---|
 | Native English reader | Voice, rhythm, filler, stiff or translated-sounding phrasing. Highest bar for prose quality. |
-| Diaspora / immigrant English reader | Plain language, idioms, sentence length, cultural assumptions. The project's actual core audience — weight this one heavily. |
+| Diaspora / immigrant English reader | Plain language, idioms, phrasal verbs, clause-stacked sentences, passive voice, cultural assumptions (rules: `docs/article-writing.md`). Core audience — weight heavily. |
 | Young reader | Relevance to someone earlier in life or newer to the topic; flags content written only for an older audience. |
 | Divorced, mid-age reader | First-marriage-only assumptions; tone that reads as judgmental or naive to someone with more life experience. |
 | Unfamiliar with Panosia Connect | Self-containment — Candidate, Connector, verification, and any product term defined in plain language on first use. |
