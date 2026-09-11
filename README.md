@@ -75,3 +75,6 @@ Say **"hi"** and Sam will orient itself from the workspace state and tell you th
 ## License
 
 See `LICENSE` for terms.
+
+#SEO
+What to do after setup https://openseo.so/docs/mcp
