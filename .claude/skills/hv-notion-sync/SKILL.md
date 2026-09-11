@@ -1,20 +1,24 @@
 ---
 name: hv-notion-sync
-description: Two-way sync between a Notion "Blog Posts" database and this repo's posts/ bundles — status, metadata, and full article content per language. Use when the user invokes /hv-notion-sync or asks to sync, push, or pull blog posts to/from Notion.
+description: Two-way sync between a Notion "Blog Posts" database and this repo's posts/ bundles — status, metadata, and full article content per language. Also one-way (repo → Notion) sync of the workspace-memory hub (MEMORY.md, AGENTS.md workflow rules, brand voice, site profile, user notes, writing/review standards, SEO guidelines) so other AI sessions without repo access (Cowork, Claude Desktop, other agents) can read current context from Notion. Use when the user invokes /hv-notion-sync or asks to sync, push, or pull blog posts or workspace memory to/from Notion.
 ---
 
-Notion becomes a status dashboard and reviewable copy of every post; `posts/` on disk stays the place drafting actually happens. Sync reconciles the two, per post per language, and only overwrites a side when it's safe to. Social post copy syncs alongside the article, per language.
+Notion serves two related but separate purposes here, and this skill covers both:
+
+1. **Blog Posts database** — a status dashboard and reviewable copy of every post; `posts/` on disk stays the place drafting actually happens. Two-way, per post per language.
+2. **Sam Workspace Memory hub** — a read mirror of the repo's own context files (MEMORY.md, AGENTS.md, context/*.md, docs/*.md), for AI sessions that don't have repo access. One-way, repo → Notion only: the repo is always the source of truth here, Notion is never edited back into it.
 
 ## Usage
 
-`/hv-notion-sync [--setup] [--push|--pull] [<SL#>] [--status]`
+`/hv-notion-sync [--setup] [--push|--pull] [<SL#>] [--status] [--memory]`
 
-- No args → sync everything, both directions, per the conflict rules below.
-- `<SL#>` (e.g. `002`) → sync just that post.
+- No args → sync everything (Blog Posts both directions, Workspace Memory push) per the conflict rules below.
+- `<SL#>` (e.g. `002`) → sync just that post (Blog Posts only).
 - `--push` → force this repo's files to win for the given scope (still warns if Notion changed since last sync; asks before overwriting).
-- `--pull` → force Notion to win for the given scope (same warning behavior).
+- `--pull` → force Notion to win for the given scope (same warning behavior). Not meaningful for `--memory` (one-way only) — ignored there.
 - `--status` → dry run. Report what would change on each side, write nothing.
 - `--setup` → first-run only: create the Notion database and the local state file (see Setup).
+- `--memory` → sync only the Workspace Memory hub, skip Blog Posts.
 
 ## Setup (run once, or whenever `.notion-sync-state.json` is missing)
 
@@ -61,6 +65,42 @@ Notion becomes a status dashboard and reviewable copy of every post; `posts/` on
    ```
 
 4. Run a full sync immediately after setup to populate every existing post.
+5. Also run the Workspace Memory sync (below) so the hub exists from the start, and record its page IDs in the same state file under `"workspace_memory"`.
+
+## Workspace Memory sync (repo → Notion, one-way)
+
+Keeps the "Sam Workspace Memory" Notion hub current with the repo's own context files. This is push-only: the repo file is always authoritative, so there is no conflict logic here — just re-render each Notion page from its source file whenever the source changed since the last sync.
+
+**Source → Notion page mapping** (one Notion page per row, all children of the hub page):
+
+| Notion page | Source file(s) |
+|---|---|
+| 📊 Memory & Status | `MEMORY.md` |
+| 📐 Editorial Workflow & Rules | `AGENTS.md` (workflow-relevant sections only — omit the RTK/CLI command reference, that's Claude-Code-tooling-specific, not editorial content) |
+| 🎤 Brand Voice | `context/brand-voice.md` |
+| 🏢 Site Profile | `context/site-profile.md` |
+| 📝 User Notes | `context/user-notes.md` |
+| ✍️ Writing & Review Standards | `docs/article-writing.md` + `docs/article-review.md` + `docs/image-workflow.md` + `templates/article-frontmatter.md` |
+| 🔍 SEO Guidelines & Keywords | `context/seo-guidelines.md` + `context/target-keywords.md` + `context/internal-links.md` |
+
+1. If `.notion-sync-state.json` has no `workspace_memory` block yet (first run), ask the user where the hub should live if not already clear from context (e.g. "same teamspace as the Blog Posts database?"), then create the hub page ("🧭 Sam Workspace Memory") and its 7 child pages per the table above. Record every page ID plus a content hash of each source file (or set of files) under `workspace_memory` in the state file:
+   ```json
+   "workspace_memory": {
+     "hub_page_id": "<id>",
+     "pages": {
+       "memory_status": { "notion_page_id": "<id>", "sources": ["MEMORY.md"], "content_hash": "<sha256 of concatenated sources>" },
+       "editorial_workflow": { "notion_page_id": "<id>", "sources": ["AGENTS.md"], "content_hash": "<hash>" },
+       "brand_voice": { "notion_page_id": "<id>", "sources": ["context/brand-voice.md"], "content_hash": "<hash>" },
+       "site_profile": { "notion_page_id": "<id>", "sources": ["context/site-profile.md"], "content_hash": "<hash>" },
+       "user_notes": { "notion_page_id": "<id>", "sources": ["context/user-notes.md"], "content_hash": "<hash>" },
+       "writing_review": { "notion_page_id": "<id>", "sources": ["docs/article-writing.md", "docs/article-review.md", "docs/image-workflow.md", "templates/article-frontmatter.md"], "content_hash": "<hash>" },
+       "seo_guidelines": { "notion_page_id": "<id>", "sources": ["context/seo-guidelines.md", "context/target-keywords.md", "context/internal-links.md"], "content_hash": "<hash>" }
+     }
+   }
+   ```
+2. On later runs: for each row, hash the current source file(s) and compare to the stored `content_hash`. Unchanged → skip. Changed → replace that Notion page's content (`update-page` with `replace_content`, keeping the page's title/icon) with a re-rendered version of the source, ending with a small footer noting what it mirrors and the sync date, then update the stored hash.
+3. Don't ask before pushing — this direction has no conflict risk (Notion side is never hand-edited as a source of truth), so just report what changed in the output summary.
+4. If a mapped source file no longer exists, leave the Notion page in place but note it as stale in the output rather than deleting anything.
 
 ## Discovering posts, languages, and social copy
 
@@ -98,4 +138,4 @@ Per language: no article file → N/A. Article exists, no `Publish Date` set →
 
 ## Output
 
-After any sync (not `--status`), report per post: what pushed, what pulled, what was skipped as unchanged, and any conflicts that still need the user's call. Keep it a compact table, not a wall of prose.
+After any sync (not `--status`), report per post: what pushed, what pulled, what was skipped as unchanged, and any conflicts that still need the user's call. Keep it a compact table, not a wall of prose. When a Workspace Memory sync ran too, add a short second table: which of the 7 pages pushed vs. skipped as unchanged.
