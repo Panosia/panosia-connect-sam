@@ -31,7 +31,7 @@ Focus on:
 - the confirmed mini-brief when one is provided
 - a direct opening without filler
 - an opening that reaches the useful answer quickly and makes the article's relevance obvious
-- practical specificity and useful examples
+- practical specificity and useful examples — scenarios and hypothetical characters should be common and relatable for the target audience, not edge cases (rules: `docs/article-writing.md`)
 - natural structure and scannability
 - a publishable reader-first draft instead of visible process notes
 - fair, contextual product mentions in first-party content
