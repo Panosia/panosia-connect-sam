@@ -30,6 +30,23 @@ Next available SL#: 005
 - 003 — "Volunteer/Community Matchmaker Guide" (working title) — `posts/003-volunteer-matchmaker-guide/` — research.md only, not drafted; next in the role-based series
 - 004 — en title "Getting Started on Panosia Connect: Build Trust and Get Discovered", bn title diverged intentionally: "Panosia Connect-এ কীভাবে বিশ্বাস যোগ্য প্রোফাইল তৈরি করবেন এবং সফল হবেন" (see bn-title-can-diverge-from-en note below) — `posts/004-getting-started-on-panosia-connect/` — en (`004-article.md`, `004-social-posts.md` for FB/IG/LinkedIn/X), bn (`004-article.md`, retranslated 2026-08-26) — **Publish-ready** (en); rewrite of an already-live page at the same URL, publishing overwrites live content, confirm before pushing. Step order is now: 1 Profile, 2 Privacy, 3 Trust Network, 4 Get Verified, 5 Share and Get Discovered, 6 Message, 7 Involve Family (verification moved earlier, ahead of share/message, since it gates them, see verification fact below). 9 images hotlinked from the live site rather than copied into `images/` (nonstandard vs. `docs/image-workflow.md`, revisit if local copies wanted). bn draft fully re-translated to match this structure and the verification correction, its 4 in-body/related links point at live `/bn/` equivalents (the 5th, blur-your-profile-photo-for-public-viewers, has no bn version so stays English); social posts exist for en only so far. Sitemap check on 2026-09-06 (during article #2's `/hv-article-review` pass) found both en and bn versions of this URL already live on-site (`https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered` and its `/bn/` equivalent) — this MEMORY.md entry's "not yet published" status was stale. Reconcile this bundle's local drafts against what's actually live before treating either language as still pending.
 
+## Automated Content Queue (daily draft routine)
+
+Ordered backlog for the daily scheduled routine (`/schedule`, cloud routine "Daily Blog Draft") set up 2026-09-12: each weekday run picks the first `Pending` item below, drafts it through the full `article-writer` → `fact-checker` → `seo-reviewer` pipeline, saves it to its `posts/` bundle, syncs it to the Notion Blog Posts DB as a reviewable draft (never `Published`), and marks the item `Drafted <date>` here. All topics below are grounded in real, verified keyword/competitor data (see "OpenSEO / Competitor Research" milestone and `context/target-keywords.md`), not guessed. The routine does not invent new topics when this queue is empty — it stops and flags that the queue needs refilling.
+
+| Order | SL# | Topic | Persona | Real demand signal |
+|---|---|---|---|---|
+| 1 | 003 | Volunteer/Community Matchmaker Guide (role-based series, next up) | Connector/Matchmaker | ঘটক নাম্বার (matchmaker number) up to 1,300/mo, owned by Badhon Matrimony / The Ghotok |
+| 2 | 005 | দ্বীনদার পার্টনার (pious/deendar partner) — bn-first piece | Muslim Candidates + Bangladeshi Diaspora | 1,900/mo, currently owned only by Deendar Partner |
+| 3 | 006 | "Do your biodata here, then everything else" — biodata-for-marriage positioning | Parents/family | Real tracked demand; 6 standalone biodata-PDF tools compete for it, Panosia's own Profile Export/biodata PDF feature is untapped here |
+| 4 | 007 | Islamic-lifestyle content piece (e.g. Ramadan/marriage-readiness angle) | Muslim Candidates (broad funnel) | Modeled on Muzz.com's strategy (61,690/mo organic, mostly from this content type, not direct matrimony terms) |
+| 5 | 008 | How Family References Build Trust in Matrimony | Serious Candidate / Parent | From external editorial review's suggested cluster around articles #1/#2 |
+| 6 | 009 | How to Involve Your Parents in Your Matrimonial Search (Candidate-side mirror of #2) | Serious Candidate | Same cluster idea |
+| 7 | 010 | How Identity Verification Works in Matrimony | Serious Candidate / Scam-wary reader | Same cluster idea |
+| 8 | 011 | Questions to Ask Before Pursuing a Marriage Proposal | Serious Candidate | Same cluster idea |
+
+Status: all `Pending` as of 2026-09-12 (queue just created). The routine updates this table in place after each run.
+
 ## Future Topic Cluster Ideas (not yet SL#'d)
 
 From external editorial feedback on article #2 (2026-09-06): Candidate-search and parent/family-search are genuinely separate search intents ("how to find a life partner" vs. "how can I help my son/daughter find a spouse") and should stay as separate articles, not merged — this matches the existing role-based series decision, not a change to it. The reviewer's suggested cluster around articles #1 and #2, to strengthen topical footprint:
