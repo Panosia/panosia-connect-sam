@@ -1,0 +1,950 @@
+[
+  {
+    "severity": "info",
+    "issueType": "canonicalized-page",
+    "issue": "Canonicalized to another URL",
+    "url": "https://connect.panosia.com/for-families",
+    "details": {
+      "canonicalUrl": "https://connect.panosia.com/"
+    },
+    "howToFix": "If this page should rank on its own, set its canonical to itself. Otherwise no action is needed."
+  },
+  {
+    "severity": "info",
+    "issueType": "canonicalized-page",
+    "issue": "Canonicalized to another URL",
+    "url": "https://connect.panosia.com/become-a-connector",
+    "details": {
+      "canonicalUrl": "https://connect.panosia.com/"
+    },
+    "howToFix": "If this page should rank on its own, set its canonical to itself. Otherwise no action is needed."
+  },
+  {
+    "severity": "info",
+    "issueType": "canonicalized-page",
+    "issue": "Canonicalized to another URL",
+    "url": "https://connect.panosia.com/bn/for-families",
+    "details": {
+      "canonicalUrl": "https://connect.panosia.com/"
+    },
+    "howToFix": "If this page should rank on its own, set its canonical to itself. Otherwise no action is needed."
+  },
+  {
+    "severity": "info",
+    "issueType": "canonicalized-page",
+    "issue": "Canonicalized to another URL",
+    "url": "https://connect.panosia.com/bn/become-a-connector",
+    "details": {
+      "canonicalUrl": "https://connect.panosia.com/"
+    },
+    "howToFix": "If this page should rank on its own, set its canonical to itself. Otherwise no action is needed."
+  },
+  {
+    "severity": "info",
+    "issueType": "canonicalized-page",
+    "issue": "Canonicalized to another URL",
+    "url": "https://connect.panosia.com/signup",
+    "details": {
+      "canonicalUrl": "https://connect.panosia.com/"
+    },
+    "howToFix": "If this page should rank on its own, set its canonical to itself. Otherwise no action is needed."
+  },
+  {
+    "severity": "info",
+    "issueType": "canonicalized-page",
+    "issue": "Canonicalized to another URL",
+    "url": "https://connect.panosia.com/login",
+    "details": {
+      "canonicalUrl": "https://connect.panosia.com/"
+    },
+    "howToFix": "If this page should rank on its own, set its canonical to itself. Otherwise no action is needed."
+  },
+  {
+    "severity": "info",
+    "issueType": "canonicalized-page",
+    "issue": "Canonicalized to another URL",
+    "url": "https://connect.panosia.com/forgot-password",
+    "details": {
+      "canonicalUrl": "https://connect.panosia.com/"
+    },
+    "howToFix": "If this page should rank on its own, set its canonical to itself. Otherwise no action is needed."
+  },
+  {
+    "severity": "info",
+    "issueType": "canonicalized-page",
+    "issue": "Canonicalized to another URL",
+    "url": "https://connect.panosia.com/bn/signup",
+    "details": {
+      "canonicalUrl": "https://connect.panosia.com/"
+    },
+    "howToFix": "If this page should rank on its own, set its canonical to itself. Otherwise no action is needed."
+  },
+  {
+    "severity": "info",
+    "issueType": "canonicalized-page",
+    "issue": "Canonicalized to another URL",
+    "url": "https://connect.panosia.com/bn/login",
+    "details": {
+      "canonicalUrl": "https://connect.panosia.com/"
+    },
+    "howToFix": "If this page should rank on its own, set its canonical to itself. Otherwise no action is needed."
+  },
+  {
+    "severity": "info",
+    "issueType": "canonicalized-page",
+    "issue": "Canonicalized to another URL",
+    "url": "https://connect.panosia.com/bn/forgot-password",
+    "details": {
+      "canonicalUrl": "https://connect.panosia.com/"
+    },
+    "howToFix": "If this page should rank on its own, set its canonical to itself. Otherwise no action is needed."
+  },
+  {
+    "severity": "info",
+    "issueType": "canonicalized-page",
+    "issue": "Canonicalized to another URL",
+    "url": "https://connect.panosia.com/posts",
+    "details": {
+      "canonicalUrl": "https://connect.panosia.com/"
+    },
+    "howToFix": "If this page should rank on its own, set its canonical to itself. Otherwise no action is needed."
+  },
+  {
+    "severity": "info",
+    "issueType": "canonicalized-page",
+    "issue": "Canonicalized to another URL",
+    "url": "https://connect.panosia.com/bn",
+    "details": {
+      "canonicalUrl": "https://connect.panosia.com/"
+    },
+    "howToFix": "If this page should rank on its own, set its canonical to itself. Otherwise no action is needed."
+  },
+  {
+    "severity": "warning",
+    "issueType": "duplicate-meta-description",
+    "issue": "Duplicate meta description",
+    "url": "https://connect.panosia.com/bn/pricing",
+    "details": {
+      "groupSize": 2,
+      "otherUrls": [
+        "https://connect.panosia.com/pricing"
+      ]
+    },
+    "howToFix": "Write a unique meta description per page, or remove the duplicated one entirely — search engines will generate a snippet from page content, which beats a wrong duplicate."
+  },
+  {
+    "severity": "warning",
+    "issueType": "duplicate-meta-description",
+    "issue": "Duplicate meta description",
+    "url": "https://connect.panosia.com/pricing",
+    "details": {
+      "groupSize": 2,
+      "otherUrls": [
+        "https://connect.panosia.com/bn/pricing"
+      ]
+    },
+    "howToFix": "Write a unique meta description per page, or remove the duplicated one entirely — search engines will generate a snippet from page content, which beats a wrong duplicate."
+  },
+  {
+    "severity": "warning",
+    "issueType": "duplicate-meta-description",
+    "issue": "Duplicate meta description",
+    "url": "https://connect.panosia.com/bn/success-stories",
+    "details": {
+      "groupSize": 2,
+      "otherUrls": [
+        "https://connect.panosia.com/success-stories"
+      ]
+    },
+    "howToFix": "Write a unique meta description per page, or remove the duplicated one entirely — search engines will generate a snippet from page content, which beats a wrong duplicate."
+  },
+  {
+    "severity": "warning",
+    "issueType": "duplicate-meta-description",
+    "issue": "Duplicate meta description",
+    "url": "https://connect.panosia.com/success-stories",
+    "details": {
+      "groupSize": 2,
+      "otherUrls": [
+        "https://connect.panosia.com/bn/success-stories"
+      ]
+    },
+    "howToFix": "Write a unique meta description per page, or remove the duplicated one entirely — search engines will generate a snippet from page content, which beats a wrong duplicate."
+  },
+  {
+    "severity": "warning",
+    "issueType": "duplicate-title",
+    "issue": "Duplicate title",
+    "url": "https://connect.panosia.com/bn/pricing",
+    "details": {
+      "groupSize": 2,
+      "otherUrls": [
+        "https://connect.panosia.com/pricing"
+      ]
+    },
+    "howToFix": "Write a unique title for each page describing its specific content. For templated pages, include the distinguishing attribute (name, category, location) in the template."
+  },
+  {
+    "severity": "warning",
+    "issueType": "duplicate-title",
+    "issue": "Duplicate title",
+    "url": "https://connect.panosia.com/pricing",
+    "details": {
+      "groupSize": 2,
+      "otherUrls": [
+        "https://connect.panosia.com/bn/pricing"
+      ]
+    },
+    "howToFix": "Write a unique title for each page describing its specific content. For templated pages, include the distinguishing attribute (name, category, location) in the template."
+  },
+  {
+    "severity": "warning",
+    "issueType": "duplicate-title",
+    "issue": "Duplicate title",
+    "url": "https://connect.panosia.com/bn/success-stories",
+    "details": {
+      "groupSize": 2,
+      "otherUrls": [
+        "https://connect.panosia.com/success-stories"
+      ]
+    },
+    "howToFix": "Write a unique title for each page describing its specific content. For templated pages, include the distinguishing attribute (name, category, location) in the template."
+  },
+  {
+    "severity": "warning",
+    "issueType": "duplicate-title",
+    "issue": "Duplicate title",
+    "url": "https://connect.panosia.com/success-stories",
+    "details": {
+      "groupSize": 2,
+      "otherUrls": [
+        "https://connect.panosia.com/bn/success-stories"
+      ]
+    },
+    "howToFix": "Write a unique title for each page describing its specific content. For templated pages, include the distinguishing attribute (name, category, location) in the template."
+  },
+  {
+    "severity": "info",
+    "issueType": "heading-order-skip",
+    "issue": "Heading levels skip",
+    "url": "https://connect.panosia.com/support",
+    "details": null,
+    "howToFix": "Adjust heading levels so they descend one step at a time (H1 → H2 → H3) without skipping."
+  },
+  {
+    "severity": "info",
+    "issueType": "heading-order-skip",
+    "issue": "Heading levels skip",
+    "url": "https://connect.panosia.com/support/faq",
+    "details": null,
+    "howToFix": "Adjust heading levels so they descend one step at a time (H1 → H2 → H3) without skipping."
+  },
+  {
+    "severity": "info",
+    "issueType": "heading-order-skip",
+    "issue": "Heading levels skip",
+    "url": "https://connect.panosia.com/support/contact",
+    "details": null,
+    "howToFix": "Adjust heading levels so they descend one step at a time (H1 → H2 → H3) without skipping."
+  },
+  {
+    "severity": "info",
+    "issueType": "heading-order-skip",
+    "issue": "Heading levels skip",
+    "url": "https://connect.panosia.com/bn/support",
+    "details": null,
+    "howToFix": "Adjust heading levels so they descend one step at a time (H1 → H2 → H3) without skipping."
+  },
+  {
+    "severity": "info",
+    "issueType": "heading-order-skip",
+    "issue": "Heading levels skip",
+    "url": "https://connect.panosia.com/bn/support/faq",
+    "details": null,
+    "howToFix": "Adjust heading levels so they descend one step at a time (H1 → H2 → H3) without skipping."
+  },
+  {
+    "severity": "info",
+    "issueType": "heading-order-skip",
+    "issue": "Heading levels skip",
+    "url": "https://connect.panosia.com/bn/support/contact",
+    "details": null,
+    "howToFix": "Adjust heading levels so they descend one step at a time (H1 → H2 → H3) without skipping."
+  },
+  {
+    "severity": "info",
+    "issueType": "heading-order-skip",
+    "issue": "Heading levels skip",
+    "url": "https://connect.panosia.com/bn/support/install-app",
+    "details": null,
+    "howToFix": "Adjust heading levels so they descend one step at a time (H1 → H2 → H3) without skipping."
+  },
+  {
+    "severity": "info",
+    "issueType": "heading-order-skip",
+    "issue": "Heading levels skip",
+    "url": "https://connect.panosia.com/pricing",
+    "details": null,
+    "howToFix": "Adjust heading levels so they descend one step at a time (H1 → H2 → H3) without skipping."
+  },
+  {
+    "severity": "info",
+    "issueType": "heading-order-skip",
+    "issue": "Heading levels skip",
+    "url": "https://connect.panosia.com/bn/pricing",
+    "details": null,
+    "howToFix": "Adjust heading levels so they descend one step at a time (H1 → H2 → H3) without skipping."
+  },
+  {
+    "severity": "info",
+    "issueType": "heading-order-skip",
+    "issue": "Heading levels skip",
+    "url": "https://connect.panosia.com/support/install-app",
+    "details": null,
+    "howToFix": "Adjust heading levels so they descend one step at a time (H1 → H2 → H3) without skipping."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/legal/terms-of-service",
+    "details": {
+      "length": 161
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/bn/legal/privacy-policy",
+    "details": {
+      "length": 161
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/bn/legal/refund-policy",
+    "details": {
+      "length": 176
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/support/faq",
+    "details": {
+      "length": 163
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/support/contact",
+    "details": {
+      "length": 162
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/bn/legal/safety-trust",
+    "details": {
+      "length": 281
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/bn/support",
+    "details": {
+      "length": 180
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/bn/support/about-us",
+    "details": {
+      "length": 162
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/bn/support/faq",
+    "details": {
+      "length": 167
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/bn/support/contact",
+    "details": {
+      "length": 161
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/bn/support/install-app",
+    "details": {
+      "length": 189
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/legal/refund-policy",
+    "details": {
+      "length": 174
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/legal/safety-trust",
+    "details": {
+      "length": 220
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/pricing",
+    "details": {
+      "length": 174
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/bn/pricing",
+    "details": {
+      "length": 174
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "info",
+    "issueType": "meta-description-too-long",
+    "issue": "Meta description too long",
+    "url": "https://connect.panosia.com/support/install-app",
+    "details": {
+      "length": 175
+    },
+    "howToFix": "Trim the description to roughly 70–160 characters while keeping the core message and call to action."
+  },
+  {
+    "severity": "warning",
+    "issueType": "missing-h1",
+    "issue": "Missing H1 heading",
+    "url": "https://connect.panosia.com/for-families",
+    "details": null,
+    "howToFix": "Add a single H1 that states the page's main topic, consistent with the title tag."
+  },
+  {
+    "severity": "warning",
+    "issueType": "missing-h1",
+    "issue": "Missing H1 heading",
+    "url": "https://connect.panosia.com/become-a-connector",
+    "details": null,
+    "howToFix": "Add a single H1 that states the page's main topic, consistent with the title tag."
+  },
+  {
+    "severity": "warning",
+    "issueType": "missing-h1",
+    "issue": "Missing H1 heading",
+    "url": "https://connect.panosia.com/bn/for-families",
+    "details": null,
+    "howToFix": "Add a single H1 that states the page's main topic, consistent with the title tag."
+  },
+  {
+    "severity": "warning",
+    "issueType": "missing-h1",
+    "issue": "Missing H1 heading",
+    "url": "https://connect.panosia.com/bn/become-a-connector",
+    "details": null,
+    "howToFix": "Add a single H1 that states the page's main topic, consistent with the title tag."
+  },
+  {
+    "severity": "warning",
+    "issueType": "missing-h1",
+    "issue": "Missing H1 heading",
+    "url": "https://connect.panosia.com/posts",
+    "details": null,
+    "howToFix": "Add a single H1 that states the page's main topic, consistent with the title tag."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/for-families",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/become-a-connector",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/bn/for-families",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/bn/become-a-connector",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/signup",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/login",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/forgot-password",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/bn/signup",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/bn/login",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/bn/forgot-password",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/posts",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/bn/posts/how-parents-can-help-find-a-life-partner",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "no-outgoing-links",
+    "issue": "Page has no outgoing links",
+    "url": "https://connect.panosia.com/posts/app-chat-messaging-feature",
+    "details": null,
+    "howToFix": "Add links to related pages, the parent category, or the homepage. If the page's navigation is rendered by JavaScript, make sure it also exists in the server-rendered HTML."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/",
+    "details": {
+      "wordCount": 42
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/for-families",
+    "details": {
+      "wordCount": 0
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/become-a-connector",
+    "details": {
+      "wordCount": 0
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/bn/for-families",
+    "details": {
+      "wordCount": 0
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/bn/become-a-connector",
+    "details": {
+      "wordCount": 0
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/signup",
+    "details": {
+      "wordCount": 8
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/login",
+    "details": {
+      "wordCount": 8
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/forgot-password",
+    "details": {
+      "wordCount": 11
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/bn/signup",
+    "details": {
+      "wordCount": 9
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/bn/login",
+    "details": {
+      "wordCount": 8
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/bn/forgot-password",
+    "details": {
+      "wordCount": 12
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/posts",
+    "details": {
+      "wordCount": 0
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/bn",
+    "details": {
+      "wordCount": 40
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/support",
+    "details": {
+      "wordCount": 109
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/support/contact",
+    "details": {
+      "wordCount": 73
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/bn/support",
+    "details": {
+      "wordCount": 116
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/bn/support/contact",
+    "details": {
+      "wordCount": 74
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/success-stories",
+    "details": {
+      "wordCount": 111
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "warning",
+    "issueType": "thin-content",
+    "issue": "Thin content",
+    "url": "https://connect.panosia.com/bn/success-stories",
+    "details": {
+      "wordCount": 106
+    },
+    "howToFix": "Either expand the page with genuinely useful content, noindex it, or consolidate it into a stronger page. If the content exists but is rendered by JavaScript, ensure it is server-rendered or pre-rendered."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/support",
+    "details": {
+      "length": 67
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/support/faq",
+    "details": {
+      "length": 62
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/support/contact",
+    "details": {
+      "length": 68
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/bn/support",
+    "details": {
+      "length": 70
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/bn/support/faq",
+    "details": {
+      "length": 70
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/bn/support/contact",
+    "details": {
+      "length": 78
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/bn/support/install-app",
+    "details": {
+      "length": 74
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/success-stories",
+    "details": {
+      "length": 62
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/bn/success-stories",
+    "details": {
+      "length": 62
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/bn/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered",
+    "details": {
+      "length": 71
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/posts/how-to-find-a-life-partner",
+    "details": {
+      "length": 69
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/bn/posts/self-service-identity-verification-feature-launch",
+    "details": {
+      "length": 92
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/bn/posts/app-chat-messaging-feature",
+    "details": {
+      "length": 62
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/bn/posts/what-is-a-connector-and-why-it-matters",
+    "details": {
+      "length": 62
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  },
+  {
+    "severity": "info",
+    "issueType": "title-too-long",
+    "issue": "Title too long",
+    "url": "https://connect.panosia.com/support/install-app",
+    "details": {
+      "length": 72
+    },
+    "howToFix": "Shorten the title to roughly 50–60 characters, front-loading the most important words."
+  }
+]
