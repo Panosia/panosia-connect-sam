@@ -30,22 +30,19 @@ Next available SL#: 005
 - 003 — "Volunteer/Community Matchmaker Guide" (working title) — `posts/003-volunteer-matchmaker-guide/` — research.md only, not drafted; next in the role-based series
 - 004 — en title "Getting Started on Panosia Connect: Build Trust and Get Discovered", bn title diverged intentionally: "Panosia Connect-এ কীভাবে বিশ্বাস যোগ্য প্রোফাইল তৈরি করবেন এবং সফল হবেন" (see bn-title-can-diverge-from-en note below) — `posts/004-getting-started-on-panosia-connect/` — en (`004-article.md`, `004-social-posts.md` for FB/IG/LinkedIn/X), bn (`004-article.md`, retranslated 2026-08-26) — **Publish-ready** (en); rewrite of an already-live page at the same URL, publishing overwrites live content, confirm before pushing. Step order is now: 1 Profile, 2 Privacy, 3 Trust Network, 4 Get Verified, 5 Share and Get Discovered, 6 Message, 7 Involve Family (verification moved earlier, ahead of share/message, since it gates them, see verification fact below). 9 images hotlinked from the live site rather than copied into `images/` (nonstandard vs. `docs/image-workflow.md`, revisit if local copies wanted). bn draft fully re-translated to match this structure and the verification correction, its 4 in-body/related links point at live `/bn/` equivalents (the 5th, blur-your-profile-photo-for-public-viewers, has no bn version so stays English); social posts exist for en only so far. Sitemap check on 2026-09-06 (during article #2's `/hv-article-review` pass) found both en and bn versions of this URL already live on-site (`https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered` and its `/bn/` equivalent) — this MEMORY.md entry's "not yet published" status was stale. Reconcile this bundle's local drafts against what's actually live before treating either language as still pending.
 
-## Automated Content Queue (daily draft routine)
+## Automated Content Queue — now lives in the Notion Blog Posts DB (2026-09-12)
 
-Ordered backlog for the daily scheduled routine (`/schedule`, cloud routine "Daily Blog Draft") set up 2026-09-12: each weekday run picks the first `Pending` item below, drafts it through the full `article-writer` → `fact-checker` → `seo-reviewer` pipeline, saves it to its `posts/` bundle, syncs it to the Notion Blog Posts DB as a reviewable draft (never `Published`), and marks the item `Drafted <date>` here. All topics below are grounded in real, verified keyword/competitor data (see "OpenSEO / Competitor Research" milestone and `context/target-keywords.md`), not guessed. The routine does not invent new topics when this queue is empty — it stops and flags that the queue needs refilling.
+**The Notion "Blog Posts" DB is the live content queue and next-content-to-write source, not this file.** Its `Status = Idea` or `Research` rows, ordered by its `Priority` number property, are what the daily draft routine works through. This file's role is now **fallback only** — used solely if the Blog Posts DB has zero pending (`Idea`/`Research`) rows, which should not normally happen.
 
-| Order | SL# | Topic | Persona | Real demand signal |
-|---|---|---|---|---|
-| 1 | 003 | Volunteer/Community Matchmaker Guide (role-based series, next up) | Connector/Matchmaker | ঘটক নাম্বার (matchmaker number) up to 1,300/mo, owned by Badhon Matrimony / The Ghotok |
-| 2 | 005 | দ্বীনদার পার্টনার (pious/deendar partner) — bn-first piece | Muslim Candidates + Bangladeshi Diaspora | 1,900/mo, currently owned only by Deendar Partner |
-| 3 | 006 | "Do your biodata here, then everything else" — biodata-for-marriage positioning | Parents/family | Real tracked demand; 6 standalone biodata-PDF tools compete for it, Panosia's own Profile Export/biodata PDF feature is untapped here |
-| 4 | 007 | Islamic-lifestyle content piece (e.g. Ramadan/marriage-readiness angle) | Muslim Candidates (broad funnel) | Modeled on Muzz.com's strategy (61,690/mo organic, mostly from this content type, not direct matrimony terms) |
-| 5 | 008 | How Family References Build Trust in Matrimony | Serious Candidate / Parent | From external editorial review's suggested cluster around articles #1/#2 |
-| 6 | 009 | How to Involve Your Parents in Your Matrimonial Search (Candidate-side mirror of #2) | Serious Candidate | Same cluster idea |
-| 7 | 010 | How Identity Verification Works in Matrimony | Serious Candidate / Scam-wary reader | Same cluster idea |
-| 8 | 011 | Questions to Ask Before Pursuing a Marriage Proposal | Serious Candidate | Same cluster idea |
+Blog Posts DB schema changed 2026-09-12: `Category` (select) removed, replaced with `Persona` (select: Serious Candidate / Connector-Matchmaker / Protective Parent-Family / Community-Minded Leader) and `Priority` (number, lower = sooner). SL# is now tracked by `MAX("SL#")` in that DB directly, not a counter in this file — update the "Next available SL#" line below only as a loose cross-check, the DB is authoritative.
 
-Status: all `Pending` as of 2026-09-12 (queue just created). The routine updates this table in place after each run.
+Current queue seeded 2026-09-12 (priority order): SL#003 (Volunteer/Community Matchmaker Guide, already has a research brief, `Research` status) → SL#005 (দ্বীনদার পার্টনার) → SL#006 (biodata-for-marriage positioning) → SL#007 (Islamic-lifestyle content) → SL#008 (family references) → SL#009 (involve your parents) → SL#010 (verification explainer) → SL#011 (questions before a proposal). Full briefs live in each row's page body in Notion, not duplicated here.
+
+**Two cloud routines manage this** (`/schedule`, set up 2026-09-12):
+- **Daily Blog Draft** — picks the top pending Blog Posts DB row, drafts it through `article-writer` → `fact-checker` → `seo-reviewer`, saves to its `posts/` bundle, generates social copy, and advances its Notion Status (never past `Publish-Ready` — never `Published`).
+- **Monthly SEO & AEO Content Planning** — at each month's end, refreshes keyword/SEO-performance research, tops up next month's `Idea` rows in Blog Posts DB, and writes findings/reasoning into a new `SEO & AEO Content Campaign - <Month Year>` row in the `📣 Marketing Campaigns` DB.
+
+See routine IDs/links once created — check `/schedule list` or https://claude.ai/code/routines.
 
 ## Future Topic Cluster Ideas (not yet SL#'d)
 
