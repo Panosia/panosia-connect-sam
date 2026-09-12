@@ -2,16 +2,18 @@
 
 **Status**: not yet posted
 
-**Angle**: The Farida vignette (the scattered-network pain point) is the most screenshot/share-worthy moment in the article — it's the one scene almost every parent in this audience has lived, and it sets up the "one platform" solution without needing to explain the product first.
+**Angle**: The article's own Key Takeaways are the clearest, most publish-ready summary of the piece — reused here directly instead of a new vignette or analogy.
 
 ```
-You're at a wedding. Between courses, you mention that your son is looking for a life partner. A cousin says she knows someone. You write the name down on your phone, promise to follow up... and by next week, you can't remember if you already called.
+Helping your child find a life partner? A few things worth knowing:
 
-If that sounds familiar, nothing about it is wrong. It's exactly what parents have always done: use their own trusted network to help a child marry well.
+🔹 Parents have long done informal matchmaking work: mentioning their child at gatherings, asking relatives, checking with people they trust. That instinct doesn't need replacing.
+🔹 The problem isn't the network, it's that it's scattered across phone calls, group chats, and one-off conversations with no way to keep track of it.
+🔹 Panosia Connect gathers that same trusted network onto one platform through the Connector role (the part a parent, relative, or community member plays as a reference and introducer), the way LinkedIn gathered professional networks onto one place.
+🔹 References work both ways: you can be a reference for people you know, and have people who know you do the same for you, building more trust than an anonymous profile ever could.
+🔹 Helping well means staying involved without deciding for your child; the tools should support your child's voice, not replace it.
 
-The instinct was never the problem. It's that the network lives across phone calls, group chats, and half-remembered conversations, with no way to keep track of any of it.
-
-Panosia Connect brings that same trusted network onto one platform, the way LinkedIn did for professional contacts. You're still the one making the introduction. This time, the effort finally adds up somewhere instead of disappearing after one conversation.
+We wrote a full guide for parents and family members helping an adult son or daughter find a life partner.
 ```
 
 **Tactical notes**:
