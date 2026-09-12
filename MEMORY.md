@@ -38,11 +38,9 @@ Blog Posts DB schema changed 2026-09-12: `Category` (select) removed, replaced w
 
 Current queue seeded 2026-09-12 (priority order): SL#003 (Volunteer/Community Matchmaker Guide, already has a research brief, `Research` status) → SL#005 (দ্বীনদার পার্টনার) → SL#006 (biodata-for-marriage positioning) → SL#007 (Islamic-lifestyle content) → SL#008 (family references) → SL#009 (involve your parents) → SL#010 (verification explainer) → SL#011 (questions before a proposal). Full briefs live in each row's page body in Notion, not duplicated here.
 
-**Two cloud routines manage this** (`/schedule`, set up 2026-09-12):
-- **Daily Blog Draft** — picks the top pending Blog Posts DB row, drafts it through `article-writer` → `fact-checker` → `seo-reviewer`, saves to its `posts/` bundle, generates social copy, and advances its Notion Status (never past `Publish-Ready` — never `Published`).
-- **Monthly SEO & AEO Content Planning** — at each month's end, refreshes keyword/SEO-performance research, tops up next month's `Idea` rows in Blog Posts DB, and writes findings/reasoning into a new `SEO & AEO Content Campaign - <Month Year>` row in the `📣 Marketing Campaigns` DB.
-
-See routine IDs/links once created — check `/schedule list` or https://claude.ai/code/routines.
+**One cloud routine drains the queue, one manual skill refills it** (set up 2026-09-12):
+- **"Daily Blog Draft"** (cloud routine, `trig_01XgCYnVnZCdtBng2hBEReth`, daily 8am ET) — picks the top pending Blog Posts DB row, drafts it through `article-writer` → `fact-checker` → `seo-reviewer`, saves to its `posts/` bundle, generates social copy, and advances its Notion Status (never past `Publish-Ready` — never `Published`). Check `/schedule list` or https://claude.ai/code/routines for status.
+- **`/hv-content-planning`** (manually-triggered skill, no fixed schedule) — the human-triggered counterpart. Cloud routines can't reach OpenSEO's MCP tools (only Notion is available to them), so all Tier-1 research (keyword research, competitive landscape, competitor analysis, keyword clustering, link prospecting) happens in a normal local session where OpenSEO is available, run by the user whenever they decide it's time. It tops up Blog Posts DB with new `Idea` rows and documents reasoning in a `SEO & AEO Content Campaign - <Month Year>` page in the `📣 Marketing Campaigns` DB. No automated monthly routine exists for this on purpose — credit-spending research stays under manual control.
 
 ## Future Topic Cluster Ideas (not yet SL#'d)
 
