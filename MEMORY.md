@@ -4,8 +4,9 @@ This file tracks setup state and working assumptions so new sessions can orient 
 
 ## Onboarding Status
 
-- Status: Good enough (2026-08-05). Done: company basics, audience/content goals, brand voice, starter keywords. Research-data integration (DataForSEO) declined for now, can revisit.
+- Status: Good enough (2026-08-05). Done: company basics, audience/content goals, brand voice, starter keywords. Research-data integration is now live (see below) — the "declined for now" status from 2026-08-05 no longer applies.
 - Optional, deferred: internal links map.
+- OpenSEO MCP connected 2026-09-12 (real DataForSEO-backed keyword/competitor data, project = connect.panosia.com). See "OpenSEO / Competitor Research" milestone below and `context/target-keywords.md`.
 
 ## Current Known Context
 
@@ -18,7 +19,7 @@ This file tracks setup state and working assumptions so new sessions can orient 
 ## Gaps To Resolve
 
 - Internal links map: optional, can be deferred.
-- Keyword map: first pass only; refine with real search data later if desired.
+- Keyword map: partially verified with real search data as of 2026-09-12 (see `context/target-keywords.md`'s "Verified Keywords" section); remaining entries are still first-pass hypotheses.
 
 ## Content Index (SL#)
 
@@ -43,6 +44,13 @@ From external editorial feedback on article #2 (2026-09-06): Candidate-search an
 
 None of these are drafted or SL#'d yet. Slot the new ones into the existing role-based series planning (`context/user-notes.md`) when picking the next article after #3 (volunteer matchmaker).
 
+From OpenSEO competitor/keyword research (2026-09-12, see `context/target-keywords.md`'s "Verified Keywords" and the Notion Market Competitors database for full detail):
+
+- A "find a matchmaker" article or FAQ answering the Bengali search term ঘটক নাম্বার (matchmaker contact number, real demand up to 1,300/mo) — directly maps to the Connector feature; competitors (Badhon Matrimony, The Ghotok) already capture this demand, Panosia doesn't yet.
+- A Bengali article/landing content around দ্বীনদার পার্টনার (deendar partner / pious partner, 1,900/mo, no current Panosia content) — a sizeable, untargeted, religiously-framed term.
+- Content or positioning addressing the "biodata for marriage" searcher (Parents persona) directly — standalone biodata-PDF tools (biodatamaker.app etc.) are real competitors to the Profile Export feature; an angle like "do the biodata step here, then everything else" could capture that intent.
+- A broader Islamic-lifestyle content-marketing angle (Ramadan, iftar, similar cultural/religious content, not just narrow matrimony keywords) inspired by Muzz.com's strategy (61,690/mo organic traffic driven mostly by that kind of content) — worth testing for the Community/Religious Leader persona.
+
 ## Recent Progress (Milestones)
 
 - Site research, company/audience/pricing/founder facts confirmed with user (2026-08-05).
@@ -60,6 +68,8 @@ None of these are drafted or SL#'d yet. Slot the new ones into the existing role
 - Article #2's bn translation drafted via `bn-translator` (2026-08-26): established বn renderings for "reference" (রেফারেন্স) and "professional matchmaker" (পেশাদার ঘটক), and confirmed "Panosia Connect" stays plain English in bn body text (matches article #1's published precedent, no bilingual gloss) — see `context/user-notes.md`'s bn terminology note.
 - Verification-requirement product fact corrected (2026-08-26, confirmed by user): Level 1 ID Verification is NOT required to create a profile, use Profile Import, control privacy, share a profile (Public/Private View), or export to PDF, all of that is free and ungated. It IS required before any interaction with other users: search, Discover, requesting someone's Private View, or chat. Updated `context/site-profile.md`'s verification bullet and `context/brand-voice.md`'s "terms to avoid" and messaging-priorities caveats (previously said never call verification "required," now states the honest split). Applied throughout article #4 (en restructured, bn re-translated to match) and article #2 (en+bn, fixed 2026-09-06); article #1 (published) still has the old "never required" framing, not yet updated pending a decision on touching the live published post.
 - bn titles can diverge from en when there's an audience-specific reason, not a 1:1 translation requirement (2026-08-26 decision): article #4's bn title dropped a "getting noticed" framing (নজরে আসা) that read as too forward for a conservative bn readership, landing on a "trustworthy profile + succeed" framing instead, while en kept its original "Build Trust and Get Discovered." Article #1 remains the precedent for when titles *should* stay parallel (no audience-specific reason to diverge there).
+
+- OpenSEO MCP set up and used for real competitor/keyword research (2026-09-12): project context (business overview, goal, positioning, writing preferences, 14 key pages) filled in from repo context + live Notion roadmap data; Google Search Console confirmed already connected. Ran competitor research across 5 personas (Muslim Candidates, Bangladeshi Diaspora, Diaspora Professional, Parents/Family, Professional Matchmakers), landing on 49+ real competitor domains with per-keyword rankings and real organic traffic — all in OpenSEO's project context and a new Notion **Market Competitors** database (Marketing & Sales) with sortable Organic Traffic, Organic Keywords, and Best Position columns. Key methodology lesson learned and now documented in `AGENTS.md`/`context/target-keywords.md`: reverse-engineer real keywords from a known competitor's own ranked keywords rather than guessing seed keywords (guessing repeatedly returned empty results); for Bangladesh-market research, use Bangladesh location + Bengali language, not US/English — using the wrong location undercounted real traffic by 50-500x for several domains (e.g. Biyeta.com: 28/mo measured wrong vs. 14,029/mo real, making it the actual #1 Bangladeshi Diaspora competitor, not the weakest as first measured). `context/target-keywords.md` now has a "Verified Keywords" section with real search-volume data; new topic ideas from this research are in the Future Topic Cluster Ideas section above. Marketing Channels database (a separate, pre-existing Notion DB) also fine-tuned from this research: added Reddit and PR/Earned Media as new channels, added content-strategy notes to SEO & AEO, fixed a WhatsApp effectiveness data-hygiene gap.
 
 ## Notion Sync
 
