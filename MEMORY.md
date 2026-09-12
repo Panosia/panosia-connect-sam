@@ -56,6 +56,8 @@ From external editorial feedback on article #2 (2026-09-06): Candidate-search an
 
 None of these are drafted or SL#'d yet. Slot the new ones into the existing role-based series planning (`context/user-notes.md`) when picking the next article after #3 (volunteer matchmaker).
 
+From `keyword-clustering` (2026-09-12, via `/hv-content-planning`): Hindu wedding mantras/rituals content (হিন্দু বিয়ের মন্ত্র, 320/mo) — a cross-faith content gap, since Panosia serves Hindu candidates too, not just Muslim. Single keyword so far, not enough on its own to justify a dedicated SL# yet; revisit once more Hindu-candidate-specific keywords surface (tracked as `Clustered` in the Notion Keyword Opportunities DB, not yet a full brief).
+
 From OpenSEO competitor/keyword research (2026-09-12, see `context/target-keywords.md`'s "Verified Keywords" and the Notion Market Competitors database for full detail):
 
 - A "find a matchmaker" article or FAQ answering the Bengali search term ঘটক নাম্বার (matchmaker contact number, real demand up to 1,300/mo) — directly maps to the Connector feature; competitors (Badhon Matrimony, The Ghotok) already capture this demand, Panosia doesn't yet.
