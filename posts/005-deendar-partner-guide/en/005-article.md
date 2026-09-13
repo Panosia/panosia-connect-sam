@@ -24,7 +24,7 @@
 
 Picture Tania, a hypothetical Candidate, Panosia Connect's term for someone building a profile to search for a life partner. Her aunt keeps asking about a man a family friend introduced: "But is he deendar?" Tania knows the word. She has heard it her whole life. She still isn't sure how to actually answer the question, because nobody has told her what to look for, or who to ask.
 
-Deendar comes from deen, a word for religion or faith used across Bengali and several other languages with Arabic roots. Deendar (দ্বীনদার) describes a person who practices that faith, not just someone who was raised in it or checked a box on a form. For many Muslim families searching for a life partner, this single word carries more weight than education, income, or appearance.
+Deendar comes from deen, an Arabic word for religion or faith that entered Bengali and several other languages, including Urdu and Persian, through centuries of Islamic influence. The "-dar" ending is a Persian suffix meaning "holder of" or "one who has" (the same ending appears in words like zamindar, meaning landholder). So deendar literally describes someone who holds onto or keeps their faith, not just someone who was raised in it or checked a box on a form. For many Muslim families searching for a life partner, this single word carries more weight than education, income, or appearance.
 
 This article explains what deendar actually means in practical terms, why families search for it so directly, and how a Candidate or a family can talk about it honestly instead of guessing. It also covers where Panosia Connect's profile, reference, and privacy tools fit into that conversation, and where they don't.
 
@@ -45,7 +45,7 @@ Notice that every item on this list is something a person does repeatedly, not s
 
 ## Why This Question Comes Up So Often
 
-For many Muslim families, especially those with roots in Bangladesh and similar communities, religious practice predicts something specific: how someone is likely to treat a spouse, raise children, and handle hard times. A career or a degree says something about a person's circumstances. Daily practice says something about their character under ordinary pressure, which is exactly what a marriage depends on.
+For many Muslim families, especially those with roots in Bangladesh and similar communities, religious practice is treated as a meaningful signal of something specific: how someone is likely to treat a spouse, raise children, and handle hard times. A career or a degree says something about a person's circumstances. Daily practice says something about their character under ordinary pressure, which is exactly what a marriage depends on.
 
 This is a different question from asking whether someone is honest about who they are at all. A profile can be completely genuine, verified, and still not be a match on this specific point. Deendar is a values question that comes after the basic question of trust, not instead of it.
 
@@ -73,7 +73,7 @@ In Tania's case, the honest answer came from her aunt calling a mutual family fr
 
 Panosia Connect is a matrimony platform built around trusted introductions rather than anonymous browsing, and its structure fits naturally with this kind of honest conversation.
 
-A Candidate's profile includes space to describe values, lifestyle, and religious practice in their own words, rather than a single checkbox. Just as importantly, a Candidate can list references: real people who actually know them, such as family members or people from their community. A visitor with the right access can message those references directly, instead of relying on secondhand impressions passed through a group chat or a single introduction.
+A Candidate's profile can include their own description of themselves as part of their biodata, in their own words, rather than a single checkbox. Just as importantly, a Candidate can list references: real people who actually know them, such as family members or people from their community. A visitor with the right access can message those references directly, instead of relying on secondhand impressions passed through a group chat or a single introduction. Reaching that point isn't automatic, though: a visitor first completes a quick identity check, so this conversation happens between real, verified people rather than anonymous accounts. Searching, using Discover, messaging, and requesting full profile access all require that step first.
 
 Privacy controls mean this honest conversation happens with people the Candidate actually chooses to share it with, not with anyone who happens to see a public post. A Candidate decides who can see their full profile and who can reach their references, and can change that access at any time.
 
