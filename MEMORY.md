@@ -66,6 +66,16 @@ From OpenSEO competitor/keyword research (2026-09-12, see `context/target-keywor
 - Content or positioning addressing the "biodata for marriage" searcher (Parents persona) directly — standalone biodata-PDF tools (biodatamaker.app etc.) are real competitors to the Profile Export feature; an angle like "do the biodata step here, then everything else" could capture that intent.
 - A broader Islamic-lifestyle content-marketing angle (Ramadan, iftar, similar cultural/religious content, not just narrow matrimony keywords) inspired by Muzz.com's strategy (61,690/mo organic traffic driven mostly by that kind of content) — worth testing for the Community/Religious Leader persona.
 
+From the full Keyword Opportunities DB pull (2026-09-12 pass, reconciled into `context/target-keywords.md` 2026-09-13, see its "Keyword Opportunities DB Pull" section for full detail) — five new topic buckets surfaced that don't fit any existing SL#003/005-011 queue slot, each needs a planning decision before it becomes an Idea row:
+
+- **পাত্রী দেখার প্রশ্ন** (bride-viewing meeting questions, 70/mo, part of a 150-row/~30-70/mo-per-term cluster) — a real, on-brand South Asian matrimony custom, family-involved and in-person-vetting, matches Panosia's model closely; currently uncovered.
+- **Home-Country Candidate persona** (untapped) — generic non-diaspora Bangladesh matrimony search, e.g. bangladesh matrimony (2,400/mo, bn), distinct from the existing diaspora/USA angle everything else targets.
+- **Values-First Western Candidate persona** (untapped) — christian dating apps (14,800/mo, US/en), real demand for faith-based swipe-app alternatives; a persona Panosia hasn't written for at all yet.
+- **Aged Candidate persona** (untapped) — senior dating sites (14,800/mo, US/en), real demand for serious-intent content aimed at older candidates.
+- **Diaspora landing-page gap** (untapped, en) — a term family (indian matrimonial in usa, usa matrimony for indians, matrimonial sites for indians in usa, top matrimonial sites in usa for indian; 140-720/mo each) that two major competitors both capture via a dedicated /usa-nri-matrimony-style landing page; Panosia has no equivalent page.
+
+Also flagged in that pull: পাত্র পাত্রী খোঁজার ওয়েবসাইট (210/mo, bn) is called out in the DB's own notes as "the highest-fit term from this whole pass" (near-exact match to product intent) and is still unqueued — worth prioritizing into a Blog Posts Idea row before the newer untapped personas above.
+
 ## Recent Progress (Milestones)
 
 - Site research, company/audience/pricing/founder facts confirmed with user (2026-08-05).
