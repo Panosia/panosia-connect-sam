@@ -30,7 +30,7 @@ The hard part usually isn't good intentions. It's keeping track of several famil
 
 Every community has someone like Nasrin. It might be a religious leader who knows dozens of families, a family friend who has helped connect two generations of families, or simply the person who remembers who's looking for what. What makes people trust that person isn't a fee. It's a track record: years of introducing people carefully, keeping private matters private, and being honest when a match isn't a good fit.
 
-That's different from hiring a professional matchmaker, someone who charges a fee to run matchmaking as a structured service for paying clients. Nothing wrong with that model; it's simply a different role. What you're doing runs on reputation, not a paycheck. Every introduction you make, good or bad, adds to or takes away from how much your community trusts your judgment next time.
+That's different from hiring a professional matchmaker, someone who charges a fee to run matchmaking as a structured service for paying clients. Nothing wrong with that model. It's simply a different role. What you're doing runs on reputation, not a paycheck. Every introduction you make, good or bad, adds to or takes away from how much your community trusts your judgment next time.
 
 ## The Hard Part: Keeping Track of Many Families at Once
 
@@ -50,7 +50,7 @@ As a Connector, you can:
 * **Keep a network instead of a memory.** The families and candidates you know stay organized in one place, instead of split across phone calls and a notebook you might lose.
 * **Share what you already know.** Instead of mentioning someone at a gathering and hoping it goes somewhere, you can point to an actual profile and start a real introduction.
 
-Being a Connector, adding references, and sharing profiles is free and doesn't require any ID verification. It's the same role you already play informally, just gathered into one place. Think of how LinkedIn gathered professional networks, or how Facebook gathered friendships that used to run through scattered phone calls.
+Being a Connector, adding references, and sharing profiles is free and doesn't require any ID verification. It's the same role you already play informally, just gathered into one place, the way LinkedIn turned scattered professional contacts into one searchable network.
 
 ## Protecting Your Reputation as Introductions Add Up
 
@@ -71,7 +71,7 @@ Being trusted with introductions comes with real responsibility. A few boundarie
 
 * **Ask before you share.** Never forward someone's information, profile, or biodata (a written summary used in matrimony searches) to another family without their permission first, even if you think it's a great match.
 * **Respect a no.** If a family or candidate isn't interested in an introduction, that's their decision to make, not something to push.
-* **Keep private matters private.** If someone tells you something in confidence, a past relationship, a family concern, a reason they're being careful, that stays with you unless they say otherwise.
+* **Keep private matters private.** If someone shares something in confidence, such as a past relationship, a family concern, or a reason they're being careful, keep it private unless they say otherwise.
 * **Don't promise outcomes.** You can make a thoughtful introduction. You can't guarantee a marriage, and saying so plainly protects both your credibility and the people you're helping.
 * **Know when to step back.** Once two families are talking directly, your job is usually done. Staying available as a resource is different from staying involved in every decision.
 
@@ -84,7 +84,7 @@ If you're already doing this informally, moving it onto Panosia Connect takes le
 3. **Invite others into the network.** If your community already has a few people who do this, an aunt, a family friend, someone active at your local mosque, temple, or church, invite them to join too. The more trusted people in the network, the more useful it becomes for everyone.
 4. **Keep doing what earned you this reputation in the first place.** The tool organizes your effort. It doesn't replace your judgment about who's a good fit.
 
-If you want to see what this looks like from a Candidate's side, from setting up a profile to getting verified and discovered, our [guide to getting started on Panosia Connect](https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered) walks through it step by step. And if you're also helping your own child search alongside everyone else you help, that instinct is the same one behind this whole role. It doesn't need a separate tool.
+If you want to see what this looks like from a Candidate's side, from setting up a profile to getting verified and discovered, our [guide to getting started on Panosia Connect](https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered) walks through it step by step. And if you're also helping your own child search alongside everyone else you help, that fits naturally into this same role. More on that in the FAQ below.
 
 ## Frequently Asked Questions
 
