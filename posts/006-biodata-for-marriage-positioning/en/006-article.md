@@ -18,7 +18,7 @@
 - Panosia Connect's Biodata Import reads an existing biodata document, including a scanned or photographed page, and pre-fills a profile automatically
 - Biodata Export builds a themed PDF in a few clicks, free, with no ID verification needed
 - The same profile can export a full biodata for family and a shorter, more private version for a stranger, because privacy is set field by field
-- After the PDF, that same profile can search, appear in Discovery, and connect with a Connector network, something a standalone biodata tool cannot do
+- After the PDF, that same profile can search, appear in Discover, and connect with a Connector network, something a standalone biodata tool cannot do
 
 ## The Biodata Task Every Family Knows
 
@@ -30,7 +30,7 @@ That search usually leads to a standalone PDF tool built for exactly one job. It
 
 ## Skip Retyping It From Scratch
 
-Retyping Imran's old biodata by hand would mean copying every line: his date of birth, his education, his family details, one field at a time. Panosia Connect's **Biodata Import** removes that step. A family uploads the existing document, as a PDF, a Word file, or even a photo taken with a phone of a printed page, and the system reads it and pre-fills the matching profile fields: name, date of birth, religion, nationality, height, marital status, languages, location, education, occupation, family details, and the about-me section.
+Retyping Imran's old biodata by hand would mean copying every line: his date of birth, his education, his family details, one field at a time. Panosia Connect's **Biodata Import** removes that step. A family uploads the existing document as a PDF, a Word file, or even a phone photo of a printed page. The system then reads it and pre-fills the matching profile fields: name, date of birth, religion, nationality, height, marital status, languages, location, education, occupation, family details, and the about-me section.
 
 Each pre-filled field shows a confidence indicator, so Rukhsana can see which fields the system is fairly sure about and which ones are worth double-checking before accepting them. Nothing is saved automatically without that review. This step is genuinely useful for a family working from an old typed biodata, or for an older relative who finds typing a full profile from scratch tiring or unfamiliar.
 
@@ -40,7 +40,7 @@ Import and profile editing are free and do not require any identity verification
 
 Once the profile fields are filled in, **Biodata Export** turns the profile into a shareable document. A member picks a visual theme, picks the privacy level for that specific copy, and downloads a PDF. The whole process takes a few clicks, not a separate afternoon of formatting in Word.
 
-This step is free and does not require ID verification either. A family doesn't need to wait on anything before generating and sharing a first biodata.
+Like Import, this step is free and needs no ID verification, so a family can generate and share a first biodata right away.
 
 ## One Profile, Different Biodata for Different People
 
@@ -48,15 +48,15 @@ A standalone biodata tool produces one document. If Rukhsana wants a shorter ver
 
 Panosia Connect's profile uses **field-level privacy**: every field, and every photo, is set to Public, Privately Shared, or Hidden. That same setting carries into the exported biodata. A copy meant for a distant matchmaker or an unfamiliar family can include only the Public fields, while a copy meant for close relatives can include more. The underlying profile stays the same; only what shows up in each exported document changes, based on privacy settings Rukhsana controls herself.
 
-This solves a real, ordinary worry many families have: once a biodata is shared once, in a WhatsApp group or by email, there's no way to take it back or control who forwards it further. Building each export from the same controlled profile, instead of one all-purpose file, gives a family more say over which version of the story reaches which audience.
+This solves a real, ordinary worry many families have: once a biodata is shared, whether in a WhatsApp group or by email, there's no way to take it back or control who forwards it further. Building each export from the same controlled profile, instead of one all-purpose file, gives a family more say over which version of the story reaches which audience.
 
 ## What Happens After the PDF
 
 A standalone biodata-maker website stops once the PDF downloads. Panosia Connect's profile keeps doing work after that point, because it's the same profile Imran will use for the rest of his search.
 
-That profile can appear in **Discovery**, the platform's browse and search feature, where other members filter by details like age range and location, and see a compatibility score calculated from things like age closeness, location, education, and religion. It can build a network through **Connectors**, people such as parents, relatives, or trusted family friends who search and introduce candidates on someone's behalf. And it can receive **Private Access Requests**, where someone interested in Imran's profile sends a message asking to see the fields marked Privately Shared, which Imran, as the profile owner, can approve, decline, or revoke at any time.
+That profile can appear in **Discover**, the platform's browse and search feature, where other members filter by details like age range and location, and see a compatibility score calculated from things like age closeness, location, education, and religion. It can build a network through **Connectors**, people such as parents, relatives, or trusted family friends who search and introduce candidates on someone's behalf. And it can receive **Private Access Requests**: someone interested in Imran's profile sends a message asking to see the fields marked Privately Shared. Imran, as the profile owner, can approve, decline, or revoke that request at any time.
 
-One honest gate is worth stating plainly here: searching, using Discover, messaging, and requesting someone's private access all require a quick identity check first, a guided process that usually takes a few minutes from a phone. Building and sharing the biodata itself never requires this. The verification step exists for the interactions that follow the biodata, not for the biodata step described above.
+One honest gate is worth stating plainly here: searching, using Discover, messaging, and sending a Private Access Request all require a quick identity check first, a guided process that usually takes a few minutes from a phone. Building and sharing the biodata itself never requires this. The verification step exists for the interactions that follow the biodata, not for the biodata step described above.
 
 For a family used to a biodata being the finish line, this is the real difference: the same document that gets shared once, printed, and eventually goes out of date on a standalone tool stays live and adjustable here, connected to the rest of the search.
 
