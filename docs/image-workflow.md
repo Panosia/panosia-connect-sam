@@ -2,7 +2,15 @@
 
 Use this guide whenever a post bundle (`posts/<SL#>-<topic-slug>/`) needs images.
 
-## Where Images Live
+## Two Sources: New Images vs. Reusing a Live Screenshot
+
+- **A new image** (a photo, illustration, or a screenshot that doesn't exist anywhere on the live site yet): follow the local-storage workflow below (`images/` folder, numbered filenames, `sources.md` entry).
+- **Reusing an existing, already-published product screenshot** (e.g. an in-body image from another `posts/*` article, illustrating a real feature the current article also describes): hotlink it directly from the live site's own asset URL (e.g. `https://connect.panosia.com/assets/<hashed-name>.webp`) rather than downloading a copy. This is the preferred path for this case (confirmed 2026-09-13; article #4 established the pattern with 9 hotlinked screenshots before this was formalized). Reasoning: it's the same asset either way, a local copy would just be a second file to keep in sync if the source changes, and the site already serves it reliably.
+  - Use the real `alt` text already established for that image where one exists (check other `posts/*/en/*-article.md` files that use the same asset), so the same screenshot doesn't earn conflicting descriptions across articles.
+  - Note the reuse inline is not required, but do log it in the citing article's own bundle: add a line to that bundle's `images/sources.md` (create the file/folder if this is the bundle's first image) recording the hotlinked URL and which other post it was first published on, so the dependency on that URL staying live is traceable later.
+  - Re-verify the hotlinked URL still resolves before publish, same as any other internal link — a landing/site restructure can change or remove these hashed asset paths.
+
+## Where New Images Live
 
 - Images live in the post bundle's `images/` folder, shared across every language version of that post. A photo isn't language-specific, its alt text is.
 - Created on first use. Don't pre-create an empty `images/` folder for a post that doesn't have images yet.

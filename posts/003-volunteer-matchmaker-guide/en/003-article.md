@@ -1,11 +1,11 @@
 **Meta Title**: How to Become a Trusted Community Matchmaker
 **Meta Description**: Every community has one person everyone calls when it's time to talk marriage: an aunt, a friend from the mosque, temple, or the office who just knows people and never charges a fee for it. Here's how to do it well as your circle grows.
 **Primary Keyword**: how to become a community matchmaker
-**Secondary Keywords**: volunteer matchmaker, what is a Connector on Panosia Connect, how to introduce people for marriage, community matchmaking, professional matchmaker
+**Secondary Keywords**: volunteer matchmaker, what is a Connector on Panosia Connect, how to introduce people for marriage, community matchmaking, professional matchmaker, managed profile
 **URL Slug**: how-to-be-a-trusted-community-matchmaker
 **Category**: Matchmaking Guidance
-**Tags**: connector, community, matchmaker, volunteer, matrimony, trust, network
-**Draft Date**: 2026-09-12
+**Tags**: connector, community, matchmaker, volunteer, matrimony, trust, network, managed profile
+**Draft Date**: 2026-09-13
 **Publish Date**: not yet published
 
 # How to Become a Trusted Community Matchmaker
@@ -15,7 +15,7 @@
 * Every community already has someone people turn to for introductions: an aunt, a friend from the mosque or temple, a colleague who just knows people. That instinct is the starting point, not something to replace.
 * What earns that person trust isn't payment. It's reputation and discretion, built over years of careful introductions.
 * The hard part usually isn't finding people to introduce. It's keeping track of several families at once without letting anything slip.
-* Panosia Connect's Connector role gives that instinct one place to work from: a trusted network, visible references, and a shared record instead of scattered phone calls and a notebook.
+* Panosia Connect's Connector role gives that instinct one place to work from: a trusted network, visible references, a shared record, and even a way to build a profile for someone who isn't ready to create one themselves.
 * As more people rely on you, protecting your reputation matters more, not less. Ask before you share, respect a no, and keep the people you introduce in the loop.
 
 ## The Person Everyone Already Calls
@@ -48,9 +48,20 @@ As a Connector, you can:
 
 * **Be a reference for people you know.** A Candidate can list you as a reference the same way they'd tell a friend, "ask Nasrin, she knows my family." Your reference shows up as real context on their profile, not an anonymous claim.
 * **Keep a network instead of a memory.** The families and candidates you know stay organized in one place, instead of split across phone calls and a notebook you might lose.
-* **Share what you already know.** Instead of mentioning someone at a gathering and hoping it goes somewhere, you can point to an actual profile and start a real introduction.
+* **Send a real request instead of a mention at a family gathering.** Instead of bringing someone up in passing and hoping something comes of it, an ID-verified Connector can send a private access request on a profile so the family knows exactly who's asking and why. The app has a ready-made message template for exactly this situation, so you're not writing from scratch every time.
+* **Confirm the family ties you already know about.** When a profile lists family members (a father, a sister, a cousin), and you've been granted private access to that profile, you can confirm or flag a specific tag if you know it's accurate or think it isn't. It shows up as a simple running count next to that relationship. You already know which claimed relationships in your community are real. This feature makes that knowledge visible to others too.
 
-Being a Connector, adding references, and sharing profiles is free and doesn't require any ID verification. It's the same role you already play informally, just gathered into one place instead of scattered across phone calls and memory.
+Being a Connector, adding references, and sharing profiles is free and doesn't require any ID verification. Sending a private access request is the one exception: get ID-verified first, the same one-time step a Candidate needs before they can message anyone. Everything else here is the same role you already play informally, just gathered into one place instead of scattered across phone calls and memory.
+
+![A candidate's Family Tree and Social Connections displayed on their Panosia Connect profile](https://connect.panosia.com/assets/family-tree-social-connections-DdeulZHF.webp)
+
+### When the Person You Want to Help Isn't Ready to Be Online
+
+Some of the people Nasrin wants to help aren't going to set up their own profile. Maybe it's an older relative who isn't comfortable with apps, or a shy younger cousin whose family isn't ready to manage an online presence for them yet. In an informal network, that usually means the person just gets left out.
+
+Panosia Connect has a specific answer for this: a **Managed Profile**. As a verified Connector, you can build and manage a full profile on someone else's behalf: import their biodata (a written summary used in matrimony searches) if they already have one, fill in the rest of their details, upload their photos, and submit it for the same verification review a self-managed profile goes through. Once it's approved, the profile carries a visible "Managed" badge along with a note showing who manages it, so anyone interested knows to contact the guardian, not the person directly, using the platform's regular messaging. A managed profile stays active for six months once approved, then it expires out of Discover and search results until it's resubmitted; nothing is lost.
+
+This is the concrete answer to a question Nasrin has probably run into more than once: what do you do when the right person for someone's family isn't the one who's going to log in and build a profile themselves?
 
 ## Protecting Your Reputation as Introductions Add Up
 
@@ -63,17 +74,19 @@ A few habits keep that reputation intact as your circle grows:
 * **Follow up honestly, even when there's no match.** Telling someone an introduction didn't work out is part of the job. Staying silent about it is what damages trust.
 * **Let each new reference speak for itself.** Being a reference for one family doesn't mean vouching for everyone connected to them. Judge each introduction on its own.
 
-Panosia Connect helps directly with the first habit: your references and the people in your network stay visible and organized in one place, so keeping track of who's who doesn't depend entirely on memory.
+Panosia Connect helps directly with the first habit: your references and the people in your network stay visible and organized in one place, so keeping track of who's who doesn't depend entirely on memory. As that record of good introductions grows, it's also recognized directly. Referring 10 people earns the title Regional Connector. Referring 50 earns Community Leader. Both show up as a badge on your profile, a visible version of the same reputation Nasrin already built by word of mouth, just easier for a new family to see before they trust you with an introduction.
 
 ## Boundaries: Discretion, Consent, and Not Overstepping
 
 Being trusted with introductions comes with real responsibility. A few boundaries keep the role from becoming a burden, for you and for the families you help.
 
-* **Ask before you share.** Never forward someone's information, profile, or biodata (a written summary used in matrimony searches) to another family without their permission first, even if you think it's a great match. The same goes for requesting someone's Private View, the fuller version of their profile beyond what's publicly visible: ask first.
+* **Ask before you share.** Never forward someone's information, profile, or biodata to another family without their permission first, even if you think it's a great match. The same goes for requesting someone's Private View, the fuller version of their profile beyond what's publicly visible: send a request and wait to hear back, don't assume yes.
 * **Respect a no.** If a family or candidate isn't interested in an introduction, that's their decision to make, not something to push.
 * **Keep private matters private.** If someone shares something in confidence, such as a past relationship, a family concern, or a reason they're being careful, keep it private unless they say otherwise.
 * **Don't promise outcomes.** You can make a thoughtful introduction. You can't guarantee a marriage, and saying so plainly protects both your credibility and the people you're helping.
 * **Know when to step back.** Once two families are talking directly, your job is usually done. Staying available as a resource is different from staying involved in every decision.
+
+![A shared Panosia Connect profile link opened in Private View, showing the full profile after access is granted](https://connect.panosia.com/assets/private-view-full-profile-Bg-E7_1o.webp)
 
 ## Getting Started
 
@@ -102,7 +115,11 @@ A professional matchmaker runs matchmaking as a paid service for clients. A comm
 
 ### Do I need ID verification to be a Connector?
 
-No. Being a Connector, adding references, and sharing profiles doesn't require any ID verification. Verification applies to Candidates before they can search, use Discover (the platform's browse tool for finding candidates), request someone's Private View, or chat with other candidates.
+No, not just to be a Connector. Adding references and sharing profiles is free and doesn't require any ID verification, for Candidates and Connectors alike. Verification is needed before either one can search, use Discover (the platform's browse tool for finding candidates), request someone's Private View, or chat with other members.
+
+### What if the person I want to help isn't ready to create their own profile?
+
+You can build one for them. As a verified Connector, a Managed Profile lets you fill in someone's details, add their photos, and submit it for the same verification review as any other profile, on their behalf. It's marked as managed, and interested members contact you rather than them, so the person you're helping doesn't need to be comfortable online themselves to still be found.
 
 ### What if I want to help match my own child, not just other families?
 
