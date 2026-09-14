@@ -32,6 +32,7 @@ Focus on:
 - heading hierarchy
 - keyword placement without stuffing
 - evidence quality, citations, and product fairness
+- whether the draft actually names specific Panosia Connect mechanics (from `context/site-profile.md`) to solve the reader's problem, or stays abstract about "trust"/"privacy" in a way that could describe any matrimony platform — flag the latter as a required fix, not optional polish
 - internal and external linking opportunities
 - readability and scannability
 - research-note leakage and methodology sections that do not earn their place

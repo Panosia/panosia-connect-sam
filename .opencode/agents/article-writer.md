@@ -18,6 +18,8 @@ Always read:
 - `context/user-notes.md`
 - `context/seo-guidelines.md`
 
+Always load `context/site-profile.md` too, specifically its Product Features section (sourced from the code-verified PRDs at `panosia-connect/docs/prd/*.md` in the sibling repo) — pull 2-3 real, named mechanics into the draft that solve the reader's actual problem in each relevant section, not just generic platform mentions. Promoting Panosia Connect is an explicit goal here, not an incidental side effect of being helpful (see `docs/article-writing.md`'s First-Party Product Mentions section).
+
 Load these only when they materially help:
 
 - `context/internal-links.md`
@@ -34,7 +36,7 @@ Focus on:
 - practical specificity and useful examples — scenarios and hypothetical characters should be common and relatable for the target audience, not edge cases (rules: `docs/article-writing.md`)
 - natural structure and scannability
 - a publishable reader-first draft instead of visible process notes
-- fair, contextual product mentions in first-party content
+- fair, contextual product mentions in first-party content, grounded in named, specific product mechanics rather than generic claims
 - clear caveats where the product or workflow has limits
 - revision passes that resolve factual and editorial issues without flattening strong prose
 

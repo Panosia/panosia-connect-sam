@@ -36,7 +36,7 @@ That's different from hiring a professional matchmaker, someone who charges a fe
 
 As more people ask for help, goodwill alone starts to create a real logistics problem. Nasrin might be holding the details of eight or ten single adults in her head at once: who's looking, who's already been introduced to whom, whose family raised a concern about someone last year, who prefers to keep things quiet.
 
-None of that lives in one place. It's split across phone calls, a notebook she sometimes forgets to update, and her own memory. An introduction that didn't work out a year ago is easy to accidentally repeat. You might accidentally mention a family that asked to be discreet. That usually happens because no one wrote the request down anywhere.
+None of that lives in one place. It's split across phone calls, a notebook she sometimes forgets to update, and her own memory. An introduction that didn't work out a year ago is easy to accidentally repeat. She might mention a family that asked to be discreet, without meaning to. That usually happens because no one wrote the request down anywhere.
 
 This isn't a sign that Nasrin, or anyone like her, is bad at this. It's a sign that goodwill alone was never going to scale past a handful of families without some way to keep track of it.
 
@@ -50,11 +50,11 @@ As a Connector, you can:
 * **Keep a network instead of a memory.** The families and candidates you know stay organized in one place, instead of split across phone calls and a notebook you might lose.
 * **Share what you already know.** Instead of mentioning someone at a gathering and hoping it goes somewhere, you can point to an actual profile and start a real introduction.
 
-Being a Connector, adding references, and sharing profiles is free and doesn't require any ID verification. It's the same role you already play informally, just gathered into one place, the way LinkedIn turned scattered professional contacts into one searchable network.
+Being a Connector, adding references, and sharing profiles is free and doesn't require any ID verification. It's the same role you already play informally, just gathered into one place instead of scattered across phone calls and memory.
 
 ## Protecting Your Reputation as Introductions Add Up
 
-The more families that rely on you, the more your reputation is at stake with each one. A single careless introduction, sharing someone's information without asking, or forgetting a promise you made, can undo years of trust faster than it took to build.
+The more families that rely on you, the more your reputation is at stake with each one. A single careless introduction can undo years of trust faster than it took to build. So can sharing someone's information without asking, or forgetting a promise you made.
 
 A few habits keep that reputation intact as your circle grows:
 
@@ -69,7 +69,7 @@ Panosia Connect helps directly with the first habit: your references and the peo
 
 Being trusted with introductions comes with real responsibility. A few boundaries keep the role from becoming a burden, for you and for the families you help.
 
-* **Ask before you share.** Never forward someone's information, profile, or biodata (a written summary used in matrimony searches) to another family without their permission first, even if you think it's a great match.
+* **Ask before you share.** Never forward someone's information, profile, or biodata (a written summary used in matrimony searches) to another family without their permission first, even if you think it's a great match. The same goes for requesting someone's Private View, the fuller version of their profile beyond what's publicly visible: ask first.
 * **Respect a no.** If a family or candidate isn't interested in an introduction, that's their decision to make, not something to push.
 * **Keep private matters private.** If someone shares something in confidence, such as a past relationship, a family concern, or a reason they're being careful, keep it private unless they say otherwise.
 * **Don't promise outcomes.** You can make a thoughtful introduction. You can't guarantee a marriage, and saying so plainly protects both your credibility and the people you're helping.
@@ -81,7 +81,7 @@ If you're already doing this informally, moving it onto Panosia Connect takes le
 
 1. **Join as a Connector.** Set up your own profile as someone who references and introduces, not someone searching for a partner.
 2. **Ask the people you already know to list you as a reference.** If a Candidate you trust is already on the platform, ask them to add you. If not, invite the families you already know to join, then do the same.
-3. **Invite others into the network.** If your community already has a few people who do this, an aunt, a family friend, someone active at your local mosque, temple, or church, invite them to join too. The more trusted people in the network, the more useful it becomes for everyone.
+3. **Invite others into the network.** Your community likely has a few other people who already do this: an aunt, a family friend, someone active at your local mosque, temple, or church. Invite them to join too. The more trusted people in the network, the more useful it becomes for everyone.
 4. **Keep doing what earned you this reputation in the first place.** The tool organizes your effort. It doesn't replace your judgment about who's a good fit.
 
 If you want to see what this looks like from a Candidate's side, from setting up a profile to getting verified and discovered, our [guide to getting started on Panosia Connect](https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered) walks through it step by step. And if you're also helping your own child search alongside everyone else you help, that fits naturally into this same role. More on that in the FAQ below.
@@ -102,7 +102,7 @@ A professional matchmaker runs matchmaking as a paid service for clients. A comm
 
 ### Do I need ID verification to be a Connector?
 
-No. Being a Connector, adding references, and sharing profiles doesn't require any ID verification. Verification applies to Candidates before they can search, use Discover, request someone's Private View, or chat with other candidates.
+No. Being a Connector, adding references, and sharing profiles doesn't require any ID verification. Verification applies to Candidates before they can search, use Discover (the platform's browse tool for finding candidates), request someone's Private View, or chat with other candidates.
 
 ### What if I want to help match my own child, not just other families?
 

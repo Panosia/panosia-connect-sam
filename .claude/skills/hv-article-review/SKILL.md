@@ -46,7 +46,7 @@ Add another lens only if it would surface something none of the above catches (e
 
 ## Structural Checks
 
-Opening strength (reader/problem/promise within ~120-150 words); heading hierarchy; keyword placement without stuffing; title/meta quality; duplication within the piece and against other `posts/*/en/*-article.md` posts in the same series; em dash overuse; brand voice/vocabulary alignment; research-note or methodology leakage; FAQ presence; internal links relevant and sitemap-verified before publish.
+Opening strength (reader/problem/promise within ~120-150 words); heading hierarchy; keyword placement without stuffing; title/meta quality; duplication within the piece and against other `posts/*/en/*-article.md` posts in the same series; em dash overuse; brand voice/vocabulary alignment; research-note or methodology leakage; FAQ presence; internal links relevant and sitemap-verified before publish; **product-mechanic concreteness** — does the draft name specific Panosia Connect features (from `context/site-profile.md`'s Product Features, sourced from the PRDs) to solve the reader's problem, or stay abstract about "trust"/"privacy" in a way that could describe any matrimony platform? Treat pervasive abstraction as a required fix, not optional polish — promoting Panosia Connect concretely is an explicit article goal (see `docs/article-writing.md`'s First-Party Product Mentions section).
 
 ## Triage
 

@@ -14,6 +14,7 @@ Substantial draft work means a new full draft, a full-article rewrite, or struct
 
 ## Core Rules
 
+- Article goal: articles exist to promote Panosia Connect, not just to be generically useful matrimony content. Every draft should ground the reader's problem in specific, named product mechanics (see `context/site-profile.md`'s Product Features, sourced from the code-verified PRDs at `panosia-connect/docs/prd/*.md` in the sibling repo) rather than staying abstract about "trust" and "privacy" in general. See `docs/article-writing.md`'s First-Party Product Mentions section for the concrete rule.
 - Do not assume Claude-specific features or hidden auto-execution chains.
 - Do not invent analytics or keyword data unless the user provides it.
 - Prefer explicit files on disk over conversational-only output.

@@ -78,6 +78,9 @@ Skip this section only when fewer than 2 genuinely relevant posts exist yet (e.g
 - Keep product mentions contextual, not dominant.
 - Include real limitations or tradeoffs when they matter.
 - Do not put the product first unless there is a reader-first reason to do so.
+- Promoting Panosia Connect is an explicit goal of this workspace, not an incidental side effect of being helpful. "Be useful first" describes the *tone* (earn the mention, don't force it), not a reason to keep the product mention thin, vague, or optional. A publish-ready draft should give the reader a concrete, specific reason to go create a profile, become a Connector, or try a named feature, not just leave them better-informed in the abstract.
+- Ground every article in at least 2-3 real, specific Panosia Connect mechanics that solve the reader's exact problem in that section, pulled from `context/site-profile.md`'s Product Features (itself sourced from the code-verified PRDs in the sibling repo, `panosia-connect/docs/prd/*.md`). Name the actual thing: "field-level privacy lets you set your phone number to Privately Shared while your name stays public" beats "you control your privacy." "A community member can upvote or dispute a specific claimed relationship on someone's Family Tree" beats "family involvement builds trust." If a section's advice could apply to any matrimony platform or none at all, it's still too abstract, tie it back to a named feature or mechanic wherever the reader's problem has one.
+- When in doubt about a mechanic's exact behavior (a limit, a flow, a button), check the PRDs before describing it. They are more detailed and more current than the homepage.
 
 ## Optimization Guardrails
 

@@ -2,6 +2,10 @@
 @MEMORY.md
 @context/user-notes.md
 
+## Git Workflow
+
+- Commit directly to `main`. This repo doesn't use feature branches for normal work; don't create one before committing unless the user asks for a branch/PR workflow.
+
 <!-- rtk-instructions v2 -->
 # RTK (Rust Token Killer) - Token-Optimized Commands
 

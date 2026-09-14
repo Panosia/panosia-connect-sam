@@ -30,6 +30,7 @@ Focus on:
 - heading hierarchy
 - keyword placement without stuffing
 - evidence quality, citations, and product fairness
+- whether the draft actually names specific Panosia Connect mechanics (from `context/site-profile.md`) to solve the reader's problem, or stays abstract about "trust"/"privacy" in a way that could describe any matrimony platform — flag the latter as a required fix, not optional polish
 - internal and external linking opportunities
 - readability and scannability, including overuse of the em dash ("—") as a default connector instead of a comma, period, colon, or semicolon
 - ESL readability: clause-stacked sentences, untranslatable idioms/phrasal verbs/references, passive voice, undefined terms on first use
