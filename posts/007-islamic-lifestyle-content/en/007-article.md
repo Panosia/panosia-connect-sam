@@ -48,7 +48,7 @@ Picture Rafiq, a hypothetical young professional preparing to start his own sear
 
 Rafiq's habit is common among practicing Muslims, not unusual. Many people use periods of fasting or increased worship as a yearly check on their own patience and self-control. Marriage asks for those same qualities every day, not once a year. Someone who has never practiced patience on a small scale will find it harder to practice patience on the scale marriage demands: sharing decisions, accepting a partner's flaws, and staying calm during disagreements about money, family, or children.
 
-This is one reason many Islamic teachings link readiness for marriage to readiness for self-discipline in general. The specific practice, whether it is fasting, extra prayer, or simply working on one's temper, matters less than the habit itself: working on personal character before asking someone else to share a life with you.
+The specific practice, whether it is fasting, extra prayer, or simply working on one's temper, matters less than the habit itself: working on personal character before asking someone else to share a life with you.
 
 ## Honest Self-Reflection Before You Start Searching
 
@@ -71,7 +71,9 @@ This does not mean removing personal choice from the decision. It means treating
 
 Once someone has done this inner work, the practical question becomes how to search in a way that keeps character and family involvement at the center, instead of reducing the search to photos and a list of preferences. This is the reason Panosia Connect built its search process around a few specific, named mechanics rather than an anonymous swipe-style feed.
 
-The [Connector](https://connect.panosia.com/posts/what-is-a-connector-and-why-it-matters) role lets a parent, sibling, or trusted community member take an active part in a search: reviewing profiles, making introductions, and being a reference for someone they know personally. It gives the family and community involvement described above an actual place to happen, instead of staying an informal phone call or a comment at a family gathering.
+The [Connector](https://connect.panosia.com/posts/what-is-a-connector-and-why-it-matters) role lets a parent, sibling, or trusted community member take an active part in a search: reviewing profiles and making introductions for someone they know. A Candidate can also list a trusted Connector as a reference on their own profile, so that person's knowledge of the Candidate's character becomes part of the record. It gives the family and community involvement described above an actual place to happen, instead of staying an informal phone call or a comment at a family gathering.
+
+A quick Level 1 ID check is needed before a member can search, use Discover, or message someone else, so this involvement works alongside real identity checks rather than replacing them.
 
 The Family Tree feature adds a second, more specific signal. Any member who has been granted private access to a profile can upvote or downvote a specific claimed relationship, such as "this is her brother" or "this is his colleague," rather than just trusting a name typed into a family details field. It turns a vague claim like "his family says he's responsible" into something other people who actually know the family can confirm or dispute.
 
@@ -95,7 +97,7 @@ A helpful sign is whether someone has already practiced patience, honesty, and s
 
 ### Should family be involved in choosing a spouse in Islam?
 
-Yes, many Islamic teachings encourage it. Family and trusted community members who know someone well can often see character traits a short courtship might miss, though the final decision still belongs to the two people getting married.
+Yes, many Islamic teachings encourage it. Family and trusted community members who know someone well can often see character traits a short courtship might miss, alongside the couple's own judgment and direct conversation with each other.
 
 ### Can I start preparing for marriage before I begin searching?
 
