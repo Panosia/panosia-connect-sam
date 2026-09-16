@@ -68,7 +68,7 @@ A few things make the ask easier:
 
 - **Ask directly, in plain words.** Something like, "I'm building my profile on Panosia Connect for my marriage search, and I'd like to list you as a reference. Would that be okay?" A clear, specific ask is easier to answer than a vague one.
 - **Explain what it involves.** Being a reference means the Candidate lists their name. It does not require the reference to complete any identity check themselves.
-- **Let them decide how much to share.** If someone with the right access reaches out to a reference later, the reference chooses how much to say. Nobody is obligated to write a long statement.
+- **Let them decide how much to share.** If someone later asks the reference about the Candidate, the reference decides how much to say. Nobody is obligated to write a long statement.
 
 Rafiq eventually asked his aunt Nasima directly, one evening after dinner. He explained simply what it meant and that it would not take much of her time. She said yes without hesitation. What had felt like a big ask in Rafiq's head turned out to be a short, easy conversation once he actually had it.
 
@@ -76,7 +76,7 @@ Rafiq eventually asked his aunt Nasima directly, one evening after dinner. He ex
 
 The reverse situation is worth a short word too. If a Candidate asks to list you as their reference, it usually means they see you as someone who knows them well and would speak honestly about them. That is a sign of trust, not an imposition.
 
-Being listed as a reference is free and does not require any ID verification on your part. If someone with the right access later reaches out to ask about the Candidate, you decide how much or how little to share. There is no script you have to follow and no obligation to respond at length.
+Being listed as a reference is free and does not require any ID verification on your part. If someone later asks you about the Candidate, you decide how much or how little to share. There is no script you have to follow and no obligation to respond at length.
 
 ## Frequently Asked Questions
 

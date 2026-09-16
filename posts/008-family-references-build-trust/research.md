@@ -46,6 +46,14 @@ Outbound network access was blocked in this run (`connect_rejected`/403 fetching
 
 Re-verify against a fresh sitemap fetch before publishing, per the standing MEMORY.md gap note. Articles #2, #3, #5, #6, #7 were deliberately excluded from linking since they are drafted but not confirmed live/published yet.
 
+## Fact-check pass (2026-09-16)
+
+Verified against `context/site-profile.md`, `context/brand-voice.md`, and the already-fact-checked precedent in articles #2 and #3: the Candidate-initiated reference direction, the free/no-verification claim, the verification-gate list (search/Discover/messaging/private access requests), the Family Tree relationship-tag mechanic, the conservative FAQ visibility answer, and the Related Posts URLs all check out.
+
+One required fix applied: two lines implied an unconfirmed "reach out to a reference" contact mechanism not documented in any PRD. Softened to "asks the reference about the Candidate" / "asks you about the Candidate" so the copy states only the confirmed point (the reference controls how much they share) without asserting a specific unconfirmed feature.
+
+Open item for a future session (not blocking this draft): `context/site-profile.md`'s Product Features section has no dedicated "References" subsection of its own — the mechanic's accuracy currently rests on matching already-corrected precedent in articles #2/#3 (themselves fact-checked against PRD-04, in the Private Access Requests context) rather than a direct citation. Worth adding a short standalone References subsection to site-profile.md.
+
 ## Verification-requirement framing check
 
 Followed context/brand-voice.md's framing exactly: creating, sharing, and managing a profile (including adding a reference or being listed as one) is never described as requiring verification. Level 1 ID Verification is described only as the gate in front of search, Discover, messaging, and private access requests.
