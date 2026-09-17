@@ -1,7 +1,7 @@
 <!-- EDITOR NOTE (automated draft, 2026-09-17): Outbound network access was blocked in this run (EGRESS_BLOCKED on a direct fetch attempt to connect.panosia.com), consistent with the known Cloud/scheduled-sessions gap logged in MEMORY.md's "Gaps To Resolve" section, so the sitemap was not freshly re-fetched. The Related Posts links below reuse URLs already confirmed live elsewhere in this repo (most recently re-confirmed 2026-09-12). Re-verify against a fresh sitemap fetch before publishing, then remove this comment. Also per research.md: the primary keyword is an editorial best guess, not OpenSEO/DataForSEO-verified. -->
 
 **Meta Title**: How to Involve Your Parents in Your Marriage Search
-**Meta Description**: Many Candidates want their parents involved in the search for a life partner, but sharing a profile can feel like handing over the final decision instead of just inviting help. Panosia Connect gives you the tools to invite them in without losing control.
+**Meta Description**: Many Candidates want their parents involved in their own search for a life partner, but sharing a profile with them can feel like handing the final decision over instead of just asking for their help. Panosia Connect gives you the tools to invite them in on your own terms.
 **Primary Keyword**: how to involve your parents in your marriage search
 **Secondary Keywords**: share matrimony profile with parents, parents as Connector, candidate autonomy matchmaking, involve family in marriage search
 **URL Slug**: involve-parents-in-your-marriage-search
@@ -24,19 +24,11 @@
 
 Imran, a hypothetical Candidate on Panosia Connect, wanted his parents involved in his search for a life partner. They had good instincts about people. They knew families he didn't. And honestly, doing this alone felt lonely.
 
-But Imran had also watched a cousin's search turn into something else entirely. Once the cousin's mother got a login, she started messaging families on her own, showing the profile to anyone who asked, and making plans before her son had even seen a photo. By the time he found out, decisions were already half made.
+But Imran had also watched a cousin's search turn into something else entirely. Once the cousin's mother got a login, she started messaging families on her own. She showed the profile to anyone who asked and made plans before her son had even seen a photo. By the time he found out, decisions were already half made.
 
 Imran wanted his parents' help. He just didn't want to lose the choice of who he married in the process.
 
-This is a common worry for Candidates. **The good news is that inviting your parents in and staying in charge of the outcome are not opposites.** Panosia Connect has specific tools built for exactly this, and this guide walks through how to use them.
-
-## It Doesn't Have to Be All or Nothing
-
-The usual fear behind this hesitation goes something like: "If I let my parents in, I lose control." That fear makes sense if the only two choices are doing everything alone or handing over full access.
-
-Panosia Connect doesn't work that way. You can choose, field by field and step by step, how much your parents see and do. You can give them a narrow window into your profile, or a wide one. You can let them search on your behalf, or just pass along names they hear about elsewhere. You can list one of them as a reference, or decide that role fits someone else better.
-
-None of these choices are permanent, either. What you share today, you can adjust or take back later.
+This is a common worry for Candidates. **The good news is that inviting your parents in and staying in charge of the outcome are not opposites.** Panosia Connect has specific tools built for exactly this, and this guide walks through how to use them, field by field and step by step.
 
 ## Decide What They See, Field by Field
 
@@ -48,7 +40,7 @@ Your Panosia Connect profile is built from several sections: your identity, pers
 
 This means you don't have to choose between "my parents see my whole profile" and "my parents see nothing." You could set your name, education, and general location to Public, so your parents (or anyone else) can find and recognize you. Then you could keep your phone number Privately Shared, visible only once you've approved access for someone specific, your parents included.
 
-A dedicated Privacy Settings screen lets you review and change every field at once, organized by section, instead of hunting through your profile edit-by-edit. It also includes bulk actions, so you can set every field to one level in a single step, or reset your whole profile to a suggested default template, if you'd rather start over than adjust field by field.
+A dedicated Privacy Settings screen lets you review and change every field at once, organized by section, instead of hunting through your profile edit-by-edit. It also includes bulk actions, so you can set every field to one level in a single step. If you'd rather start over than adjust field by field, you can also reset your whole profile to a suggested default template.
 
 In practice, this means your parents can see enough to understand who you are and vouch for you honestly, without seeing details you'd rather keep between you and someone you're seriously considering.
 
@@ -72,9 +64,9 @@ Adding a reference is free, and neither you nor the person you list needs to com
 
 Sometimes a parent, or someone your parents know, will want to see profile details you've kept Privately Shared. That's when Panosia Connect's **Private Access Request** comes in. Whenever a viewer can't see one of your private fields, a "Request Private Access" button appears on your profile for them to ask.
 
-When someone sends that request, you get a notification and, from a Received/Sent request dashboard, you can approve it, decline it, or reply with a short note either way. Approving a request opens your Privately Shared fields to that one specific person. It doesn't change what anyone else can see.
+When someone sends that request, you get a notification. From a Received/Sent request dashboard, you can approve it, decline it, or reply with a short note either way. Approving a request opens your Privately Shared fields to that one specific person. It doesn't change what anyone else can see.
 
-The part that matters most for staying in control: **you can revoke that access at any time, and it takes effect immediately.** If you shared more with someone and later change your mind, whether that's a parent, a Connector, or a potential match, you can close that door again without needing their agreement. If circumstances change later, a new request can always be sent to reopen it.
+The part that matters most for staying in control: **you can revoke that access at any time, and it takes effect immediately.** Maybe you shared more with a parent, a Connector, or a potential match, and later changed your mind. You can close that door again without needing their agreement. If circumstances change later, a new request can always be sent to reopen it.
 
 This same approve-and-revoke control also applies to your own profile if a parent asks to see more of it than you've currently shared. Nothing here requires you to decide once and live with it forever.
 
