@@ -46,7 +46,7 @@ Your Panosia Connect profile is built from several sections: your identity, pers
 - **Privately Shared**: only someone you've approved for private access can see it.
 - **Hidden**: only you and Panosia Connect staff can see it.
 
-This means you don't have to choose between "my parents see my whole profile" and "my parents see nothing." You could set your name, education, and general location to Public, so your parents (or anyone else) can find and recognize you. Then you could keep your phone number and exact address Privately Shared, visible only once you've approved access for someone specific, your parents included.
+This means you don't have to choose between "my parents see my whole profile" and "my parents see nothing." You could set your name, education, and general location to Public, so your parents (or anyone else) can find and recognize you. Then you could keep your phone number Privately Shared, visible only once you've approved access for someone specific, your parents included.
 
 A dedicated Privacy Settings screen lets you review and change every field at once, organized by section, instead of hunting through your profile edit-by-edit. It also includes bulk actions, so you can set every field to one level in a single step, or reset your whole profile to a suggested default template, if you'd rather start over than adjust field by field.
 
@@ -72,7 +72,7 @@ Adding a reference is free, and neither you nor the person you list needs to com
 
 Sometimes a parent, or someone your parents know, will want to see profile details you've kept Privately Shared. That's when Panosia Connect's **Private Access Request** comes in. Whenever a viewer can't see one of your private fields, a "Request Private Access" button appears on your profile for them to ask.
 
-When someone sends that request, you get a notification and choose from a two-tab dashboard: approve it, decline it, or reply with a short note either way. Approving a request opens your Privately Shared fields to that one specific person. It doesn't change what anyone else can see.
+When someone sends that request, you get a notification and, from a Received/Sent request dashboard, you can approve it, decline it, or reply with a short note either way. Approving a request opens your Privately Shared fields to that one specific person. It doesn't change what anyone else can see.
 
 The part that matters most for staying in control: **you can revoke that access at any time, and it takes effect immediately.** If you shared more with someone and later change your mind, whether that's a parent, a Connector, or a potential match, you can close that door again without needing their agreement. If circumstances change later, a new request can always be sent to reopen it.
 
