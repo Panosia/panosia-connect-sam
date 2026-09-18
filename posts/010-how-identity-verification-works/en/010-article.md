@@ -3,7 +3,7 @@
 FACT-CHECK NOTE (2026-09-18): fact-check found a real, unresolved conflict between two of this workspace's own source files on exactly what Level 1 verification gates. `context/site-profile.md`'s PRD-05 line says the gate covers "only these three: sending direct messages, requesting someone's private access, and browsing another member's network" (no mention of search/Discover). `context/brand-voice.md` (and MEMORY.md's 2026-08-26 user-confirmed product fact, predating the 2026-09-13 PRD rewrite of site-profile.md) states the gate is "search, use Discover, request Private View, or chat." This draft follows the brand-voice.md/user-confirmed framing (the more explicitly human-confirmed source) plus the PRD-03/PRD-05 network-browsing detail, but `context/site-profile.md`'s PRD-05 wording needs reconciling by a human against the live product before this is fully settled; flagged in MEMORY.md's Gaps To Resolve. Also removed an invented Level 2 (Digital Background Check) trigger/notification mechanic not found in any source, and corrected the reused "3x more profile responses" stat to brand-voice.md's exact approved wording. -->
 
 **Meta Title**: How Identity Verification Works on a Matrimony Site
-**Meta Description**: On Panosia Connect, creating a profile, importing your biodata, and sharing it your own way through Public View or Private View are all free, no identity check required. Searching, messaging, and requesting someone's private details work differently: here's exactly what verification checks, and what it still can't promise.
+**Meta Description**: On Panosia Connect, creating a profile, sharing your biodata, and choosing what stays public or private are all free, with no identity check required until you want to search, message, or see someone's private details. Here's exactly what it checks, and what it still can't promise.
 **Primary Keyword**: how identity verification works on a matrimony site
 **Secondary Keywords**: ID verification matrimony, verify identity before marriage, matrimony site safety, Level 1 ID Verification
 **URL Slug**: how-identity-verification-works-in-matrimony
@@ -16,8 +16,8 @@ FACT-CHECK NOTE (2026-09-18): fact-check found a real, unresolved conflict betwe
 
 **Key Takeaways**
 
-- Creating a profile, importing your biodata, setting your privacy, and sharing your profile publicly or privately are all free on Panosia Connect. None of it needs identity verification.
-- Level 1 ID Verification is a real, required step before you can search, use Discover, message someone, or request someone's private details.
+- Creating a profile, importing your biodata (the written personal and family profile many families already use for matchmaking), setting your privacy, and sharing your profile publicly or privately are all free on Panosia Connect. None of it needs identity verification.
+- Level 1 ID Verification is a real, required step before you can search, use Discover (the platform's main way to browse profiles), message someone, or request someone's private details.
 - Verification takes about 2 minutes through a self-service document-and-selfie check, or you can complete it on a video call with a live reviewer instead.
 - Once approved, your first name, last name, date of birth, and gender lock in place and can no longer be edited.
 - Verification lowers the risk of fake profiles, but it cannot prove someone's character or guarantee a safe outcome. It checks identity, not intentions.
@@ -74,13 +74,13 @@ This part is worth stating plainly, because it is easy to read "verified" as a b
 
 Identity verification confirms one thing: that the person behind the profile matches the ID they submitted, and is a real, present human, not a stolen photo or a fabricated identity. It does not confirm character, kindness, honesty in conversation, or whether two people are actually compatible. A verified profile can still belong to the wrong person for you.
 
-Verification also reduces the risk of fraud. It does not remove that risk entirely. No identity check, on any platform, can guarantee that every interaction which follows will be safe or honest. Family involvement, references from people who already know a Candidate well, and your own judgment during conversation still matter, the same way they would in an introduction made entirely offline. This is the same principle behind Panosia Connect's [trust-first approach to matrimony](https://connect.panosia.com/posts/how-to-find-a-life-partner): verification is one layer of trust, not the only one.
+Verification also reduces the risk of fraud. It does not remove that risk entirely. No identity check, on any platform, can guarantee that every interaction which follows will be safe or honest. Family involvement, references from people who already know a Candidate well, and your own judgment during conversation still matter. They matter the same way they would in an introduction made entirely offline. This is the same principle behind Panosia Connect's [trust-first approach to matrimony](https://connect.panosia.com/posts/how-to-find-a-life-partner): verification is one layer of trust, not the only one.
 
 ## Level 2 and Level 3: The Optional Add-Ons
 
 Level 1 is the only verification step required for search, Discover, messaging, and private access requests. Two further levels exist, and both are entirely optional on top of it.
 
-**Level 2, Digital Background Check.** A live video call where a verifier reviews your personal information, education, and work history in more depth. It is worth knowing this is a separate add-on: it does not unlock anything Level 1 has not already unlocked, it simply adds a deeper layer of confirmation for people who want it. Panosia Connect's own site notes that members who complete a background check see 3x more profile responses.
+**Level 2, Digital Background Check.** A live video call where a verifier reviews your personal information, education, and work history in more depth. It is worth knowing this is a separate add-on. Everything it unlocks, Level 1 already unlocks on its own. Level 2 simply adds a deeper layer of confirmation for people who want it. Panosia Connect's own site notes that members who complete a background check see 3x more profile responses.
 
 **Level 3, In-Person Verification.** This is listed on the pricing page as "Coming Soon." It is not something you can purchase or complete yet, so do not expect it as a current option. It is included here only so the full verification ladder is clear.
 
