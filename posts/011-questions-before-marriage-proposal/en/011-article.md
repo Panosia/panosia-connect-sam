@@ -1,7 +1,7 @@
 <!-- EDITOR NOTE (automated draft, 2026-09-19): Outbound network access to connect.panosia.com was blocked in this session (EGRESS_BLOCKED), consistent with the known Cloud/scheduled-sessions gap logged in MEMORY.md's "Gaps To Resolve" section, so sitemap-posts.xml was not freshly re-fetched. The internal links and Related Posts section below reuse only five URLs already confirmed live elsewhere in this repo: article #1 (how-to-find-a-life-partner), "What Is a Connector," article #4 (getting-started-on-panosia-connect), the self-service ID verification feature-launch post, and the chat messaging feature-launch post. Articles #8 (family references) and #10 (identity verification) are referenced by topic only, without a hyperlink, since those bundles are still unpublished drafts in this repo. Re-verify all five linked URLs against a fresh sitemap fetch before publishing, then remove this comment. Also: the primary keyword below ("questions to ask before accepting a marriage proposal") is an editorial best guess, not OpenSEO/DataForSEO-verified, per the Notion brief's own "TBD, confirm during drafting" note; treat any keyword-fit claim in this draft as unconfirmed. -->
 
 **Meta Title**: Questions to Ask Before Accepting a Marriage Proposal
-**Meta Description**: A real proposal brings hope and doubt at the same time. Before you answer, look past how the conversation feels and check what you can actually verify about this specific person, not just your gut.
+**Meta Description**: A real proposal brings hope and doubt at the same time, and neither feeling by itself tells you whether this specific person is actually the right one for a serious, lifelong marriage commitment. Here is a practical way to check, past how it feels.
 **Primary Keyword**: questions to ask before accepting a marriage proposal
 **Secondary Keywords**: questions to ask before an arranged marriage, marriage proposal checklist, things to consider before a marriage proposal, how to know if a proposal is right for you
 **URL Slug**: questions-to-ask-before-a-marriage-proposal
@@ -32,7 +32,7 @@ Amara's situation is ordinary, not unusual. Most Candidates reach this exact poi
 
 Before anything else, separate two questions that often get blurred together: is this person real, and is this person right for you?
 
-Level 1 ID Verification on Panosia Connect answers only the first question. It checks a government-issued ID against the person's photo, either through a quick selfie-based check or a live video call, and once approved, the person's first name, last name, date of birth, and gender lock in place and can no longer be edited. That "Approved" badge is a real, useful signal. It significantly reduces the chance the profile is a stolen photo or a fabricated identity, though no verification process can rule that out completely.
+Level 1 ID Verification on Panosia Connect answers only the first question. It checks a government-issued ID against the person's photo before granting that "Approved" badge. The badge is a real, useful signal. It significantly reduces the chance the profile is a stolen photo or a fabricated identity, though no verification process can rule that out completely.
 
 It does not tell you whether this person is patient, honest in small moments, or good under stress. A verified badge and a good character are two different things, and a proposal decision needs both.
 
