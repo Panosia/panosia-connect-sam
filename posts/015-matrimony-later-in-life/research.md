@@ -71,5 +71,5 @@ The chat-messaging feature-launch post (`app-chat-messaging-feature`) was consid
 
 - No pre-draft check-in was possible (automated cloud routine run); outline and angle decisions were made using this brief plus editorial judgment. Flagging here per the task instructions instead of blocking on human input.
 - Keyword is OpenSEO-validated per the brief (no bn-first scope gap flagged, unlike SL#005/006/007/012).
-- This draft has not yet been through fact-check or `seo-reviewer`; per `AGENTS.md`'s workflow, both steps are still needed before this is publish-ready.
+- Fact-checked and `seo-reviewer`-reviewed 2026-09-23 (verdict: publish after required fixes, all applied): fact-check fixed a verification-gate phrasing contradiction and an incomplete "Hidden" privacy tier description; review fixed a meta-description truncation bug, cut a duplicated "No Subscription, Ever" section restating the pricing point already covered earlier, added first-use plain-language glosses for "Discover" and "biodata," and fixed two delayed-subject sentences (the intro and the Biodata Import section) for ESL readability. Status: publish-ready (en).
 - Internal links need re-verification against a live sitemap before publishing (see above).
