@@ -1,7 +1,7 @@
 <!-- Editor note: Outbound network access to connect.panosia.com was blocked this session (EGRESS_BLOCKED on both sitemap-posts.xml and sitemap-static.xml), consistent with the known Cloud/scheduled-sessions gap logged in MEMORY.md's "Gaps To Resolve" section, so a fresh sitemap fetch could not be run. Internal links and the Related Posts section below reuse four URLs already confirmed live across multiple recent runs (SL#003, #010, #012-#015): the life-partner trust guide, the Connector explainer, the getting-started guide, and the self-service ID verification feature-launch post. Re-verify all four against a live sitemap fetch before publishing. SL#003 ("How to Become a Trusted Community Matchmaker") is not linked here because MEMORY.md marks it "publish-ready" but not yet published, and it did not appear in any confirmed-live grep result. -->
 
 **Meta Title**: What Does a Matchmaker Actually Do? A Plain-Language Guide
-**Meta Description**: A matchmaker is not a fairy-tale character or a dating app's automatic "match." It is a real person who introduces people for marriage, using judgment and years of personally knowing the people involved, not a formula. Here is what the role actually looks like today.
+**Meta Description**: A matchmaker is not a fairy-tale character or a dating app's automatic "match." It is a real person who uses judgment and years of personal knowledge, not a formula, to decide who is worth introducing for marriage. Here is how the role works today.
 **Primary Keyword**: matchmaker meaning
 **Secondary Keywords**: matchmaking meaning, what does a matchmaker do, professional matchmaker, community matchmaker
 **URL Slug**: what-does-a-matchmaker-do
@@ -24,11 +24,11 @@
 
 Search for "matchmaker" online, and old pictures tend to come up: a character from a folk tale, a scene from a movie, or someone reading a fortune and pairing up couples for a fee. That picture is mostly fiction. In plain terms, a matchmaker is a person who works to introduce people for marriage, gets to know both sides, and decides whether an introduction makes sense. The role is real and still common today, just not always in the form the word suggests.
 
-This guide explains what a matchmaker actually does, how the role is different from a dating app's automatic "matches," and the three main forms matchmaking takes today: professional matchmakers, informal community matchmakers, and Panosia Connect's Connector role, the modern, digital version of the same job.
+That role still takes three main forms today: professional matchmakers who charge for it, informal community matchmakers who do not, and Panosia Connect's Connector role, the modern, digital version of the same job.
 
-## What Does "Matchmaker" Actually Mean?
+## Matchmaker Meaning: What Does the Word Actually Mean?
 
-The word "matchmaker" simply means a person who introduces potential partners for marriage. "Matchmaking" is the act itself: getting to know someone's background, values, and what they are looking for, then deciding whether introducing them to someone else makes sense.
+The matchmaker meaning is simple: a person who introduces potential partners for marriage. "Matchmaking" is the act itself: getting to know someone's background, values, and what they are looking for, then deciding whether introducing them to someone else makes sense.
 
 Matchmaking is sometimes a paid, structured service. Sometimes it is something a friend, relative, or community leader does out of goodwill, with no fee involved. Either way, a real person makes the judgment call. That is the core meaning behind both "matchmaker" and "matchmaking," and it is also what separates the role from a dating app.
 
@@ -63,13 +63,13 @@ The Connector role is not just a label. A few specific mechanics back it up.
 - **Building a Managed Profile.** Some people a Connector wants to help are not ready to build a profile themselves, for example an older relative who is unfamiliar with apps. For that, a verified Connector can create a **Managed Profile**: filling in the person's details, uploading their photos, and submitting it for the same verification review a self-managed profile goes through. The profile carries a visible "Managed" badge, and interested members contact the Connector directly rather than the person the profile represents.
 - **Earning recognition over time.** As a Connector makes more introductions, Panosia Connect recognizes it directly. Referring 10 people earns the title Regional Connector. Referring 50 earns Community Leader. Both appear as a badge on the Connector's own profile.
 
-Being a Connector, adding a reference, and sharing a profile are all free and do not require identity verification. Before a Connector can message someone, use **Discover** (Panosia Connect's tool for browsing Candidates), search for other members, or request access to someone's private profile details, they do need to complete [Level 1 ID Verification](https://connect.panosia.com/posts/self-service-identity-verification-feature-launch) first, a quick identity check meant to reduce the risk of fake accounts, not a guarantee that everyone on the platform is who they claim to be.
+Being a Connector, adding a reference, and sharing a profile are all free and do not require identity verification. A Connector does need to complete [Level 1 ID Verification](https://connect.panosia.com/posts/self-service-identity-verification-feature-launch) first before messaging someone, using **Discover** (Panosia Connect's tool for browsing Candidates) to find other members, or requesting access to someone's private profile details. Level 1 is a quick identity check meant to reduce the risk of fake accounts, not a guarantee that everyone on the platform is who they claim to be.
 
 ## Do You Need a Matchmaker?
 
 Not everyone needs a matchmaker in the traditional sense. If a family already has a network of relatives and community members they trust, that network is already doing matchmaking's core job: introducing people based on real knowledge, not a stranger's guess.
 
-A professional matchmaker can help when that network is thin, or unfamiliar with a particular community. A platform built for this, like [Panosia Connect](https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered), helps in a third way: it gives an existing network, family, friends, and community leaders, a shared, organized place to work from, instead of scattered phone calls and memory.
+A professional matchmaker can help when that network is thin, or unfamiliar with a particular community. A platform built for this, like [Panosia Connect](https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered), helps in a third way: it gives an existing network (family, friends, and community leaders) one shared, organized place to work from instead of scattered phone calls and memory.
 
 None of these approaches, paid, informal, or platform-based, can guarantee a marriage. What each one offers is a narrower, more informed search than looking at strangers alone.
 
