@@ -46,7 +46,7 @@ A professional matchmaker runs matchmaking as a paid business. They charge a fee
 
 ### Community and Family Matchmakers
 
-Most communities also have at least one person who does this informally: an aunt, a family friend, a religious leader, or simply someone who knows many families and enjoys making introductions. They do not charge a fee. Their value comes from years of relationships and good judgment, not from being paid. This informal role is the oldest and most common form of matchmaking, and it still does most of the actual introducing in many communities today.
+Most communities also have at least one person who does this informally: an aunt, a family friend, a religious leader, or simply someone who knows many families and enjoys making introductions. They do not charge a fee. Their value comes from years of relationships and good judgment, not from being paid. This informal role is the oldest and most common form of matchmaking, and it still does much of the actual introducing in many communities today.
 
 ### Panosia Connect's Connector: The Modern, Digital Version
 
@@ -63,7 +63,7 @@ The Connector role is not just a label. A few specific mechanics back it up.
 - **Building a Managed Profile.** Some people a Connector wants to help are not ready to build a profile themselves, for example an older relative who is unfamiliar with apps. For that, a verified Connector can create a **Managed Profile**: filling in the person's details, uploading their photos, and submitting it for the same verification review a self-managed profile goes through. The profile carries a visible "Managed" badge, and interested members contact the Connector directly rather than the person the profile represents.
 - **Earning recognition over time.** As a Connector makes more introductions, Panosia Connect recognizes it directly. Referring 10 people earns the title Regional Connector. Referring 50 earns Community Leader. Both appear as a badge on the Connector's own profile.
 
-Being a Connector, adding a reference, and sharing a profile are all free and do not require identity verification. Before a Connector can message someone, use **Discover** (Panosia Connect's tool for browsing Candidates), search for other members, or request access to someone's private profile details, they do need to complete [Level 1 ID Verification](https://connect.panosia.com/posts/self-service-identity-verification-feature-launch) first, a quick identity check that confirms they are a real person, not someone else's role.
+Being a Connector, adding a reference, and sharing a profile are all free and do not require identity verification. Before a Connector can message someone, use **Discover** (Panosia Connect's tool for browsing Candidates), search for other members, or request access to someone's private profile details, they do need to complete [Level 1 ID Verification](https://connect.panosia.com/posts/self-service-identity-verification-feature-launch) first, a quick identity check meant to reduce the risk of fake accounts, not a guarantee that everyone on the platform is who they claim to be.
 
 ## Do You Need a Matchmaker?
 
@@ -85,7 +85,7 @@ Matchmaking is the practice of introducing people who might suit each other for 
 No. A dating app's "match" is usually generated automatically once two people show interest, often from a short profile and a photo. A matchmaker makes a judgment call based on more context, such as family, values, and background, not just a swipe.
 
 **Do I have to pay to be a matchmaker on Panosia Connect?**
-No. Being a Connector, Panosia Connect's term for this role, is free. There is no subscription or fee to introduce people, add references, or build a network. The only paid items on the platform are optional, one-time identity verification services.
+No. Being a Connector, Panosia Connect's term for this role, is free. There is no subscription or fee to introduce people, add references, or build a network. The only paid items on the platform are optional, one-time verification services.
 
 **What is the difference between a professional matchmaker and a Connector?**
 A professional matchmaker charges a fee and runs matchmaking as a structured business. A Connector on Panosia Connect introduces people based on an existing relationship and reputation, without charging for it. Both roles exist side by side; Panosia Connect does not require either one.
