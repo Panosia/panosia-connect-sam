@@ -15,10 +15,10 @@
 **Key Takeaways**
 
 * Living in Bangladesh, your family can already ask a neighbor, a relative, or an old family friend about someone before an introduction, so a matrimony site should add to that, not try to replace it.
-* Look for identity verification that catches what an in-person conversation can't, a fabricated name, a borrowed photo, an inflated education claim.
+* Look for identity verification that catches what an in-person conversation can't, a fabricated name or a borrowed photo, plus a separate, optional background check for claims like education and work history.
 * Look for privacy you control field by field, not one all-or-nothing setting, so you can share your city while keeping your phone number hidden until you trust someone.
 * Look for a way someone outside your immediate circle, a relative in another district, for example, can confirm or dispute a specific claimed relationship.
-* Panosia Connect is a free-to-join, no-subscription platform built around these needs, with field-level privacy, two-way ID verification, and a Family Tree that lets people vouch for specific claims.
+* Panosia Connect is a free-to-join, no-subscription platform built around these needs, with field-level privacy, identity verification for anyone you interact with, and a Family Tree that lets people confirm or dispute specific relationship claims.
 
 ## Why "Just Ask Around" Isn't the Whole Answer Anymore
 
@@ -44,9 +44,9 @@ A neighbor can tell you a family's general reputation. A neighbor usually can't 
 
 This is where identity verification earns its place. Panosia Connect's Level 1 ID Verification can be completed two ways: a guided self-service check, roughly two minutes from a phone, using a government ID and a selfie, or a live video call with a reviewer for documents the automated check can't handle. Neither path needs an office visit.
 
-Once a profile is approved, its first name, last name, date of birth, and gender lock in place and can no longer be edited. That is a concrete, specific detail worth knowing: a verified identity can't quietly drift after the fact, the way an unverified profile's details sometimes do. Verification also produces a downloadable report, visible only to the profile owner and to anyone they've separately granted access to.
+Once a profile is approved, its first name, last name, date of birth, and gender lock in place and can no longer be edited. That is a concrete, specific detail worth knowing: a verified identity can't quietly drift after the fact, the way an unverified profile's details sometimes do. Verification also produces a downloadable report, visible only to the profile owner and to anyone they've separately granted access to. Checking a claimed education or work history in more depth is a separate step, Panosia Connect's optional Level 2 Digital Background Check, not part of this base identity check.
 
-It is worth being honest about what this does and doesn't prove. Verification confirms someone is who their national ID says they are. It doesn't confirm their character, their intentions, or whether they'll make a good spouse, that judgment still belongs to Rumana and her family. What it does is remove one specific kind of risk her mother's network can't check from a distance: a fabricated identity.
+It is worth being honest about what this does and doesn't prove. Verification checks that a person's government ID matches the name and photo on their profile, which reduces the risk of a fabricated identity, though no verification process can guarantee against fraud completely. It doesn't confirm someone's character, their intentions, or whether they'll make a good spouse, that judgment still belongs to Rumana and her family.
 
 On Panosia Connect, this same [**Level 1 verification**](https://connect.panosia.com/posts/self-service-identity-verification-feature-launch) is also the gate before a Candidate can search, use Discover (the platform's network-browsing tool), request someone's private profile view, or message anyone. Creating, editing, and sharing your own profile stays free the whole time; verification is only required before you interact with someone else's.
 
@@ -84,7 +84,7 @@ Panosia Connect has no subscription tier at all. Creating a profile, using field
 
 Whatever platform you're weighing, these questions apply to any matrimony site or app, not just Panosia Connect:
 
-* Can identity verification catch a fabricated name, an old photo, or a false education claim, not just ask you to trust a badge?
+* Can identity verification catch a fabricated name or a borrowed photo, not just ask you to trust a badge, and is there a separate option to check claims like education or work history?
 * Can you set privacy field by field, so your phone number can stay hidden while your city stays visible?
 * Can someone outside your immediate family circle, a relative in another district, confirm or dispute a specific claimed relationship?
 * Is the core platform genuinely free, with any paid add-ons clearly optional and one-time, not a recurring fee to see basic details?
