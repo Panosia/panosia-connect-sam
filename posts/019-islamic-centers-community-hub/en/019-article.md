@@ -1,5 +1,5 @@
-**Meta Title**: How Islamic Centers Can Support Marriage Introductions
-**Meta Description**: Imams and community leaders are often the first person a family asks about introducing their son or daughter for marriage, but there is no formal way to do that fairly, safely, or without personal risk to the person helping. Here are three low-commitment ways to help, without running a matchmaking program yourself.
+**Meta Title**: How Islamic Centers and Community Hubs Can Support Trusted Introductions
+**Meta Description**: Imams and community leaders are often the first person a family asks to help arrange a marriage introduction for their son or daughter, but there is no formal, fair, or low-risk way to do that today. Here are three low-commitment ways to help instead.
 **Primary Keyword**: how Islamic centers can support marriage introductions
 **Secondary Keywords**: mosque matchmaking program, Islamic center matrimonial services, community leader matchmaking, Connector referral tiers
 **URL Slug**: islamic-centers-marriage-introductions
@@ -45,7 +45,7 @@ These three options require no new infrastructure and no institutional commitmen
 
 On Panosia Connect, a **Candidate** is someone searching for their own life partner. A **Connector** is anyone helping someone else search instead, whether that is a parent, a sibling, a friend, or a community leader. Connector is not a separate product or a paid tier. It is simply a mode on the same kind of personal account, and someone can switch between Candidate and Connector as their own life changes, for example after they get married themselves.
 
-As a Connector, you can build your own network on the platform the same way you already do informally: by knowing people, keeping track of who is looking, and making introductions when you see a good fit. The difference is that the introduction now happens through a platform built for it, with each person's identity and stated intentions on record, instead of through a phone call that leaves no trail if something needs to be revisited later.
+As a Connector, you can build your own network on the platform much the way community leaders already do this informally: by knowing people, keeping track of who is looking, and making introductions when you see a good fit. The difference is that the introduction now happens through a platform built for it, with each person's identity and stated intentions on record, instead of through a phone call that leaves no trail if something needs to be revisited later.
 
 This works especially well for the exact situation Imam Bilal is in. He does not need to build a spreadsheet of eligible congregants. He needs a place to point people, and a way to stay involved without carrying it all in his head.
 
@@ -53,13 +53,13 @@ This works especially well for the exact situation Imam Bilal is in. He does not
 
 Panosia Connect has a References mechanic: a member can list a trusted person, someone who knows them personally, as a reference other members may see when deciding whether to trust that profile. This works in one direction only. A congregant lists you because they know you and trust your judgment about their character. You do not add yourself as anyone's reference.
 
-For a community leader, this is often the most natural way to be involved. A young man in your congregation who is ready to get serious about marriage can list you by name, the same way he might already ask you for a character reference for a job or a visa application. You decide how much you are comfortable sharing if someone asks, the same judgment call you already make when a family calls to ask about someone informally. The difference is that it now happens through a system built for exactly this purpose, not an unrecorded phone conversation.
+For a community leader, this is often the most natural way to be involved. A young man in your congregation who is ready to get serious about marriage can list you by name, the same way he might already ask you for a character reference for a job or a visa application. You decide how much you are comfortable sharing if someone asks, the same judgment call community leaders already make when a family calls to ask about someone informally. The difference is that it now happens through a system built for exactly this purpose, not an unrecorded phone conversation.
 
 ### 3. Recommend the Platform Instead of Running Your Own Program
 
-The lowest-commitment option is also the simplest: mention Panosia Connect to congregants who ask you for help, the same way you might currently recommend a trusted family friend or point them toward a matrimonial event. This gives families somewhere to go that has real structure behind it, including identity verification and privacy controls, without asking you to build that structure yourself.
+The lowest-commitment option is also the simplest: mention Panosia Connect to congregants who ask for help, the same way many community leaders already recommend a trusted family friend or point someone toward a matrimonial event. This gives families somewhere to go that has real structure behind it, including identity verification and privacy controls, without asking you to build that structure yourself.
 
-Before someone can message another member, request access to someone's private profile details, or browse another member's network of connections, that member must complete **Level 1 ID Verification**: a real identity check done either through a guided, roughly two-minute self-service flow from a phone, or a video call with a live reviewer for anyone who prefers to speak with a person. This is a genuine gate, not a formality, and it is one reason recommending the platform can feel like a safer starting point than an informal introduction with no verification step at all.
+Before someone can search, use Discover (the platform's browse and search feature), message another member, request access to someone's private profile details, or browse another member's network of connections, that member must complete [**Level 1 ID Verification**](https://connect.panosia.com/posts/self-service-identity-verification-feature-launch): a real identity check done either through a guided, roughly two-minute self-service flow from a phone, or a video call with a live reviewer for anyone who prefers to speak with a person. This is a genuine gate, not a formality, and it is one reason recommending the platform can feel like a safer starting point than an informal introduction with no verification step at all.
 
 ## Recognition for Sustained Community Involvement
 
@@ -77,7 +77,7 @@ Identity verification also reduces risk without eliminating it entirely. A verif
 
 ## Getting Started
 
-If you want to try the Connector role yourself, the first step is the same as it is for any new member: [creating a free account and building a trustworthy profile](https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered). From there, you can start building your own network the way you already do informally, just with a record and structure behind it. For a fuller look at how the Connector role works day to day, see [What Is a Connector, and Why It Matters](https://connect.panosia.com/posts/what-is-a-connector-and-why-it-matters).
+If you want to try the Connector role yourself, the first step is the same as it is for any new member: [creating a free account and building a trustworthy profile](https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered). From there, you can start building your own network much the way community leaders already do, just with a record and structure behind it. For a fuller look at how the Connector role works day to day, see [What Is a Connector, and Why It Matters](https://connect.panosia.com/posts/what-is-a-connector-and-why-it-matters).
 
 ## FAQ
 
