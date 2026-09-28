@@ -16,11 +16,11 @@
 * Biodata Import reads the file with AI and pre-fills your profile fields, marking each one with a confidence indicator so you know what to check before you accept it.
 * A LinkedIn profile is built for job recruiters, not marriage. It says nothing about religion, marital status, or family background, and the profile summary usually needs a rewrite for a partner search.
 * Every field the import fills in, whether it comes from LinkedIn or anywhere else, keeps its own Public, Privately Shared, or Hidden privacy setting, the same as anything you type by hand.
-* Creating a profile and importing into it are both free. Neither step needs identity verification, though verification does become necessary once you want to search, message, or request someone's private details.
+* Creating a profile and importing into it are both free. Neither step needs identity verification, though verification does become necessary once you want to search, use Discover, message, or request someone's private details.
 
 Meet Elena, a hypothetical Candidate used here to illustrate a common situation. She has kept a detailed LinkedIn profile for ten years: her education, every job she has held, a short professional summary. When she finally opens Panosia Connect to create a marriage profile, the empty form stops her. Why type all of that out again?
 
-She doesn't have to. Panosia Connect can pull most of that information straight from her LinkedIn profile in a couple of minutes, through Biodata Import, a free tool that reads an existing document and fills in profile fields for you. This article explains exactly how that works, what carries over cleanly, and what a LinkedIn profile was never built to capture, so a Candidate (Panosia Connect's term for anyone building a profile to search for a life partner) knows what still needs their own words.
+She doesn't have to. Panosia Connect can pull most of that information straight from her LinkedIn profile in far less time than retyping it, through Biodata Import, a free tool that reads an existing document and fills in profile fields for you. This article explains exactly how that works, what carries over cleanly, and what a LinkedIn profile was never built to capture, so a Candidate (Panosia Connect's term for anyone building a profile to search for a life partner) knows what still needs their own words.
 
 ## There's No "Connect with LinkedIn" Button, and That's Fine
 
@@ -36,7 +36,7 @@ Getting your LinkedIn details into a Panosia Connect profile takes two steps.
 
 **Step 1: Export from LinkedIn.** On your own LinkedIn profile page, open the profile menu and choose "Save to PDF." This downloads your profile as a PDF file to your device. If you'd rather not save a file, copying the visible text from your profile page works just as well.
 
-**Step 2: Upload to Biodata Import.** On Panosia Connect, open Biodata Import (available during profile setup, or later from your profile edit screen) and upload that PDF, or paste the copied text. The system reads the document with AI and pre-fills your profile fields: things like your education history, job titles, employer names, location, and a first draft of an "About Me" section drawn from your summary. Each field it fills in carries a confidence indicator, a simple signal for how sure the system is about that particular value, so you know which fields deserve a closer look.
+**Step 2: Upload to Biodata Import.** On Panosia Connect, open Biodata Import and upload that PDF, or paste the copied text. The system reads the document with AI and pre-fills your profile fields: things like your education history, job titles, employer names, location, and a first draft of an "About Me" section drawn from your summary. Each field it fills in carries a confidence indicator, a simple signal for how sure the system is about that particular value, so you know which fields deserve a closer look.
 
 ![Importing a LinkedIn profile into Panosia Connect, with fields pulled from LinkedIn ready for review](https://connect.panosia.com/assets/profile-import-linked-in-CC_biyF9.webp)
 
@@ -44,7 +44,7 @@ Nothing goes live automatically. Every imported field waits for you to review it
 
 ## What Transfers Well, and What LinkedIn Never Asked You
 
-A career profile and a marriage profile are built for different readers, so it helps to know which parts of a LinkedIn import genuinely save you work, and which parts need your own attention afterward.
+A career profile and a marriage profile are built for different readers, so it helps to know which parts of a LinkedIn import typically save you work, and which parts need your own attention afterward.
 
 **Transfers well:**
 
@@ -68,7 +68,7 @@ Importing a field from LinkedIn doesn't change how private that field is on Pano
 
 This matters because LinkedIn itself is a mostly public platform. Elena's job title and employer are visible to anyone on LinkedIn, but once imported, nothing stops her from setting her employer field to Privately Shared on Panosia Connect while keeping her education Public. A dedicated Privacy Settings screen lets her review every section at once and apply a setting to several fields in one action, rather than adjusting each one individually.
 
-It's also worth knowing what creating and importing a profile does not require: no identity verification of any kind. That stays true whether you build your profile by hand or import it. Verification only becomes necessary once you want to interact with other members, search for candidates, use Discover (Panosia Connect's browsing and matching area), request someone's private details, or send a message. A quick identity check, done from your phone in a couple of minutes, covers that step when you're ready for it.
+It's also worth knowing what creating and importing a profile does not require: no identity verification of any kind. That stays true whether you build your profile by hand or import it. Verification only becomes necessary once you want to interact with other members, search for candidates, use Discover (Panosia Connect's browsing and matching area), request someone's private details, or send a message. Level 1 ID Verification, a quick identity check done from your phone in a couple of minutes, covers that step when you're ready for it.
 
 ## Frequently Asked Questions
 
@@ -85,7 +85,7 @@ No. Creating a profile and importing biodata are both free, with no verification
 Every imported field carries a confidence indicator, and nothing is saved to your profile until you review and accept it. Treat any low-confidence field as a prompt to double-check that value before approving it.
 
 **Can I import from a document besides LinkedIn?**
-Yes. Biodata Import works with any biodata document: a PDF, a Word file, or even a photo of a printed or handwritten biodata page. LinkedIn is simply one convenient source among them.
+Yes. Biodata Import works with any biodata document: a PDF, a Word file, or even a photo of a paper biodata page. LinkedIn is simply one convenient source among them.
 
 ## Related Posts
 
