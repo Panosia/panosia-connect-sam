@@ -1,5 +1,5 @@
 **Meta Title**: How to Import Your Profile from LinkedIn (and What Panosia Connect Does With It)
-**Meta Description**: Starting a matrimony profile from zero is the hardest part, and if you already keep a LinkedIn profile, you don't need to retype it. Here's the real two-step way to reuse it, and what still needs your own words.
+**Meta Description**: Starting a matrimony profile from zero is the hardest part, and a LinkedIn profile you already keep doesn't have to go to waste, since Biodata Import can turn it into a biodata in two simple steps. Here's how, and what still needs your own words.
 **Primary Keyword**: create a biodata from LinkedIn profile
 **Secondary Keywords**: import LinkedIn profile to Panosia Connect, LinkedIn profile to matrimony profile, biodata import from LinkedIn PDF, matrimony profile from LinkedIn
 **URL Slug**: import-linkedin-profile-panosia-connect
@@ -20,7 +20,7 @@
 
 Meet Elena, a hypothetical Candidate used here to illustrate a common situation. She has kept a detailed LinkedIn profile for ten years: her education, every job she has held, a short professional summary. When she finally opens Panosia Connect to create a marriage profile, the empty form stops her. Why type all of that out again?
 
-She doesn't have to. Panosia Connect can pull most of that information straight from her LinkedIn profile in far less time than retyping it, through Biodata Import, a free tool that reads an existing document and fills in profile fields for you. This article explains exactly how that works, what carries over cleanly, and what a LinkedIn profile was never built to capture, so a Candidate (Panosia Connect's term for anyone building a profile to search for a life partner) knows what still needs their own words.
+She doesn't have to. Biodata Import, a free tool on [Panosia Connect](https://connect.panosia.com/posts/getting-started-on-panosia-connect-build-trust-and-get-discovered), can turn her LinkedIn profile into a biodata in far less time than retyping it. A Candidate, Panosia Connect's term for anyone building a profile to search for a life partner, still has real work left afterward: a LinkedIn profile was never built to capture everything a marriage profile needs.
 
 ## There's No "Connect with LinkedIn" Button, and That's Fine
 
@@ -30,7 +30,7 @@ The real path uses a document, not a login: you export your LinkedIn profile you
 
 This matters for one practical reason: import is a one-time read of the file you upload, not a live connection. If Elena updates her job title on LinkedIn next year, Panosia Connect won't know about it. She would need to export a fresh copy and import it again, or simply edit that one field by hand.
 
-## The Two-Step Flow: From LinkedIn to a Panosia Connect Profile
+## The Two-Step Flow: Turning a LinkedIn Profile Into a Biodata
 
 Getting your LinkedIn details into a Panosia Connect profile takes two steps.
 
@@ -60,7 +60,7 @@ A career profile and a marriage profile are built for different readers, so it h
 * Your "About Me," rewritten in your own voice. A summary written to impress a hiring manager reads strangely to someone evaluating you as a life partner; even the imported draft is a starting point, not a finished paragraph.
 * Your photos. A LinkedIn headshot is fine for work, but your Panosia Connect profile photo, cover photo, and gallery are separate uploads worth choosing on their own terms.
 
-Think of the import as clearing the first hurdle, the blank page, rather than finishing the job. Elena still spends fifteen minutes afterward writing an honest About Me and filling in her family background, but she never has to type her degree and job history from scratch again.
+Think of the import as clearing the first hurdle, the blank page, rather than finishing the job. Elena still spends some time afterward writing an honest About Me and filling in her family background, but she never has to type her degree and job history from scratch again.
 
 ## Privacy Still Applies to Every Imported Field
 
@@ -68,7 +68,7 @@ Importing a field from LinkedIn doesn't change how private that field is on Pano
 
 This matters because LinkedIn itself is a mostly public platform. Elena's job title and employer are visible to anyone on LinkedIn, but once imported, nothing stops her from setting her employer field to Privately Shared on Panosia Connect while keeping her education Public. A dedicated Privacy Settings screen lets her review every section at once and apply a setting to several fields in one action, rather than adjusting each one individually.
 
-It's also worth knowing what creating and importing a profile does not require: no identity verification of any kind. That stays true whether you build your profile by hand or import it. Verification only becomes necessary once you want to interact with other members, search for candidates, use Discover (Panosia Connect's browsing and matching area), request someone's private details, or send a message. Level 1 ID Verification, a quick identity check done from your phone in a couple of minutes, covers that step when you're ready for it.
+It's also worth knowing what creating and importing a profile does not require: no identity verification of any kind. That stays true whether you build your profile by hand or import it. Verification only becomes necessary once you want to interact with other members, search for candidates, use Discover (Panosia Connect's browsing and matching area), request someone's private details, or send a message. [Level 1 ID Verification](https://connect.panosia.com/posts/self-service-identity-verification-feature-launch), a quick identity check done from your phone in a couple of minutes, covers that step when you're ready for it.
 
 ## Frequently Asked Questions
 
