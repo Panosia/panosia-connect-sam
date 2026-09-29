@@ -14,7 +14,7 @@
 
 - No subscription, ever: the only costs on Panosia Connect are optional, one-time verification services (Level 1 ID Verification, plus an optional Level 2 Background Check), not a monthly fee to browse or message.
 - That one Level 1 ID Verification step also unlocks searching, Discover (the platform's network-browsing tool), messaging, and private access requests. It reduces the risk of fake profiles, but it cannot guarantee anyone's character.
-- Family can take part as a Connector, Panosia Connect's term for anyone helping someone else search, or through a Managed Profile, without ever taking over your own account.
+- Family can take part as a Connector, Panosia Connect's term for anyone helping someone else search, or through a Managed Profile (a full profile a verified family member creates and manages on someone else's behalf), without ever taking over your own account.
 - Privacy works field by field and photo by photo (Public, Privately Shared, or Hidden), and any access you grant someone can be revoked at any time.
 - Discovery is built around real connections and a transparent compatibility score, not an anonymous swipe feed.
 
@@ -26,7 +26,7 @@ Panosia Connect, a matrimony platform built for people seriously seeking marriag
 
 Anyone can write an appealing bio and upload a flattering photo. Nothing about a profile by itself proves the person behind it is who they claim to be.
 
-Panosia Connect's answer is Level 1 ID Verification, done one of two ways: a guided, roughly two-minute self-service check from a phone (a photo ID plus a selfie for a face match), or a live video call with a reviewer for documents the automated check can't handle. Once approved, the person's first name, last name, date of birth, and gender lock in place and can no longer be edited, so a verified identity can't quietly drift over time. Verification also produces a downloadable report, visible to the profile owner and to anyone they've separately granted access to.
+Panosia Connect's answer is Level 1 ID Verification, done one of two ways: a [guided, roughly two-minute self-service check](https://connect.panosia.com/posts/self-service-identity-verification-feature-launch) from a phone (a photo ID plus a selfie for a face match), or a live video call with a reviewer for documents the automated check can't handle. Once approved, the person's first name, last name, date of birth, and gender lock in place and can no longer be edited, so a verified identity can't quietly drift over time. Verification also produces a downloadable report, visible to the profile owner and to anyone they've separately granted access to.
 
 The honest limit: verification reduces the risk of a fake or fraudulent profile. It cannot guarantee someone's character, intentions, or honesty about anything beyond the checked identity fields.
 
@@ -34,13 +34,13 @@ The honest limit: verification reduces the risk of a fake or fraudulent profile.
 
 Many matrimony sites charge a recurring monthly or annual fee before a Candidate can do much of anything, browsing included.
 
-Panosia Connect has no subscription at all. Creating a profile, importing or exporting a biodata (a formatted document listing personal, family, and background details, used widely in matrimony searches), and setting privacy controls are all free forever. The only paid products are optional verification services, Level 1 ID Verification and an optional Level 2 Background Check, each a one-time, pay-per-use fee with a 30-day money-back guarantee, not a recurring charge. Completing Level 1 is also what unlocks searching, using Discover, messaging, and requesting someone's private access, so it's worth doing once rather than something billed to a Candidate every month just to keep looking.
+Panosia Connect has no subscription at all. Creating a profile, importing or exporting a biodata (a formatted document listing personal, family, and background details, used widely in matrimony searches), and setting privacy controls are all free forever. The only paid products are optional verification services: Level 1 ID Verification and an optional Level 2 Background Check. Each is a one-time, pay-per-use fee with a 30-day money-back guarantee, not a recurring charge. Completing Level 1 is also what unlocks searching, using Discover, messaging, and requesting someone's private access, so it's worth doing once rather than something billed to a Candidate every month just to keep looking.
 
 ## 3. "My Family Wants to Be Part of This, but There's No Good Way to Include Them Without Them Taking Over"
 
 Family involvement in a matrimony search usually means one of two extremes: shutting parents out entirely, or handing them the account and losing control of the process.
 
-Panosia Connect's middle ground is the Connector role: a toggle on the same kind of account, not a separate tier or a takeover. A parent, sibling, friend, or community member can build their own network, add references, and facilitate introductions from their own profile, alongside the Candidate's, not instead of it. For a relative who isn't ready to manage a profile themselves at all, Managed Profiles let a verified family member build and run a full profile on that person's behalf (more on this below).
+Panosia Connect's middle ground is the [Connector role](https://connect.panosia.com/posts/what-is-a-connector-and-why-it-matters): a toggle on the same kind of account, not a separate tier or a takeover. A parent, sibling, friend, or community member can build their own network, add references, and facilitate introductions from their own profile, alongside the Candidate's, not instead of it. For a relative who isn't ready to manage a profile themselves at all, Managed Profiles let a verified family member build and run a full profile on that person's behalf (more on this below).
 
 ## 4. "I Don't Want Every Stranger Who Finds My Profile to See Everything About Me"
 
@@ -64,7 +64,7 @@ Discover is built around networks instead of an anonymous feed: a Candidate's ow
 
 A claimed family relationship is easy to write on a profile and hard for a stranger to verify from the outside.
 
-Panosia Connect's Family Tree lets a member tag other platform members as parents, spouse, children, siblings, extended family, or close social ties like a friend or colleague. What makes it more than a label is community voting: anyone with private access to that profile can upvote or downvote a specific claimed relationship, shown as a running score next to the tag. A profile owner can't vote on their own tree; they get management controls instead, so the people certifying a relationship are never the same person claiming it.
+Panosia Connect's Family Tree lets a member tag other platform members as parents, spouse, children, siblings, extended family, or close social ties like a friend or colleague. Community voting makes it more than a label: anyone with private access to that profile can upvote or downvote a specific claimed relationship, shown as a running score next to the tag. A profile owner can't vote on their own tree. They get management controls instead, so the people certifying a relationship are never the same person claiming it.
 
 ## 8. "I Already Have a Biodata File From Somewhere Else and Don't Want to Retype Everything"
 
@@ -76,18 +76,18 @@ Biodata Import reads an existing biodata, whether it's a PDF, a Word document, o
 
 An open inbox is an easy way for anyone, verified or not, to reach a Candidate directly.
 
-On Panosia Connect, both messaging paths, real-time Chat and one-off Email, are gated on the sender holding approved Level 1 ID Verification, so a message always comes from someone whose identity has already been checked, though that check confirms identity, not character. Every chat thread carries an on-screen safety reminder and a built-in Report button. If the person being messaged isn't verified yet, Chat still works: it offers a one-tap nudge encouraging them to get verified, instead of a dead end.
+On Panosia Connect, both messaging paths, [real-time Chat](https://connect.panosia.com/posts/app-chat-messaging-feature) and one-off Email, are gated on the sender holding approved Level 1 ID Verification. That means a message always comes from someone whose identity has already been checked, though that check confirms identity, not character. Every chat thread carries an on-screen safety reminder and a built-in Report button. If the person being messaged isn't verified yet, Chat still works: it offers a one-tap nudge encouraging them to get verified, instead of a dead end.
 
 ## 10. "My Parent or Older Relative Isn't Ready to Manage a Profile Themselves, but Still Wants to Be Found"
 
 Not everyone searching for a life partner is comfortable creating an online profile, filling in every field, or uploading their own photos, especially an older relative less used to doing things online.
 
-Managed Profiles solve exactly this: a verified family member (parent, sibling, relative, or trusted Connector) creates and fully manages a complete profile on that person's behalf, filling in details, uploading photos, and importing a biodata, then submits it through the same verification review queue as any self-managed profile. The profile carries a visible "Managed" badge and a link naming the guardian, and anyone interested contacts the guardian directly rather than the candidate. Once approved, it stays visible in Discover for six months, after which it expires out of view (the data stays saved and can be resubmitted).
+Managed Profiles solve exactly this: a verified family member (parent, sibling, relative, or trusted Connector) creates and fully manages a complete profile on that person's behalf. They fill in the details, upload the photos, and import a biodata, then submit it through the same verification review queue as any self-managed profile. The profile carries a visible "Managed" badge and a link naming the guardian. Anyone interested contacts the guardian directly, rather than the Candidate. Once approved, it stays visible in Discover for six months, after which it expires out of view (the data stays saved and can be resubmitted).
 
 ## FAQ
 
 **Is Panosia Connect really free to use?**
-Yes, for the core platform. Creating a profile, importing or exporting a biodata, and setting every privacy control are free forever, with no subscription at any point. The only paid products are optional, one-time verification services (Level 1 ID Verification, plus an optional Level 2 Background Check); completing Level 1 is what unlocks searching, Discover, messaging, and private access requests.
+Yes, for the core platform. Creating a profile, importing or exporting a biodata, and setting every privacy control are free forever, with no subscription at any point. The only paid products are optional, one-time verification services: Level 1 ID Verification and an optional Level 2 Background Check.
 
 **Do I have to complete ID Verification before I can do anything?**
 Not to build or share your own profile; that stays free and open the whole time. Level 1 ID Verification is required before you can search for others, use Discover, message someone, or request another Candidate's private access.
