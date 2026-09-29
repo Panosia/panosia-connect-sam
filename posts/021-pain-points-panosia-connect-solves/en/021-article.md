@@ -12,7 +12,7 @@
 
 **Key Takeaways**
 
-- No subscription, ever: the only cost on Panosia Connect is an optional, one-time ID Verification step, not a monthly fee to browse or message.
+- No subscription, ever: the only costs on Panosia Connect are optional, one-time verification services (Level 1 ID Verification, plus an optional Level 2 Background Check), not a monthly fee to browse or message.
 - That one Level 1 ID Verification step also unlocks searching, Discover (the platform's network-browsing tool), messaging, and private access requests. It reduces the risk of fake profiles, but it cannot guarantee anyone's character.
 - Family can take part as a Connector, Panosia Connect's term for anyone helping someone else search, or through a Managed Profile, without ever taking over your own account.
 - Privacy works field by field and photo by photo (Public, Privately Shared, or Hidden), and any access you grant someone can be revoked at any time.
@@ -34,7 +34,7 @@ The honest limit: verification reduces the risk of a fake or fraudulent profile.
 
 Many matrimony sites charge a recurring monthly or annual fee before a Candidate can do much of anything, browsing included.
 
-Panosia Connect has no subscription at all. Creating a profile, importing or exporting a biodata (a formatted document listing personal, family, and background details, used widely in matrimony searches), and setting privacy controls are all free forever. The one real cost is Level 1 ID Verification itself: a one-time, pay-per-use fee with a 30-day money-back guarantee, not a recurring charge. That same step is also what unlocks searching, using Discover, messaging, and requesting someone's private access, so it's worth doing once rather than something billed to a Candidate every month just to keep looking.
+Panosia Connect has no subscription at all. Creating a profile, importing or exporting a biodata (a formatted document listing personal, family, and background details, used widely in matrimony searches), and setting privacy controls are all free forever. The only paid products are optional verification services, Level 1 ID Verification and an optional Level 2 Background Check, each a one-time, pay-per-use fee with a 30-day money-back guarantee, not a recurring charge. Completing Level 1 is also what unlocks searching, using Discover, messaging, and requesting someone's private access, so it's worth doing once rather than something billed to a Candidate every month just to keep looking.
 
 ## 3. "My Family Wants to Be Part of This, but There's No Good Way to Include Them Without Them Taking Over"
 
@@ -76,7 +76,7 @@ Biodata Import reads an existing biodata, whether it's a PDF, a Word document, o
 
 An open inbox is an easy way for anyone, verified or not, to reach a Candidate directly.
 
-On Panosia Connect, both messaging paths, real-time Chat and one-off Email, are gated on the sender holding approved Level 1 ID Verification, so a message always comes from someone whose identity has already been checked. Every chat thread carries an on-screen safety reminder and a built-in Report button. If the person being messaged isn't verified yet, Chat still works: it offers a one-tap nudge encouraging them to get verified, instead of a dead end.
+On Panosia Connect, both messaging paths, real-time Chat and one-off Email, are gated on the sender holding approved Level 1 ID Verification, so a message always comes from someone whose identity has already been checked, though that check confirms identity, not character. Every chat thread carries an on-screen safety reminder and a built-in Report button. If the person being messaged isn't verified yet, Chat still works: it offers a one-tap nudge encouraging them to get verified, instead of a dead end.
 
 ## 10. "My Parent or Older Relative Isn't Ready to Manage a Profile Themselves, but Still Wants to Be Found"
 
@@ -87,7 +87,7 @@ Managed Profiles solve exactly this: a verified family member (parent, sibling, 
 ## FAQ
 
 **Is Panosia Connect really free to use?**
-Yes, for the core platform. Creating a profile, importing or exporting a biodata, and setting every privacy control are free forever, with no subscription at any point. The only paid step is optional, one-time ID Verification, which also happens to be what unlocks searching, Discover, messaging, and private access requests.
+Yes, for the core platform. Creating a profile, importing or exporting a biodata, and setting every privacy control are free forever, with no subscription at any point. The only paid products are optional, one-time verification services (Level 1 ID Verification, plus an optional Level 2 Background Check); completing Level 1 is what unlocks searching, Discover, messaging, and private access requests.
 
 **Do I have to complete ID Verification before I can do anything?**
 Not to build or share your own profile; that stays free and open the whole time. Level 1 ID Verification is required before you can search for others, use Discover, message someone, or request another Candidate's private access.
