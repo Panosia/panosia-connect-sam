@@ -13,8 +13,8 @@
 **Key Takeaways**
 
 - No subscription, ever: the only cost on Panosia Connect is an optional, one-time ID Verification step, not a monthly fee to browse or message.
-- That one Level 1 ID Verification step also unlocks searching, Discover, messaging, and private access requests. It reduces the risk of fake profiles, but it cannot guarantee anyone's character.
-- Family can take part as a Connector or through a Managed Profile, without ever taking over your own account.
+- That one Level 1 ID Verification step also unlocks searching, Discover (the platform's network-browsing tool), messaging, and private access requests. It reduces the risk of fake profiles, but it cannot guarantee anyone's character.
+- Family can take part as a Connector, Panosia Connect's term for anyone helping someone else search, or through a Managed Profile, without ever taking over your own account.
 - Privacy works field by field and photo by photo (Public, Privately Shared, or Hidden), and any access you grant someone can be revoked at any time.
 - Discovery is built around real connections and a transparent compatibility score, not an anonymous swipe feed.
 
@@ -40,7 +40,7 @@ Panosia Connect has no subscription at all. Creating a profile, importing or exp
 
 Family involvement in a matrimony search usually means one of two extremes: shutting parents out entirely, or handing them the account and losing control of the process.
 
-Panosia Connect's middle ground is the Connector role, its term for anyone helping someone else search rather than searching for themselves: a parent, sibling, friend, or community member. It's a toggle on the same kind of account, not a separate tier or a takeover; a Connector builds their own network, adds references, and facilitates introductions from their own profile, alongside the Candidate's, not instead of it. For a relative who isn't ready to manage a profile themselves at all, Managed Profiles let a verified family member build and run a full profile on that person's behalf (more on this below).
+Panosia Connect's middle ground is the Connector role: a toggle on the same kind of account, not a separate tier or a takeover. A parent, sibling, friend, or community member can build their own network, add references, and facilitate introductions from their own profile, alongside the Candidate's, not instead of it. For a relative who isn't ready to manage a profile themselves at all, Managed Profiles let a verified family member build and run a full profile on that person's behalf (more on this below).
 
 ## 4. "I Don't Want Every Stranger Who Finds My Profile to See Everything About Me"
 
@@ -58,7 +58,7 @@ On Panosia Connect, a Private Access Request is how someone asks to see a Candid
 
 Casual dating apps are built for an endless public feed and quick, low-stakes decisions. That model feels wrong for a search meant to end in marriage.
 
-Panosia Connect's Discover tool, its name for finding and browsing other members, is built around networks instead of an anonymous feed: a Candidate's own Connections, Shortlist (profiles marked as serious prospects), Referrals, and Followers, plus the ability to browse one hop into someone else's network to see who else has connected with them. Profile cards also show a compatibility score, a straightforward 0-100 percentage calculated from a fixed formula (age closeness, same city or country, education closeness, and religion match). It's a calculator, not AI matchmaking, and it's meant as one data point among many, not a verdict on whether two people should marry.
+Discover is built around networks instead of an anonymous feed: a Candidate's own Connections, Shortlist (profiles marked as serious prospects), Referrals, and Followers, plus the ability to browse one hop into someone else's network to see who else has connected with them. Profile cards also show a compatibility score, a straightforward 0-100 percentage calculated from a fixed formula (age closeness, same city or country, education closeness, and religion match). It's a calculator, not AI matchmaking, and it's meant as one data point among many, not a verdict on whether two people should marry.
 
 ## 7. "Anyone Can Claim to Be Someone's Brother or Cousin, and There's No Way to Check"
 
