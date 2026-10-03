@@ -40,7 +40,7 @@ Marisol's first search had stayed on her default view, which only showed her own
 
 ## Grow the Network Around You
 
-Every profile card on Panosia Connect has a Network button. Clicking it shows who that person has connected with, shortlisted, or been followed by, the same three-way view they would see of their own profile. This is a real, honest mechanic: it lets you see one hop of someone else's trusted circle at a time. It is not an automated friend-of-friend engine, so the more people in your own circle who join, the more there is to browse this way.
+Every profile card on Panosia Connect has a Network button. Clicking it shows who that person has connected with, shortlisted, or been followed by, the same three-way view they would see of their own profile. This is a real, honest mechanic: it lets you see one hop of someone else's trusted circle at a time. It is not an automated friend-of-friend engine, so the more people in your own circle who join, the more there is to browse this way. Like the rest of Discover, using the Network button needs your own Level 1 ID Verification first.
 
 That makes inviting people a genuinely useful step, not just a courtesy. A Connector is Panosia Connect's term for anyone helping someone else search instead of searching for themselves: a parent, sibling, friend, or community leader. Becoming a Connector is free, and it is simply a different mode on the same kind of account, not a separate paid tier. Each person who joins as a Connector brings their own connections into the shared network, which is exactly the kind of growth that turns a thin results list into a fuller one over time.
 
